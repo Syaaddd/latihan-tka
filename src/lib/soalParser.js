@@ -219,5 +219,6 @@ export function parseBerkasSoal(raw, slug) {
     soal,
     jumlah: soal.length,
     tanpaKunci,
+    meta,
   };
 }

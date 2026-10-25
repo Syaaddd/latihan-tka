@@ -1,33 +1,131 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Link, useParams, useSearchParams } from "react-router-dom";
 import { cariPaket } from "../lib/sets.js";
 import { simpanRiwayat } from "../lib/storage.js";
 import Markdown from "../components/Markdown.jsx";
 
-const OPTI_AKTIF =
-  "border-brand bg-brand-soft/60 dark:bg-slate-800";
-const OPTI_BENAR = "border-ok bg-green-50 dark:bg-green-950/40";
-const OPTI_SALAH = "border-bad bg-red-50 dark:bg-red-950/40";
-const OPTI_DIAM =
-  "border-slate-200 dark:border-slate-700 opacity-70";
+const LABEL = ["A", "B", "C", "D", "E", "F"];
+
+function acak(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function clamp(x, lo, hi) {
+  if (!Number.isFinite(x)) return lo;
+  return Math.min(Math.max(x, lo), hi);
+}
+
+function formatDetik(s) {
+  const m = Math.floor(s / 60);
+  const d = s % 60;
+  return `${String(m).padStart(2, "0")}:${String(d).padStart(2, "0")}`;
+}
 
 export default function QuizPage() {
   const { slug } = useParams();
   const [params] = useSearchParams();
-  const mode = params.get("mode") === "ujian" ? "ujian" : "latih";
   const paket = useMemo(() => cariPaket(slug), [slug]);
 
+  // Hanya soal berkunci yang masuk pool — biar nilai pasti terhitung.
+  const pool = useMemo(
+    () => (paket ? paket.soal.filter((s) => s.kunci) : []),
+    [paket],
+  );
+  const maks = pool.length;
+
+  const jumlah = maks
+    ? clamp(Number.parseInt(params.get("n"), 10) || maks, 1, maks)
+    : 0;
+  const menit = clamp(
+    Number.parseInt(params.get("t"), 10) || Number(paket?.meta?.waktu) || 30,
+    1,
+    600,
+  );
+
+  const [urutan, setUrutan] = useState(() => acak(pool).slice(0, jumlah));
+  const [jawaban, setJawaban] = useState(() => Array(jumlah).fill(null));
   const [idx, setIdx] = useState(0);
-  const [jawaban, setJawaban] = useState({});
+  const [sisa, setSisa] = useState(menit * 60);
   const [selesai, setSelesai] = useState(false);
 
-  if (!paket) {
+  // Hitung mundur: tick tiap detik; detik terakhir otomatis mengumpulkan.
+  useEffect(() => {
+    if (selesai || maks === 0 || sisa <= 0) return;
+    const id = setTimeout(() => {
+      if (sisa === 1) {
+        setSisa(0);
+        setSelesai(true);
+      } else {
+        setSisa((s) => s - 1);
+      }
+    }, 1000);
+    return () => clearTimeout(id);
+  }, [sisa, selesai, maks]);
+
+  const nilaiData = useMemo(() => {
+    if (!selesai) return null;
+    const benar = urutan.reduce(
+      (n, s, i) => n + (jawaban[i] === s.kunci ? 1 : 0),
+      0,
+    );
+    return {
+      benar,
+      total: urutan.length,
+      nilai: Math.round((benar / Math.max(1, urutan.length)) * 100),
+    };
+  }, [selesai, urutan, jawaban]);
+
+  // Riwayat disimpan sekali saat layar nilai muncul.
+  useEffect(() => {
+    if (selesai && nilaiData && urutan.length) {
+      simpanRiwayat({
+        slug,
+        judul: paket?.judul,
+        mode: "tryout",
+        jumlah: urutan.length,
+        waktu: menit,
+        benar: nilaiData.benar,
+        total: nilaiData.total,
+        nilai: nilaiData.nilai,
+        tanggal: new Date().toISOString(),
+      });
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selesai]);
+
+  function mulaiUlang() {
+    setUrutan(acak(pool).slice(0, jumlah));
+    setJawaban(Array(jumlah).fill(null));
+    setIdx(0);
+    setSisa(menit * 60);
+    setSelesai(false);
+    window.scrollTo({ top: 0 });
+  }
+
+  function selesaiManual() {
+    const kosong = jawaban.filter((j) => j === null).length;
+    if (
+      kosong > 0 &&
+      !window.confirm(
+        `Masih ada ${kosong} soal belum dijawab. Selesaikan sekarang?`,
+      )
+    )
+      return;
+    setSelesai(true);
+    window.scrollTo({ top: 0 });
+  }
+
+  if (!paket)
     return (
       <div className="rounded-xl border border-slate-200 bg-white p-8 text-center dark:border-slate-800 dark:bg-slate-900">
         <h1 className="text-lg font-bold">Paket tidak ditemukan</h1>
         <p className="mt-1 text-sm text-slate-500">
-          Slug <code>{slug}</code> tidak ada di folder{" "}
-          <code>content/soal/</code>.
+          Slug <code>{slug}</code> tidak ada di folder <code>content/soal/</code>.
         </p>
         <Link
           to="/"
@@ -37,83 +135,51 @@ export default function QuizPage() {
         </Link>
       </div>
     );
-  }
 
-  const total = paket.jumlah;
-  const soal = paket.soal[idx];
-  const terjawab = Object.keys(jawaban).length;
+  if (maks === 0)
+    return (
+      <div className="rounded-xl border border-slate-200 bg-white p-8 text-center dark:border-slate-800 dark:bg-slate-900">
+        <h1 className="text-lg font-bold">Paket ini belum punya kunci jawaban</h1>
+        <p className="mt-1 text-sm text-slate-500">
+          Nilai tidak bisa dihitung. Tambahkan baris <code>Kunci: B</code> per
+          soal atau daftar <code>Kunci Jawaban</code> di akhir berkas .md-nya.
+        </p>
+        <Link
+          to="/"
+          className="mt-4 inline-block rounded-lg bg-brand px-4 py-2 text-sm font-semibold text-white"
+        >
+          Kembali ke Beranda
+        </Link>
+      </div>
+    );
 
-  const benarSoal = (i) => {
-    const s = paket.soal[i];
-    return s.kunci && jawaban[i] === s.kunci;
-  };
-  const jumlahBenar = () =>
-    paket.soal.reduce((a, _s, i) => a + (benarSoal(i) ? 1 : 0), 0);
-
-  const pilih = (label) => {
-    if (mode === "latih" && jawaban[idx] !== undefined) return;
-    setJawaban({ ...jawaban, [idx]: label });
-  };
-
-  const finish = () => {
-    const benar = jumlahBenar();
-    simpanRiwayat({
-      slug: paket.slug,
-      judul: paket.judul,
-      mode,
-      benar,
-      total,
-      nilai: Math.round((benar / total) * 100),
-      tanggal: new Date().toISOString(),
-    });
-    setSelesai(true);
-    window.scrollTo({ top: 0 });
-  };
-
-  const cobaLagi = () => {
-    setJawaban({});
-    setIdx(0);
-    setSelesai(false);
-  };
-
-  const lanjut = () => {
-    if (idx + 1 >= total) {
-      finish();
-    } else {
-      setIdx(idx + 1);
-      window.scrollTo({ top: 0 });
-    }
-  };
-
-  const klikSelesai = () => {
-    if (terjawab < total) {
-      const sisa = total - terjawab;
-      if (!window.confirm(`Masih ada ${sisa} soal belum dijawab. Selesaikan sekarang?`))
-        return;
-    }
-    finish();
-  };
-
-  if (selesai) {
-    const benar = jumlahBenar();
-    const nilai = Math.round((benar / total) * 100);
+  if (selesai && nilaiData)
     return (
       <div className="space-y-6">
-        <div className="rounded-xl border border-slate-200 bg-white p-6 text-center dark:border-slate-800 dark:bg-slate-900">
-          <p className="text-sm text-slate-500">
-            {paket.judul} — {mode === "ujian" ? "Mode Ujian" : "Mode Latihan"}
+        {sisa === 0 && (
+          <p className="rounded-xl border border-bad/50 bg-red-50 px-4 py-2 text-center text-sm font-semibold text-red-700 dark:bg-red-950/40 dark:text-red-300">
+            ⏰ Waktu habis! Jawaban yang terakhir terpilih ikut terkumpul.
           </p>
-          <p className="mt-2 text-5xl font-extrabold text-brand">{nilai}</p>
-          <p className="mt-1 text-sm text-slate-500">
-            Benar {benar} dari {total} soal
+        )}
+        <div className="rounded-xl border border-slate-200 bg-white p-6 text-center dark:border-slate-800 dark:bg-slate-900 sm:p-8">
+          <p className="text-sm text-slate-500">{paket.judul}</p>
+          <p className="mt-3 text-6xl font-extrabold tracking-tight text-brand">
+            {nilaiData.nilai}%
           </p>
-          <div className="mt-4 flex flex-wrap justify-center gap-2">
+          <p className="mt-2 text-sm text-slate-500">
+            {nilaiData.benar} benar dari {nilaiData.total} soal · {menit} menit
+          </p>
+          <p className="mx-auto mt-4 max-w-sm text-xs text-slate-400">
+            Jawaban tidak ditampilkan di sini. Mulai sesi baru — soalnya otomatis
+            diacak ulang supaya kamu benar-benar paham, bukan hafal urutan.
+          </p>
+          <div className="mt-5 flex flex-wrap justify-center gap-2">
             <button
               type="button"
-              onClick={cobaLagi}
+              onClick={mulaiUlang}
               className="rounded-lg bg-brand px-4 py-2 text-sm font-semibold text-white hover:bg-brand-strong"
             >
-              Kerjakan Ulang
+              Coba Lagi (Diacak Ulang)
             </button>
             <Link
               to="/"
@@ -123,64 +189,12 @@ export default function QuizPage() {
             </Link>
           </div>
         </div>
-
-        <section className="space-y-3">
-          <h2 className="font-bold">Telaah Jawaban</h2>
-          {paket.soal.map((s, i) => {
-            const ok = benarSoal(i);
-            const belum = jawaban[i] === undefined;
-            return (
-              <article
-                key={s.nomor}
-                className={`rounded-xl border bg-white p-4 dark:bg-slate-900 ${
-                  ok
-                    ? "border-ok/60"
-                    : belum
-                      ? "border-slate-200 dark:border-slate-700"
-                      : "border-bad/60"
-                }`}
-              >
-                <div className="flex items-center justify-between gap-2 text-sm">
-                  <span className="font-bold">Soal {s.nomor}</span>
-                  <span
-                    className={`rounded-full px-2 py-0.5 text-xs font-semibold ${
-                      ok
-                        ? "bg-green-100 text-green-700 dark:bg-green-950 dark:text-green-400"
-                        : belum
-                          ? "bg-slate-100 text-slate-500 dark:bg-slate-800"
-                          : "bg-red-100 text-red-700 dark:bg-red-950 dark:text-red-400"
-                    }`}
-                  >
-                    {ok ? "Benar" : belum ? "Kosong" : "Salah"}
-                  </span>
-                </div>
-                <Markdown className="mt-2 text-[15px]">{s.teks}</Markdown>
-                <p className="mt-2 text-sm">
-                  Jawabanmu:{" "}
-                  <b className={ok ? "text-ok" : "text-bad"}>
-                    {belum ? "—" : jawaban[i]}
-                  </b>
-                  {" · Kunci: "}
-                  <b className="text-ok">{s.kunci || "belum ada"}</b>
-                </p>
-                {s.pembahasan && (
-                  <details className="mt-2 text-sm text-slate-600 dark:text-slate-400">
-                    <summary className="cursor-pointer font-semibold">
-                      Pembahasan
-                    </summary>
-                    <Markdown className="mt-1">{s.pembahasan}</Markdown>
-                  </details>
-                )}
-              </article>
-            );
-          })}
-        </section>
       </div>
     );
-  }
 
-  const terjawabSoal = jawaban[idx];
-  const sudahNilai = mode === "latih" && terjawabSoal !== undefined;
+  const soal = urutan[idx];
+  const terjawab = jawaban.filter((j) => j !== null).length;
+  const mepet = sisa <= 60;
 
   return (
     <div className="space-y-4">
@@ -190,8 +204,7 @@ export default function QuizPage() {
             {paket.judul}
           </h1>
           <p className="text-xs text-slate-500">
-            {mode === "ujian" ? "Mode Ujian — nilai di akhir" : "Mode Latihan"}{" "}
-            · {terjawab}/{total} terjawab
+            {jumlah} soal acak · kunci tidak ditampilkan · urutan beda tiap sesi
           </p>
         </div>
         <Link
@@ -202,109 +215,123 @@ export default function QuizPage() {
         </Link>
       </div>
 
-      <div
-        className="h-1.5 w-full overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800"
-        role="progressbar"
-        aria-valuenow={idx + 1}
-        aria-valuemin={1}
-        aria-valuemax={total}
-      >
+      {/* Bilah status: timer + progres */}
+      <div className="sticky top-[57px] z-10 flex items-center gap-3 rounded-xl border border-slate-200 bg-white/95 px-4 py-2.5 shadow-sm backdrop-blur dark:border-slate-800 dark:bg-slate-900/95">
+        <span
+          className={
+            "font-mono text-lg font-bold tabular-nums " +
+            (mepet
+              ? "animate-pulse text-bad"
+              : "text-slate-800 dark:text-slate-100")
+          }
+          aria-label="Sisa waktu"
+        >
+          ⏱ {formatDetik(sisa)}
+        </span>
         <div
-          className="h-full rounded-full bg-brand transition-all"
-          style={{ width: `${((idx + 1) / total) * 100}%` }}
-        />
+          className="h-1.5 flex-1 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800"
+          role="progressbar"
+          aria-valuenow={idx + 1}
+          aria-valuemin={1}
+          aria-valuemax={urutan.length}
+        >
+          <div
+            className="h-full rounded-full bg-brand transition-all"
+            style={{ width: `${((idx + 1) / urutan.length) * 100}%` }}
+          />
+        </div>
+        <span className="text-xs text-slate-500">
+          {terjawab}/{urutan.length} dijawab
+        </span>
       </div>
 
-      {mode === "ujian" && (
-        <nav
-          aria-label="Navigasi nomor soal"
-          className="grid grid-cols-10 gap-1.5"
-        >
-          {paket.soal.map((_, i) => {
-            const aktif = i === idx;
-            const dijawab = jawaban[i] !== undefined;
-            return (
-              <button
-                key={i}
-                type="button"
-                onClick={() => setIdx(i)}
-                className={`rounded-md border py-1.5 text-xs font-semibold transition ${
-                  aktif
-                    ? "border-brand bg-brand text-white"
-                    : dijawab
-                      ? "border-brand/50 bg-brand-soft text-brand-strong dark:bg-slate-800 dark:text-brand-soft"
-                      : "border-slate-200 text-slate-500 dark:border-slate-700"
-                }`}
-              >
-                {i + 1}
-              </button>
-            );
-          })}
-        </nav>
-      )}
+      {/* Nomor soal (urutan acak sesi ini) */}
+      <nav aria-label="Navigasi nomor soal" className="grid grid-cols-10 gap-1.5">
+        {urutan.map((_, i) => {
+          const aktif = i === idx;
+          const dijawab = jawaban[i] !== null;
+          return (
+            <button
+              key={i}
+              type="button"
+              onClick={() => setIdx(i)}
+              className={`rounded-md border py-1.5 text-xs font-semibold transition ${
+                aktif
+                  ? "border-brand bg-brand text-white"
+                  : dijawab
+                    ? "border-brand/50 bg-brand-soft text-brand-strong dark:bg-slate-800 dark:text-brand-soft"
+                    : "border-slate-200 text-slate-500 dark:border-slate-700"
+              }`}
+            >
+              {i + 1}
+            </button>
+          );
+        })}
+      </nav>
 
+      {/* Kartu soal */}
       <article className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-900 sm:p-5">
         <div className="flex items-baseline gap-2">
           <span className="rounded-lg bg-brand px-2 py-0.5 text-sm font-bold text-white">
-            {soal.nomor}
+            {idx + 1}
           </span>
           <span className="text-xs text-slate-400">
-            Soal {idx + 1} dari {total}
+            Soal {idx + 1} dari {urutan.length}
           </span>
         </div>
-        <Markdown className="mt-3 text-[15px] sm:text-base">{soal.teks}</Markdown>
-
-        <div className="mt-4 space-y-2">
-          {soal.opsi.map((o) => {
-            let cls =
-              "border-slate-200 hover:bg-slate-50 dark:border-slate-700 dark:hover:bg-slate-800";
-            if (sudahNilai) {
-              if (o.label === soal.kunci) cls = OPTI_BENAR;
-              else if (o.label === terjawabSoal) cls = OPTI_SALAH;
-              else cls = OPTI_DIAM;
-            } else if (terjawabSoal === o.label) {
-              cls = OPTI_AKTIF;
-            }
-            return (
-              <button
-                key={o.label}
-                type="button"
-                onClick={() => pilih(o.label)}
-                className={`flex w-full items-start gap-3 rounded-lg border p-3 text-left transition ${cls}`}
-              >
-                <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-current text-xs font-bold">
-                  {o.label}
-                </span>
-                <Markdown className="flex-1 text-[15px]">{o.teks}</Markdown>
-              </button>
-            );
-          })}
-        </div>
-
-        {sudahNilai && (
-          <div
-            className={`mt-4 rounded-lg p-3 text-sm ${
-              benarSoal(idx)
-                ? "bg-green-50 text-green-800 dark:bg-green-950/40 dark:text-green-300"
-                : "bg-red-50 text-red-800 dark:bg-red-950/40 dark:text-red-300"
-            }`}
-          >
-            <p className="font-bold">
-              {benarSoal(idx)
-                ? "Benar!"
-                : soal.kunci
-                  ? `Salah. Kunci: ${soal.kunci}`
-                  : "Kunci belum tersedia di berkas soal."}
-            </p>
-            {soal.pembahasan && (
-              <Markdown className="mt-1 text-slate-700 dark:text-slate-300">
-                {soal.pembahasan}
-              </Markdown>
-            )}
+        {soal.wacana && (
+          <div className="mt-3 rounded-lg bg-slate-50 p-3 text-sm leading-relaxed text-slate-600 dark:bg-slate-800/60 dark:text-slate-300">
+            <Markdown>{soal.wacana}</Markdown>
           </div>
         )}
+        <Markdown className="mt-3 text-[15px] sm:text-base">
+          {soal.teks}
+        </Markdown>
+
+        <div className="mt-4 space-y-2">
+          {soal.opsi.length === 0 ? (
+            <p className="rounded-lg border border-amber-300 bg-amber-50 px-3 py-2 text-sm text-amber-800 dark:border-amber-700 dark:bg-amber-900/30 dark:text-amber-300">
+              Soal ini tidak punya opsi A–E di berkas markdown.
+            </p>
+          ) : (
+            soal.opsi.map((o, i) => {
+              const label = o.label ?? LABEL[i] ?? "?";
+              const dipilih = jawaban[idx] === label;
+              return (
+                <button
+                  key={label}
+                  type="button"
+                  onClick={() =>
+                    setJawaban((arr) => {
+                      const b = [...arr];
+                      b[idx] = label;
+                      return b;
+                    })
+                  }
+                  className={`flex w-full items-start gap-3 rounded-lg border p-3 text-left transition ${
+                    dipilih
+                      ? "border-brand bg-brand-soft/60 dark:bg-slate-800"
+                      : "border-slate-200 hover:bg-slate-50 dark:border-slate-700 dark:hover:bg-slate-800"
+                  }`}
+                >
+                  <span
+                    className={`mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-xs font-bold ${
+                      dipilih
+                        ? "border-brand bg-brand text-white"
+                        : "border-current"
+                    }`}
+                  >
+                    {label}
+                  </span>
+                  <Markdown className="flex-1 text-[15px]">{o.teks}</Markdown>
+                </button>
+              );
+            })
+          )}
+        </div>
       </article>
 
+      {/* Aksi bawah */}
       <div className="flex gap-2">
         <button
           type="button"
@@ -314,34 +341,30 @@ export default function QuizPage() {
         >
           ← Sebelumnya
         </button>
-        {mode === "latih" ? (
+        {idx < urutan.length - 1 ? (
           <button
             type="button"
-            onClick={lanjut}
-            disabled={!sudahNilai}
-            className="flex-1 rounded-lg bg-brand px-4 py-2 text-sm font-semibold text-white hover:bg-brand-strong disabled:opacity-40"
+            onClick={() => setIdx((v) => Math.min(urutan.length - 1, v + 1))}
+            className="flex-1 rounded-lg bg-brand px-4 py-2 text-sm font-semibold text-white hover:bg-brand-strong"
           >
-            {idx + 1 >= total ? "Selesai & Lihat Nilai" : "Lanjut →"}
+            Lanjut →
           </button>
         ) : (
-          <>
-            <button
-              type="button"
-              onClick={() => setIdx(Math.min(total - 1, idx + 1))}
-              disabled={idx + 1 >= total}
-              className="rounded-lg bg-brand px-4 py-2 text-sm font-semibold text-white hover:bg-brand-strong disabled:opacity-40"
-            >
-              Berikutnya →
-            </button>
-            <button
-              type="button"
-              onClick={klikSelesai}
-              className="rounded-lg border border-ok px-4 py-2 text-sm font-semibold text-ok"
-            >
-              Selesai Ujian
-            </button>
-          </>
+          <button
+            type="button"
+            onClick={selesaiManual}
+            className="flex-1 rounded-lg bg-ok px-4 py-2 text-sm font-semibold text-white hover:opacity-90"
+          >
+            Selesai & Lihat Nilai ✓
+          </button>
         )}
+        <button
+          type="button"
+          onClick={selesaiManual}
+          className="rounded-lg border border-bad/60 px-3 py-2 text-xs font-semibold text-bad hover:bg-red-50 dark:hover:bg-red-950/40"
+        >
+          Kumpulkan
+        </button>
       </div>
     </div>
   );

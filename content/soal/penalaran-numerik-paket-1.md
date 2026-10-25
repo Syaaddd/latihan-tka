@@ -2,6 +2,7 @@
 judul: Penalaran Numerik — Paket 1
 mapel: Penalaran Numerik
 tahun: 2026
+waktu: 10
 ---
 
 1. Hasil dari $2^{10} + 2^{10}$ adalah ...

@@ -47,7 +47,8 @@ Pembahasan: $2^{10} + 2^{10} = 2 \times 2^{10} = 2^{11}$.
 
 Aturan yang didukung (semua fleksibel, hasil konversi PDF tidak harus rapi):
 
-- **Front matter** (opsional): `judul`, `mapel`, `tahun`. Tanpa front matter,
+- **Front matter** (opsional): `judul`, `mapel`, `tahun`, `waktu` (menit —
+  jadi nilai default pilihan waktu di beranda). Tanpa front matter,
   judul diambil dari heading `#` pertama atau nama berkas; mapel default
   `Umum`.
 - **Awal soal**: baris `1.` atau `1)` (juga `**1.**`). Teks soal boleh
@@ -67,14 +68,19 @@ Aturan yang didukung (semua fleksibel, hasil konversi PDF tidak harus rapi):
   paling aman tempel di bawah nomor soal pertama.
 
 Yang belum didukung (rencana): gambar/ilustrasi dari PDF (perlu diekstrak
-manual ke `public/` dan ditaut `![alt](/nama.png)`), urutan soal acak, timer
-ujian, lebih dari satu opsi benar.
+manual ke `public/` dan ditaut `![alt](/nama.png)`) dan soal dengan lebih dari
+satu opsi benar (format grid BENAR/SALAH khas TKA digital).
 
 ## Cara pakai
 
-- **Mode Latihan**: jawab per soal, langsung muncul benar/salah + pembahasan.
-- **Mode Ujian**: semua soal bisa dilompati (chip nomor), dinilai di akhir.
-- Nilai terakhir dan terbaik per paket tersimpan di `localStorage` browser
+- Pilih paket di beranda → atur **jumlah soal** dan **waktu (menit)** → Mulai.
+- Soal diambil acak dari pool dan **urutannya diacak tiap sesi** — jadi mengulang
+  tidak sekadar menghafal urutan.
+- Sesi berjalan seperti ujian: tanpa feedback per soal, timer hitung mundur,
+  waktu habis = otomatis dikumpulkan.
+- Layar hasil **hanya menampilkan persentase nilai** (dan jumlah benar). Kunci
+  jawaban tidak pernah dibocorkan di layar nilai.
+- Nilai terakhir & terbaik per paket tersimpan di `localStorage` browser
   (tanpa akun, tanpa server).
 
 ## Deploy
