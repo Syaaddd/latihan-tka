@@ -9,7 +9,7 @@ const hookRules =
   {};
 
 export default [
-  { ignores: ["dist", "node_modules", ".vite", ".ssr-check", "ssr-check.jsx"] },
+  { ignores: ["dist", "node_modules", ".vite", ".ssr-check", "ssr-check.jsx", "uji-konten.mjs"] },
   js.configs.recommended,
   {
     files: ["**/*.{js,jsx}"],
