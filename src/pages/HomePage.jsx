@@ -158,22 +158,6 @@ export default function HomePage() {
           ))}
         </section>
       )}
-
-      <section className="rounded-xl bg-slate-100 p-4 text-sm text-slate-600 dark:bg-slate-900 dark:text-slate-400">
-        <h3 className="font-semibold text-slate-800 dark:text-slate-200">
-          Cara menambah paket
-        </h3>
-        <p className="mt-1">
-          Simpan hasil konversi PDF ke Markdown sebagai satu berkas per paket di{" "}
-          <code>content/soal/nama-paket.md</code>. Format yang dikenali: nomor
-          soal <code>1.</code>, opsi <code>A.</code> sampai <code>E.</code>,
-          kunci per soal <code>Kunci: X</code> atau daftar <code>1. B</code> di
-          akhir, dan <code>Pembahasan: ...</code> (opsional). Front matter
-          opsional: <code>judul</code>, <code>mapel</code>, <code>tahun</code>,{" "}
-          <code>waktu</code> (menit, jadi default pilihan waktu). Detail lengkap
-          ada di README repo.
-        </p>
-      </section>
     </div>
   );
 }
