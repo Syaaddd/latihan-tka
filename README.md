@@ -73,7 +73,8 @@ satu opsi benar (format grid BENAR/SALAH khas TKA digital).
 
 ## Cara pakai
 
-- Pilih paket di beranda → atur **jumlah soal** dan **waktu (menit)** → Mulai.
+- Pilih paket di beranda → atur **jumlah soal** (maks **30**) dan **waktu
+  menit** (maks **75**) → Mulai. Nilai besar di URL (`?n=&t=`) dipangkas ke batas.
 - Soal diambil acak dari pool dan **urutannya diacak tiap sesi** — jadi mengulang
   tidak sekadar menghafal urutan.
 - Sesi berjalan seperti ujian: tanpa feedback per soal, timer hitung mundur,

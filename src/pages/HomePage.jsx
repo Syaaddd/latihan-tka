@@ -7,23 +7,28 @@ const chip =
   "inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-medium";
 
 const PILIHAN_JUMLAH = [5, 10, 15, 20, 25, 30];
-const PILIHAN_WAKTU = [10, 15, 20, 30, 40, 45, 50, 60, 90];
+const PILIHAN_WAKTU = [10, 15, 20, 30, 40, 45, 50, 60, 75];
+export const MAKS_SOAL = 30;
+export const MAKS_MENIT = 75;
 
 const selectCls =
   "w-full rounded-lg border border-slate-300 bg-white px-2.5 py-1.5 text-sm font-semibold dark:border-slate-700 dark:bg-slate-900";
 
 function opsiJumlah(scorable) {
-  const daftar = PILIHAN_JUMLAH.filter((x) => x < scorable);
-  daftar.push(scorable);
+  const batas = Math.min(MAKS_SOAL, scorable);
+  const daftar = PILIHAN_JUMLAH.filter((x) => x < batas);
+  daftar.push(batas);
   return [...new Set(daftar)];
 }
 
 function PaketCard({ p, riwayat }) {
   const scorable = p.jumlah - p.tanpaKunci;
-  const [n, setN] = useState(scorable);
+  const [n, setN] = useState(Math.min(MAKS_SOAL, scorable));
   const w0 = Number(p.meta?.waktu);
   const [t, setT] = useState(
-    Number.isFinite(w0) && PILIHAN_WAKTU.includes(w0) ? w0 : 30,
+    Number.isFinite(w0) && PILIHAN_WAKTU.includes(Math.min(MAKS_MENIT, w0))
+      ? Math.min(MAKS_MENIT, w0)
+      : 30,
   );
 
   const r = riwayat[p.slug];
@@ -65,7 +70,7 @@ function PaketCard({ p, riwayat }) {
             >
               {opsiJumlah(scorable).map((x) => (
                 <option key={x} value={x}>
-                  {x === scorable ? `Semua (${x})` : x}
+                  {x === scorable && scorable <= MAKS_SOAL ? `Semua (${x})` : x}
                 </option>
               ))}
             </select>
@@ -122,7 +127,8 @@ export default function HomePage() {
           Latihan TKA
         </h1>
         <p className="mt-2 text-slate-600 dark:text-slate-400">
-          Pilih paket, atur <b>jumlah soal</b> dan <b>waktu</b>, lalu kerjakan.
+          Pilih paket, atur <b>jumlah soal</b> dan <b>waktu</b> (maks 30 soal ·
+          75 menit), lalu kerjakan.
           Urutan soal diacak setiap sesi — di akhir kamu cuma lihat
           <b> persentase nilai</b>, tanpa kunci jawaban dibocorkan.
         </p>
@@ -161,7 +167,7 @@ export default function HomePage() {
           Simpan hasil konversi PDF ke Markdown sebagai satu berkas per paket di{" "}
           <code>content/soal/nama-paket.md</code>. Format yang dikenali: nomor
           soal <code>1.</code>, opsi <code>A.</code> sampai <code>E.</code>,
-          kunci per soal <code>Kunci: B</code> atau daftar <code>1. B</code> di
+          kunci per soal <code>Kunci: X</code> atau daftar <code>1. B</code> di
           akhir, dan <code>Pembahasan: ...</code> (opsional). Front matter
           opsional: <code>judul</code>, <code>mapel</code>, <code>tahun</code>,{" "}
           <code>waktu</code> (menit, jadi default pilihan waktu). Detail lengkap

@@ -3,6 +3,7 @@ import { Link, useParams, useSearchParams } from "react-router-dom";
 import { cariPaket } from "../lib/sets.js";
 import { simpanRiwayat } from "../lib/storage.js";
 import Markdown from "../components/Markdown.jsx";
+import { MAKS_SOAL, MAKS_MENIT } from "./HomePage.jsx";
 
 const LABEL = ["A", "B", "C", "D", "E", "F"];
 
@@ -38,13 +39,16 @@ export default function QuizPage() {
   );
   const maks = pool.length;
 
+  // Batas sesi (permintaan Syadd, 26 Okt): maksimal 30 soal & 75 menit —
+  // diacak dari seluruh pool tiap kali Mulai; link URL with n/t besar ikut dipangkas.
+  const batasSoal = Math.min(MAKS_SOAL, maks);
   const jumlah = maks
-    ? clamp(Number.parseInt(params.get("n"), 10) || maks, 1, maks)
+    ? clamp(Number.parseInt(params.get("n"), 10) || batasSoal, 1, batasSoal)
     : 0;
   const menit = clamp(
     Number.parseInt(params.get("t"), 10) || Number(paket?.meta?.waktu) || 30,
     1,
-    600,
+    MAKS_MENIT,
   );
 
   const [urutan, setUrutan] = useState(() => acak(pool).slice(0, jumlah));
