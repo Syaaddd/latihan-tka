@@ -90,6 +90,9 @@ function bacaBlok(body) {
       continue;
     }
     if (!t) continue;
+    // Garis pemisah horizontal ("---", "***") bukan konten — jangan
+    // tertangkap sebagai lanjutan teks opsi terakhir.
+    if (/^([-*_])\1{2,}$/.test(t)) continue;
 
     let m = RE_KUNCI_INLINE.exec(t);
     if (m) {

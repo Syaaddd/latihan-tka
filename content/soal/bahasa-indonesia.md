@@ -17,6 +17,8 @@ E. mampu memotivasi anak untuk bekerja keras, belajar, dan menjadi orang berguna
 
 Kunci: C
 
+---
+
 2. Bacalah kutipan berikut!
 Dalam kutipan novel Laskar Pelangi, Bu Mus mengisahkan Bung Karno yang tetap belajar di tengah keterbatasan, bahkan beliau menampilkan gambar sel tempat Bung Karno dibuang ke Ende. Mendengar kisah itu, kami tertegun dan tersihir dalam senyap. Sejak itu kami tidak pernah mengeluh dan tidak pernah memprotes keadaan sekolah kami yang memprihatinkan.
 Perilaku "kami" yang menunjukkan bahwa mereka "tersihir dalam senyap" setelah Bu Mus bercerita tentang Bung Karno adalah …
@@ -28,6 +30,8 @@ D. Kami berani, tabah, dan pantang menyerah menghadapi kenyataan.
 E. Kami rajin belajar agar tidak mengecewakan Bu Mus.
 
 Kunci: A
+
+---
 
 3. Bacalah kutipan berikut!
 Dalam kutipan Laskar Pelangi, Bu Mus mengisahkan Bung Karno yang tetap belajar meski dibuang di tempat yang sangat buruk. Untuk mendukung kisahnya itu, pengarang menampilkan gambar sel tempat Bung Karno diasingkan.
@@ -41,6 +45,8 @@ E. membuktikan lokasi yang sangat buruk tetap bisa menguatkan tekad belajar Bung
 
 Kunci: E
 
+---
+
 4. Bacalah kutipan berikut!
 Saat itulah, untuk pertama kalinya dalam hidupku, kami mendengar kisah tentang seseorang yang menjadi tokoh utama ceritanya sendiri. Dialah guru kami, satu-satunya guru SD Muhammadiyah, Bu Mus. Sungguh, beliau pandai, kharismatik, dan memiliki pandangan jauh ke depan.
 Kaitan isi kutipan tersebut dengan kehidupan sehari-hari yang paling tepat adalah …
@@ -52,6 +58,8 @@ D. Sekolah zaman dahulu belum ada pendidikan sejarah sehingga harus diajarkan se
 E. Kenangan masa sekolah selalu indah apabila dikenang bertahun-tahun kemudian.
 
 Kunci: A
+
+---
 
 5. Bacalah artikel berikut!
 Pendidikan Anak Usia Dini (PAUD) adalah upaya pembinaan yang ditujukan kepada anak sejak lahir sampai dengan usia enam tahun yang dilakukan melalui pemberian rangsangan pendidikan untuk membantu pertumbuhan dan perkembangan jasmani dan rohani agar anak memiliki kesiapan dalam memasuki pendidikan lebih lanjut. Anak usia dini merupakan manusia yang memiliki ciri-ciri khusus atau unik sehingga memerlukan perhatian dan penanganan khusus. Tujuan utama PAUD adalah untuk membentuk anak Indonesia yang berkualitas, yaitu anak yang tumbuh, berkembang sesuai dengan usianya serta menguasai kompetensi atau kemampuan sesuai dengan tahap perkembangannya.
@@ -67,6 +75,8 @@ E. Angka partisipasi kasar anak usia 3-6 tahun di Indonesia baru mencapai 34,74 
 
 Kunci: D
 
+---
+
 6. Bacalah paragraf berikut!
 Pendidikan Anak Usia Dini (PAUD) adalah upaya pembinaan yang ditujukan kepada anak sejak lahir sampai dengan usia enam tahun yang dilakukan melalui pemberian rangsangan pendidikan untuk membantu pertumbuhan dan perkembangan jasmani dan rohani agar anak memiliki kesiapan dalam memasuki pendidikan lebih lanjut. Tujuan utama PAUD adalah untuk membentuk anak Indonesia yang berkualitas, yaitu anak yang tumbuh, berkembang sesuai dengan usianya serta menguasai kompetensi atau kemampuan sesuai dengan tahap perkembangannya.
 Sesuai dengan bacaan tersebut, tujuan utama PAUD adalah …
@@ -78,6 +88,8 @@ D. mengembangkan potensi anak usia 3-6 tahun melalui RESEP.
 E. meningkatkan angka partisipasi kasar anak usia dini ke jenjang PAUD.
 
 Kunci: A
+
+---
 
 7. Bacalah bacaan berikut!
 (1) Masalah agraria terus bergulir. (2) Penyerobotan lahan, penggusuran, dan konflik horizontal terus saja terjadi. (3) Banyak kasus sengketa pertanahan tidak terselesaikan dengan baik. (4) Oleh karena itu, diperlukan tim gabungan untuk menangani kasus sengketa pertanahan. (5) Tim dibentuk untuk [….]. (6) Bila sudah terdapat pola dan dapat dipetakan, langkah berikutnya mencari solusi terbaik. (7) Penyelesaian sengketa tanah perlu kehati-hatian karena ada indikasi banyak kasus tanah yang dimainkan mafia tanah.
@@ -92,6 +104,8 @@ E. paragraf (2) memiliki hubungan kausatif dengan paragraf (1).
 
 Kunci: E
 
+---
+
 8. Bacalah paragraf berikut!
 Praktisi hukum selalu mempertanyakan alasan rakyat menggarap tanah. Sebaliknya, sudah seharusnya dibuatkan instrumen hukum bagi rakyat yang telah berpuluh-puluh tahun menggarap tanah negara, tetapi tidak memiliki sertifikat. Dengan demikian, jangan heran apabila banyak penggarap lahan yang menjadi korban kriminalisasi. Mafia tanah, yang seharusnya dibasmi, justru tidak tertindak.
 Penulis pada bacaan tersebut berpihak kepada …
@@ -103,6 +117,8 @@ D. praktisi hukum
 E. korban sengketa
 
 Kunci: A
+
+---
 
 9. Bacalah paragraf berikut!
 (1) Praktisi hukum selalu mempertanyakan alasan rakyat menggarap tanah. (2) Sebaliknya, sudah seharusnya dibuatkan instrumen hukum bagi rakyat yang telah berpuluh-puluh tahun menggarap tanah negara, tetapi tidak memiliki sertifikat.
@@ -116,6 +132,8 @@ E. Akan tetapi
 
 Kunci: B
 
+---
+
 10. Bacalah paragraf berikut!
 Masalah agraria terus bergulir. Penyerobotan lahan, penggusuran, dan konflik horizontal terus saja terjadi. Banyak kasus sengketa pertanahan tidak terselesaikan dengan baik. Oleh karena itu, diperlukan tim gabungan untuk menangani kasus sengketa pertanahan. Tim dibentuk untuk [….]. Bila sudah terdapat pola dan dapat dipetakan, langkah berikutnya mencari solusi terbaik.
 Kalimat yang tepat untuk melengkapi bagian yang rumpang pada paragraf tersebut adalah …
@@ -127,6 +145,8 @@ D. menginventarisasi, membuat pola penyelesaian, dan memetakan kasus-kasus perta
 E. mencari solusi terbaik dalam menyelesaikan dan memetakan kasus-kasus pertanahan.
 
 Kunci: A
+
+---
 
 11. Bacalah dua kutipan berikut!
 **Kutipan 1 (Molly)**
@@ -143,6 +163,8 @@ E. keduanya mengutarakan pandangan yang sama mengenai topik yang berbeda.
 
 Kunci: D
 
+---
+
 12. Bacalah paragraf berikut!
 Bertelekomunikasi adalah kesempatan untuk membuat kehidupan kita dan pekerjaan kita lebih menyenangkan dan produktif. Kebanyakan orang kehilangan banyak waktu dan energi setiap hari untuk berkendaraan ke tempat kerja dan kembali ke rumah. Ketika kita menjadi lebih sehat, secara ekonomi perusahaan kita pun lebih sehat. *Apakah kita benar-benar menginginkan perasaan kita sebagai bagian dari masyarakat menjadi hancur lebih jauh?*
 Pertanyaan terakhir pada paragraf tersebut dimaksudkan untuk …
@@ -154,6 +176,8 @@ D. mengajak pembaca membentuk opininya sendiri tentang topik ini.
 E. membuat pembaca memahami dan menyetujui pertanyaan itu.
 
 Kunci: A
+
+---
 
 13. Bacalah dua kutipan berikut!
 **Kutipan 1 (Molly)**
@@ -170,6 +194,8 @@ E. Setiap orang akan menjadi lebih sehat dengan sistem telekomunikasi.
 
 Kunci: B
 
+---
+
 14. Bacalah teks berikut!
 Gelombang revolusi industri 4.0 akan membawa perubahan yang fundamental pada berbagai tatanan kehidupan global. Dampaknya akan menyentuh segala dimensi kehidupan, bukan hanya di sektor ekonomi, tetapi juga pada sendi-sendi sosial, politik, dan budaya. Perubahan ini menuntut kita untuk mampu beradaptasi dengan memanfaatkan peluang-peluang yang muncul dari perkembangan teknologi digital.
 Era revolusi industri 4.0 menjadikan ekonomi kreatif sebagai salah satu isu yang layak mendapat prioritas perhatian karena relevansinya dengan struktur demografi Indonesia. Jumlah penduduk yang sangat besar dengan komposisi didominasi usia muda serta potensi kekayaan budaya yang beranekaragam merupakan modal untuk membangun ekonomi kreatif. Namun demikian, keberhasilan ekonomi kreatif tidak dapat dipisahkan dari upaya menumbuhkan dan mengembangkan karakter atau sumber daya manusia kreatif.
@@ -183,6 +209,8 @@ E. Gelombang revolusi industri 4.0 akan membawa perubahan fundamental pada berba
 
 Kunci: E
 
+---
+
 15. Bacalah kalimat berikut!
 "Pada era revolusi industri 4.0 menjadikan ekonomi kreatif sebagai salah satu isu strategis yang layak mendapatkan pengarusutamaan sebagai pilihan strategi untuk memenangi persaingan global."
 Kalimat tersebut tidak efektif. Perbaikan yang paling tepat adalah …
@@ -194,6 +222,8 @@ D. Ekonomi kreatif pada era revolusi industri 4.0 menjadikan salah satu isu stra
 E. Era revolusi industri 4.0 menjadikan ekonomi kreatif sebagai isu strategis agar pengarusutamaan dapat memenangi persaingan global.
 
 Kunci: B
+
+---
 
 16. Bacalah kalimat berikut!
 Dalam laporan itu disebutkan bahwa industri kreatif meraup kontribusi terbesar dari sektor makanan dan minuman, fesyen, serta aplikasi digital terhadap perekonomian nasional.
@@ -207,6 +237,8 @@ E. menghabiskan
 
 Kunci: B
 
+---
+
 17. Sebuah artikel di majalah pendidikan membahas pentingnya literasi digital di kalangan siswa. Penulis menekankan bahwa maraknya hoaks di media sosial sering membuat pelajar kebingungan membedakan fakta dan opini. Oleh karena itu, kemampuan memilah informasi kredibel dari sumber tepercaya menjadi kunci agar generasi muda tidak mudah terpengaruh isu menyesatkan yang dapat merusak pola pikir dan perilaku mereka.
 Berdasarkan paragraf tersebut, ide pokok yang paling tepat adalah ….
 
@@ -218,6 +250,8 @@ E. Hoaks menyebar cepat di kalangan remaja melalui media sosial.
 
 Kunci: A
 
+---
+
 18. Seorang penulis menyusun teks yang berisi pendapatnya tentang bahaya penggunaan plastik sekali pakai. Dalam teks tersebut, ia memulai dengan pernyataan umum bahwa plastik berbahaya bagi lingkungan, lalu menyajikan alasan berupa pencemaran laut, sulit terurai, dan dampak terhadap kesehatan. Di akhir tulisannya, ia menegaskan kembali bahwa masyarakat harus beralih ke bahan ramah lingkungan.
 Struktur teks seperti itu termasuk ke dalam jenis teks ….
 
@@ -228,6 +262,8 @@ D. Eksposisi
 E. Argumentasi
 
 Kunci: E
+
+---
 
 19. Perhatikan kalimat berikut!
 "Bagi siswa yang terlambat masuk kelas maka akan mendapat sanksi dari guru piket."
@@ -241,6 +277,8 @@ E. Siswa yang terlambat maka mendapat sanksi dari guru.
 
 Kunci: D
 
+---
+
 20. Perhatikan kalimat berikut!
 "Pidato kepala sekolah pada peringatan Hari Pendidikan Nasional sarat dengan retorika yang memukau, sehingga para siswa merasa terinspirasi untuk belajar lebih giat."
 Makna kata "retorika" yang tepat dalam konteks kalimat di atas adalah ….
@@ -253,6 +291,8 @@ E. Bahasa yang penuh dengan kiasan dan perbandingan.
 
 Kunci: D
 
+---
+
 21. Dalam sebuah esai tentang lingkungan, penulis menutup tulisannya dengan kalimat: "Kini saatnya kita berhenti menyalahkan pihak lain dan mulai bertindak nyata menjaga bumi, sekecil apa pun kontribusi yang kita lakukan."
 Kalimat tersebut mencerminkan sikap penulis yang ….
 
@@ -264,6 +304,8 @@ E. Menganggap masalah lingkungan bukan sesuatu yang mendesak.
 
 Kunci: B
 
+---
+
 22. Seorang siswa diminta merangkum artikel sepanjang lima halaman menjadi satu paragraf. Ia hanya menyalin kalimat awal dari setiap paragraf tanpa mengubah susunan kata. Hasil ringkasan tersebut dinilai kurang tepat karena ….
 
 A. Ringkasan harus sama panjang dengan teks asli.
@@ -273,6 +315,8 @@ D. Ringkasan sebaiknya berisi opini pribadi pembuat ringkasan.
 E. Ringkasan tidak boleh menggunakan kalimat aktif.
 
 Kunci: B
+
+---
 
 23. Dalam menulis paragraf ilmiah, seorang siswa menuliskan kalimat pembuka yang berisi definisi, lalu melanjutkan dengan kalimat penjelas berupa contoh dan data, serta menutup dengan simpulan singkat. Struktur paragraf seperti itu menunjukkan bahwa ….
 
@@ -284,6 +328,8 @@ E. Paragraf ilmiah harus selalu dimulai dengan kutipan langsung.
 
 Kunci: B
 
+---
+
 24. Dalam sebuah puisi, penulis menggunakan majas personifikasi dengan kalimat: "Hujan berbisik lembut menenangkan jiwa yang gundah." Majas tersebut berfungsi untuk ….
 
 A. Memberi sifat manusia pada benda mati sehingga lebih hidup dan indah.
@@ -293,6 +339,8 @@ D. Menegaskan makna kata dengan pengulangan yang berlebihan.
 E. Menyampaikan makna konotatif dengan menggunakan lambang.
 
 Kunci: A
+
+---
 
 25. Dua teks membahas topik "penggunaan transportasi umum." Teks pertama menekankan manfaat kesehatan dan mengurangi polusi, sedangkan teks kedua menyoroti efisiensi biaya serta mengurangi kemacetan. Analisis perbandingan kedua teks menunjukkan bahwa ….
 
@@ -304,6 +352,8 @@ E. Kedua teks menolak keberadaan transportasi umum di kota besar.
 
 Kunci: A
 
+---
+
 26. Manakah kalimat yang menunjukkan penggunaan kata "produktif" dengan makna yang tepat dalam konteks akademik?
 
 A. Siswa itu sangat produktif dalam mengomentari orang lain di media sosial.
@@ -313,6 +363,8 @@ D. Siswa itu produktif membuang waktu di kantin setiap jam pelajaran.
 E. Kelompok belajar itu produktif menghasilkan karya tulis ilmiah dalam satu semester.
 
 Kunci: E
+
+---
 
 27. Dalam menulis paragraf argumentasi, salah satu ciri utama adalah adanya alasan logis yang mendukung pendapat penulis. Namun, kesalahan umum yang sering terjadi adalah penulis hanya menumpuk fakta tanpa menghubungkannya dengan pendapat. Hal ini mengakibatkan ….
 
@@ -324,6 +376,8 @@ E. Ide minor lebih menonjol daripada ide utama
 
 Kunci: D
 
+---
+
 28. Kata "konservasi" memiliki makna yang berbeda dengan "eksploitasi". Jika seorang siswa menulis: "Konservasi hutan harus dilakukan agar tidak terjadi kerusakan lingkungan", maka antonim kata konservasi yang paling tepat adalah ….
 
 A. Eksploitasi
@@ -333,6 +387,8 @@ D. Pelestarian
 E. Reboisasi
 
 Kunci: A
+
+---
 
 29. Dalam karya sastra, gaya bahasa hiperbola digunakan untuk ….
 
@@ -344,6 +400,8 @@ E. Membesar-besarkan suatu keadaan demi penekanan
 
 Kunci: E
 
+---
+
 30. Jika sebuah paragraf memiliki ide pokok di awal kalimat, kemudian diikuti oleh kalimat-kalimat penjelas, maka pola pengembangannya adalah ….
 
 A. Deduktif
@@ -353,6 +411,8 @@ D. Deskriptif
 E. Naratif
 
 Kunci: A
+
+---
 
 31. Kalimat: "Walaupun harga bahan pokok naik drastis, masyarakat tetap berbondong-bondong ke pasar tradisional untuk berbelanja."
 Hubungan makna antarklausa dalam kalimat tersebut adalah ….
@@ -365,6 +425,8 @@ E. Tujuan
 
 Kunci: C
 
+---
+
 32. Dalam menulis paragraf deskripsi, penulis berusaha menghadirkan objek secara detail sehingga pembaca seolah-olah dapat melihat, mendengar, atau merasakan langsung apa yang sedang dijelaskan. Misalnya, ketika menggambarkan suasana pantai, penulis tidak hanya menyebutkan adanya laut, tetapi juga warna airnya, suara deburan ombak, dan bau khas laut.
 Unsur yang paling ditekankan dalam paragraf deskripsi adalah ….
 
@@ -376,6 +438,8 @@ E. Argumen logis yang kuat
 
 Kunci: A
 
+---
+
 33. Kalimat: "Kebijakan itu dianggap kontroversial karena menimbulkan banyak dampak negatif di masyarakat." Dalam konteks komunikasi publik, kata "kontroversial" biasanya muncul ketika suatu kebijakan, aturan, atau peristiwa memicu reaksi yang berbeda-beda dari masyarakat sehingga menimbulkan diskusi panjang bahkan pertentangan. Berdasarkan hal tersebut, makna kata "kontroversial" yang paling dekat adalah ….
 
 A. Disetujui
@@ -385,6 +449,8 @@ D. Diterima
 E. Dipatuhi
 
 Kunci: C
+
+---
 
 34. Perhatikan kalimat berikut: "Meskipun fasilitas sekolah terbatas, semangat belajar para siswa tidak pernah padam." Kalimat ini mencerminkan adanya dua keadaan yang saling bertolak belakang, yaitu keterbatasan sarana dan tingginya motivasi belajar siswa.
 Hubungan makna antarklausa dalam kalimat tersebut adalah ….
@@ -397,6 +463,8 @@ E. Penjelasan
 
 Kunci: D
 
+---
+
 35. Sebuah paragraf dikatakan berpola induktif apabila ide pokoknya diletakkan pada akhir paragraf. Artinya, penulis terlebih dahulu menyajikan fakta, data, atau penjelasan yang mendukung, kemudian pada bagian penutup menarik simpulan umum yang menjadi inti paragraf. Dengan demikian, pola induktif berarti ….
 
 A. Ide pokok berada pada kalimat pertama dan diikuti oleh kalimat penjelas
@@ -407,6 +475,8 @@ E. Paragraf hanya berisi uraian tanpa kesimpulan
 
 Kunci: B
 
+---
+
 36. Dalam karya sastra, penulis sering menggunakan majas untuk memperindah bahasa. Salah satu majas yang kerap digunakan adalah personifikasi. Majas ini muncul ketika benda mati atau hewan diberikan sifat-sifat yang biasanya hanya dimiliki manusia, sehingga pembaca seakan-akan melihat benda atau hewan tersebut hidup. Berdasarkan penjelasan tersebut, fungsi majas personifikasi adalah ….
 
 A. Membandingkan dua hal yang berbeda secara langsung
@@ -416,6 +486,8 @@ D. Memberi penekanan dengan menyamakan sesuatu
 E. Memberikan sifat-sifat manusia pada benda mati atau hewan
 
 Kunci: E
+
+---
 
 37. Bacalah kutipan teks berikut!
 "Hari ini hujan turun deras sejak pagi. Jalanan licin dan genangan air muncul di mana-mana. Namun, para pedagang kaki lima tetap membuka lapaknya, bertahan di balik payung dan terpal seadanya. Mereka tak punya pilihan lain selain menghadapi basah demi sesuap nasi."
@@ -429,6 +501,8 @@ E. Pentingnya memiliki tempat berteduh yang layak
 
 Kunci: A
 
+---
+
 38. Kalimat berikut yang termasuk kalimat persuasif adalah ….
 
 A. Banjir di kawasan ini terjadi akibat sampah menumpuk di selokan.
@@ -438,6 +512,8 @@ D. Pemerintah akan menyediakan tempat sampah di setiap RT.
 E. Sampah plastik membutuhkan waktu lama untuk terurai.
 
 Kunci: B
+
+---
 
 39. Perhatikan kalimat pembuka berikut!
 "Penggunaan media sosial yang berlebihan dapat menyebabkan berkurangnya kemampuan komunikasi langsung."
@@ -451,6 +527,8 @@ E. simpulan pada artikel populer
 
 Kunci: D
 
+---
+
 40. Bacalah teks berikut!
 "Penelitian menunjukkan bahwa membaca buku selama 30 menit setiap hari dapat meningkatkan fungsi otak, memperkuat empati, dan mengurangi stres. Meski begitu, banyak generasi muda yang lebih memilih bermain gawai daripada membaca buku."
 Kesimpulan yang paling tepat dari teks tersebut adalah ….
@@ -463,6 +541,8 @@ E. Penelitian tentang membaca buku tidak terbukti benar.
 
 Kunci: C
 
+---
+
 41. Makna konotatif dari ungkapan "buah bibir" dalam kalimat "Kasus itu menjadi buah bibir masyarakat selama berminggu-minggu," adalah ….
 
 A. sesuatu yang disukai masyarakat
@@ -472,6 +552,8 @@ D. gosip yang tidak jelas kebenarannya
 E. informasi yang tidak penting
 
 Kunci: B
+
+---
 
 42. (1) Sebuah tangkapan layar tentang perubahan jadwal sekolah menyebar di grup warga. Judulnya tampak resmi, tetapi tanggal pada bagian bawah terpotong. Beberapa orang segera meneruskan gambar itu agar dianggap cepat membantu. Setelah diperiksa, pengumuman tersebut ternyata berasal dari kegiatan tahun sebelumnya. Isi gambar tidak sepenuhnya palsu, tetapi penggunaannya untuk menjelaskan jadwal sekarang membuat penerima memperoleh kesimpulan yang keliru.
 (2) Peristiwa itu menunjukkan perlunya verifikasi, yaitu pemeriksaan kebenaran informasi. Pembaca perlu mencari sumber awal, tanggal, dan konteks sebelum meneruskan pesan. Membandingkan gambar dengan pengumuman terbaru membantu menemukan bagian yang tidak sesuai. Jika masih ada perbedaan, pembaca dapat meminta klarifikasi atau penjelasan kepada pihak yang menerbitkan pengumuman. Karena itu, kecepatan membagikan pesan sebaiknya tidak mendahului pemeriksaan dasar. Kepercayaan kepada pengirim tidak menggantikan pemeriksaan terhadap isi.
@@ -491,6 +573,8 @@ E. Lala mengirim seluruh gambar lebih dahulu agar anggota grup dapat bersama-sam
 
 Kunci: D
 
+---
+
 43. (1) Sebuah tangkapan layar tentang perubahan jadwal sekolah menyebar di grup warga. Judulnya tampak resmi, tetapi tanggal pada bagian bawah terpotong. Beberapa orang segera meneruskan gambar itu agar dianggap cepat membantu. Setelah diperiksa, pengumuman tersebut ternyata berasal dari kegiatan tahun sebelumnya. Isi gambar tidak sepenuhnya palsu, tetapi penggunaannya untuk menjelaskan jadwal sekarang membuat penerima memperoleh kesimpulan yang keliru.
 (2) Peristiwa itu menunjukkan perlunya verifikasi, yaitu pemeriksaan kebenaran informasi. Pembaca perlu mencari sumber awal, tanggal, dan konteks sebelum meneruskan pesan. Membandingkan gambar dengan pengumuman terbaru membantu menemukan bagian yang tidak sesuai. Jika masih ada perbedaan, pembaca dapat meminta klarifikasi atau penjelasan kepada pihak yang menerbitkan pengumuman. Karena itu, kecepatan membagikan pesan sebaiknya tidak mendahului pemeriksaan dasar. Kepercayaan kepada pengirim tidak menggantikan pemeriksaan terhadap isi.
 (3) Namun, informasi yang benar pun belum tentu perlu disebarkan kepada semua orang. Pengumuman kegiatan mungkin relevan bagi peserta, tetapi nomor telepon pribadi yang tercantum tidak selalu dibutuhkan penerima lain. Pembaca perlu mempertimbangkan manfaat dan dampak penyebaran. Mengetahui isi pesan saja belum cukup; mengetahui tujuan penyebarannya juga penting. Seseorang yang sudah memeriksa kebenaran tetap perlu menilai apakah bagian tertentu sebaiknya dihilangkan sebelum pesan diteruskan ke kelompok yang lebih luas.
@@ -509,6 +593,8 @@ E. Memeriksa sumber → membagikan seluruh pesan → menilai dampak → meminta 
 
 Kunci: B
 
+---
+
 44. Nama pada Pojok Kertas
 (1) Bel pelajaran terakhir sudah lama berhenti ketika aku merapikan poster. Di antara rak referensi, seorang petugas mengumpulkan kartu peminjaman. Cahaya di jendela mulai jingga. Poster kami harus terpasang besok pagi, sedangkan Mila belum kembali sejak menemani ibunya berobat. Aku menatap formulir pengumpulan yang masih menyediakan dua kolom nama. Di luar, siswa terakhir bergegas melewati halaman menuju gerbang yang hampir ditutup.
 (2) Sudah tiga sore aku menyelesaikan gambar sendirian. Kutarik kursi dan menghitung bagian yang kuperbaiki: judul, warna, serta letak diagram. Dalam hati, aku ingin namaku saja yang tercantum. Bukankah aku yang memastikan semuanya selesai? Bayangan menerima penghargaan membuat ujung pensilku berhenti di atas kolom kedua. Semua pekerjaan yang kulakukan terasa lebih nyata daripada bantuan yang pernah kuterima pada awal proyek.
@@ -524,6 +610,8 @@ D. Ia menilai kesalahan angka membuktikan bahwa seluruh pekerjaan Mila tidak dap
 E. Ia mengakui bahwa penyelesaian akhir sendirian tidak menghapus kontribusi Mila sebelumnya.
 
 Kunci: E
+
+---
 
 45. Nama pada Pojok Kertas
 (1) Bel pelajaran terakhir sudah lama berhenti ketika aku merapikan poster. Di antara rak referensi, seorang petugas mengumpulkan kartu peminjaman. Cahaya di jendela mulai jingga. Poster kami harus terpasang besok pagi, sedangkan Mila belum kembali sejak menemani ibunya berobat. Aku menatap formulir pengumpulan yang masih menyediakan dua kolom nama. Di luar, siswa terakhir bergegas melewati halaman menuju gerbang yang hampir ditutup.
@@ -541,6 +629,8 @@ E. rumah Mila setelah seluruh penghuni tidur
 
 Kunci: A
 
+---
+
 46. Patok di Hilir
 (1) Aku datang ke kampung tepi sungai untuk memeriksa batas lahan. Pemilik proyek hendak membangun tempat parkir bagi pengunjung pasar. Tugasku sederhana: mencocokkan patok dengan peta, lalu menyerahkan catatan sebelum rapat besok. Jika selesai cepat, mungkin aku dipercaya menangani pekerjaan berikutnya. Karena itu, ketika seorang perempuan tua memanggil dari tangga dermaga, aku tetap berjalan sambil memegang pita ukur.
 (2) "Pagar itu akan menutup jalan kami," katanya. Ia menunjuk garis merah pada salinan peta yang kubawa. Garis tersebut memotong jalur sempit dari rumah warga menuju dermaga. Aku menjawab bahwa batas lahan sudah ditentukan pemilik proyek. Perempuan itu tidak membantah soal kepemilikan. Ia bertanya bagaimana warga membawa hasil tangkapan ke pasar jika jalur ditutup. Di belakangnya, seorang anak menuntun sepeda dengan dua keranjang kosong.
@@ -555,6 +645,8 @@ D. pemilik proyek meminta laporan diselesaikan sebelum rapat keesokan hari
 E. perempuan tua menolak keberadaan semua pengunjung pasar di kampungnya
 
 Kunci: C
+
+---
 
 47. TEKS 1: Membuka Pintu Bacaan Digital
 (1) SMA Kesuma mencoba perpustakaan digital selama empat pekan pada dua kelas. Tujuannya memperluas kesempatan memperoleh bahan bacaan, terutama setelah ruang perpustakaan tutup. Laporan pengelola mencatat peminjaman digital bertambah dibandingkan periode sebelumnya. Siswa dapat mengunduh bacaan ketika jaringan tersedia, lalu membukanya kembali tanpa harus terus terhubung. Guru juga menyediakan beberapa perangkat pinjaman bagi siswa yang tidak memiliki perangkat pribadi.
@@ -576,6 +668,8 @@ E. Teks 1: keterbatasan perangkat membatalkan seluruh manfaat akses digital. Tek
 
 Kunci: A
 
+---
+
 48. TEKS 1: Membuka Pintu Bacaan Digital
 (1) SMA Kesuma mencoba perpustakaan digital selama empat pekan pada dua kelas. Tujuannya memperluas kesempatan memperoleh bahan bacaan, terutama setelah ruang perpustakaan tutup. Laporan pengelola mencatat peminjaman digital bertambah dibandingkan periode sebelumnya. Siswa dapat mengunduh bacaan ketika jaringan tersedia, lalu membukanya kembali tanpa harus terus terhubung. Guru juga menyediakan beberapa perangkat pinjaman bagi siswa yang tidak memiliki perangkat pribadi.
 (2) Kemudahan itu memberi manfaat yang sebelumnya sulit diperoleh. Siswa yang tinggal jauh dapat mencari bahan tugas tanpa kembali ke sekolah. Mereka dapat membandingkan beberapa judul sebelum memilih sumber. Catatan peminjaman membantu pengelola mengetahui bahan yang sering digunakan. Akan tetapi, kesempatan tersebut belum merata karena jumlah perangkat pinjaman terbatas. Sebagian siswa masih harus menunggu giliran, terutama ketika tenggat tugas beberapa mata pelajaran berdekatan.
@@ -595,6 +689,8 @@ D. Evaluasi harus memilih satu indikator agar akses dan pemahaman tidak diperiks
 E. Pembelajaran yang memakai buku cetak tidak dapat memanfaatkan diskusi dan tugas berbasis bukti.
 
 Kunci: B
+
+---
 
 49. TEKS 1: Membuka Pintu Bacaan Digital
 (1) SMA Kesuma mencoba perpustakaan digital selama empat pekan pada dua kelas. Tujuannya memperluas kesempatan memperoleh bahan bacaan, terutama setelah ruang perpustakaan tutup. Laporan pengelola mencatat peminjaman digital bertambah dibandingkan periode sebelumnya. Siswa dapat mengunduh bacaan ketika jaringan tersedia, lalu membukanya kembali tanpa harus terus terhubung. Guru juga menyediakan beberapa perangkat pinjaman bagi siswa yang tidak memiliki perangkat pribadi.
@@ -616,6 +712,8 @@ E. Teks 2 menjadikan kenaikan peminjaman pada Teks 1 sebagai bukti bahwa pemaham
 
 Kunci: D
 
+---
+
 50. Menghitung Sampah, Memeriksa Kebiasaan
 (1) Pengelola Pasar Tanjung mencatat sampah campuran selama enam pekan. Pada awal pengamatan, beratnya mencapai 64 kilogram per hari. Pada akhir pengamatan, beratnya menjadi 48 kilogram per hari. Dalam pengamatan terpisah terhadap 80 pengunjung pada pekan terakhir, 60 orang menggunakan wadah yang dapat digunakan kembali. Catatan ini memberi gambaran perubahan di pasar tersebut, tetapi belum menjelaskan seluruh sebabnya.
 (2) Selama periode itu, pengelola menjalankan beberapa langkah bersamaan. Pedagang menyediakan pilihan tanpa kantong tambahan, tempat pengisian air ditempatkan dekat pintu, dan petugas mengingatkan pengunjung membawa wadah. Kebiasaan mengambil kemasan sekali pakai pun mulai berubah. Langkah-langkah tersebut dapat membantu menjelaskan penurunan sampah yang tercatat. Namun, karena dilakukan bersamaan, pengamatan belum dapat memastikan sumbangan masing-masing langkah. Jumlah pembeli juga tidak selalu sama dari hari ke hari.
@@ -630,6 +728,8 @@ D. mengkritik perubahan lokasi sampah yang membuat tempat tampak bersih tanpa me
 E. menjelaskan bahwa petugas harus memindahkan semua sampah agar program dianggap berhasil
 
 Kunci: D
+
+---
 
 51. Menghitung Sampah, Memeriksa Kebiasaan
 (1) Pengelola Pasar Tanjung mencatat sampah campuran selama enam pekan. Pada awal pengamatan, beratnya mencapai 64 kilogram per hari. Pada akhir pengamatan, beratnya menjadi 48 kilogram per hari. Dalam pengamatan terpisah terhadap 80 pengunjung pada pekan terakhir, 60 orang menggunakan wadah yang dapat digunakan kembali. Catatan ini memberi gambaran perubahan di pasar tersebut, tetapi belum menjelaskan seluruh sebabnya.
@@ -646,6 +746,8 @@ E. paragraf kedua memperluas hasil pengamatan pada paragraf pertama menjadi kead
 
 Kunci: C
 
+---
+
 52. Lumbung Pangan dan Batas Solidaritas
 (1) Warga Kampung Wening menghidupkan kembali lumbung pangan bersama. Setiap keluarga boleh memberikan beras, bahan makanan, atau tenaga sesuai kemampuannya. Kontribusi itu dikumpulkan untuk membantu tetangga yang mengalami kesulitan sementara. Pengelola tidak menetapkan jumlah minimum dan tidak menganggap bantuan sebagai pinjaman. Dengan cara tersebut, lumbung menjadi tempat mempertemukan kebutuhan sebagian warga dengan kesediaan warga lain untuk membantu.
 (2) Manfaat lumbung tidak berhenti pada tersedianya bahan makanan. Keluarga yang sedang kehilangan penghasilan dapat menerima bantuan tanpa harus menjelaskan kesulitannya di depan banyak orang. Nama penerima tidak dipasang pada papan informasi. Pengelola cukup mencatatnya untuk memastikan pembagian berlangsung adil. Cara ini menjaga martabat penerima sekaligus memungkinkan bantuan diberikan sebelum persoalan mereka semakin berat. Warga juga dapat membantu secara bergiliran tanpa harus memiliki uang berlebih.
@@ -660,6 +762,8 @@ D. paragraf ketiga menunjukkan risiko praktik yang dapat mengurangi manfaat pada
 E. paragraf ketiga membandingkan jenis bahan makanan dengan jenis bantuan pada paragraf kedua
 
 Kunci: D
+
+---
 
 53. Lumbung Pangan dan Batas Solidaritas
 (1) Warga Kampung Wening menghidupkan kembali lumbung pangan bersama. Setiap keluarga boleh memberikan beras, bahan makanan, atau tenaga sesuai kemampuannya. Kontribusi itu dikumpulkan untuk membantu tetangga yang mengalami kesulitan sementara. Pengelola tidak menetapkan jumlah minimum dan tidak menganggap bantuan sebagai pinjaman. Dengan cara tersebut, lumbung menjadi tempat mempertemukan kebutuhan sebagian warga dengan kesediaan warga lain untuk membantu.
@@ -676,6 +780,8 @@ E. Warga membatasi bantuan kepada keluarga penyumbang terbesar agar semangat mem
 
 Kunci: C
 
+---
+
 54. Lumbung Pangan dan Batas Solidaritas
 (1) Warga Kampung Wening menghidupkan kembali lumbung pangan bersama. Setiap keluarga boleh memberikan beras, bahan makanan, atau tenaga sesuai kemampuannya. Kontribusi itu dikumpulkan untuk membantu tetangga yang mengalami kesulitan sementara. Pengelola tidak menetapkan jumlah minimum dan tidak menganggap bantuan sebagai pinjaman. Dengan cara tersebut, lumbung menjadi tempat mempertemukan kebutuhan sebagian warga dengan kesediaan warga lain untuk membantu.
 (2) Manfaat lumbung tidak berhenti pada tersedianya bahan makanan. Keluarga yang sedang kehilangan penghasilan dapat menerima bantuan tanpa harus menjelaskan kesulitannya di depan banyak orang. Nama penerima tidak dipasang pada papan informasi. Pengelola cukup mencatatnya untuk memastikan pembagian berlangsung adil. Cara ini menjaga martabat penerima sekaligus memungkinkan bantuan diberikan sebelum persoalan mereka semakin berat. Warga juga dapat membantu secara bergiliran tanpa harus memiliki uang berlebih.
@@ -690,6 +796,8 @@ D. Daftar jumlah sumbangan setiap keluarga dipasang setiap pekan.
 E. Nama penerima bantuan tidak dipasang pada papan informasi.
 
 Kunci: E
+
+---
 
 55. Bangku di Beranda
 Embun belum lepas dari daun,
@@ -722,6 +830,8 @@ E. malam hari ketika pemilik rumah menutup tirai
 
 Kunci: D
 
+---
+
 56. Bangku di Beranda
 Embun belum lepas dari daun,
 ayam pertama memecah sunyi.
@@ -753,6 +863,8 @@ E. Tokoh menolak perubahan waktu agar kehidupan tetap seperti sebelum ibunya men
 
 Kunci: C
 
+---
+
 57. Jalur Panjang Sekarung Beras
 (1) Pedagang di Kota Ranu menghadapi kenaikan ongkos pengiriman beras setelah sebuah jembatan ditutup untuk perbaikan. Truk yang biasanya melewati jalur timur harus memutar melalui jalan barat. Waktu tempuh bertambah, begitu pula kebutuhan bahan bakar. Biaya pengiriman satu muatan naik dari Rp200.000 menjadi Rp300.000. Sebagian pedagang menaikkan harga jual, sementara yang lain memakai persediaan lama untuk sementara.
 (2) Keadaan tersebut memperlihatkan bahwa harga di kios tidak hanya berhubungan dengan harga panen. Pengangkutan, penyimpanan, dan ketersediaan barang juga perlu diperhatikan. Beberapa kios belum mengalami kenaikan yang sama karena mengambil barang dari pemasok berbeda. Oleh karena itu, perubahan harga beras di kota ini tidak dapat langsung digunakan untuk menggambarkan perubahan semua barang di seluruh wilayah. Catatan perlu menyebut jenis barang dan tempat pengamatannya.
@@ -768,6 +880,8 @@ D. Penetapan harga jual barang dari persediaan lama untuk menjaga pendapatan set
 E. Perubahan harga seluruh barang di berbagai wilayah berdasarkan kenaikan harga beras di Kota Ranu.
 
 Kunci: A
+
+---
 
 58. Jalur Panjang Sekarung Beras
 (1) Pedagang di Kota Ranu menghadapi kenaikan ongkos pengiriman beras setelah sebuah jembatan ditutup untuk perbaikan. Truk yang biasanya melewati jalur timur harus memutar melalui jalan barat. Waktu tempuh bertambah, begitu pula kebutuhan bahan bakar. Biaya pengiriman satu muatan naik dari Rp200.000 menjadi Rp300.000. Sebagian pedagang menaikkan harga jual, sementara yang lain memakai persediaan lama untuk sementara.
@@ -785,6 +899,8 @@ E. pengurangan seluruh persediaan agar tidak diperlukan pemasok tambahan
 
 Kunci: C
 
+---
+
 59. Jalur Panjang Sekarung Beras
 (1) Pedagang di Kota Ranu menghadapi kenaikan ongkos pengiriman beras setelah sebuah jembatan ditutup untuk perbaikan. Truk yang biasanya melewati jalur timur harus memutar melalui jalan barat. Waktu tempuh bertambah, begitu pula kebutuhan bahan bakar. Biaya pengiriman satu muatan naik dari Rp200.000 menjadi Rp300.000. Sebagian pedagang menaikkan harga jual, sementara yang lain memakai persediaan lama untuk sementara.
 (2) Keadaan tersebut memperlihatkan bahwa harga di kios tidak hanya berhubungan dengan harga panen. Pengangkutan, penyimpanan, dan ketersediaan barang juga perlu diperhatikan. Beberapa kios belum mengalami kenaikan yang sama karena mengambil barang dari pemasok berbeda. Oleh karena itu, perubahan harga beras di kota ini tidak dapat langsung digunakan untuk menggambarkan perubahan semua barang di seluruh wilayah. Catatan perlu menyebut jenis barang dan tempat pengamatannya.
@@ -801,6 +917,8 @@ E. Truk menempuh jalan memutar sehingga kebutuhan bahan bakar bertambah.
 
 Kunci: E
 
+---
+
 60. Kinerja industri tekstil dan produk tekstil (TPT) ternyata masih cukup bagus. Bahkan, produksi IPI naik dibandingkan dengan tahun lalu. Ekspor TPT juga meningkat. Bukan hanya produksi dan ekspor TPT yang meningkat, melainkan investasi di sektor industri TPT juga mengalami kenaikan. Pasar terbesar ekspor TPT Indonesia adalah Amerika Serikat dengan ekspor naik 21 persen, disusul oleh Uni Eropa.
 Kalimat tanya yang sesuai dengan isi paragraf tersebut adalah ....
 
@@ -811,6 +929,8 @@ D. Bagaimana kondisi kinerja TPT Indonesia?
 E. Mengapa Indonesia tertarik mengekspor ke Amerika Serikat?
 
 Kunci: D
+
+---
 
 61. Kinerja industri tekstil dan produk tekstil (TPT) ternyata masih cukup bagus. Bahkan, produksi IPI naik dibandingkan dengan tahun lalu. Ekspor TPT juga meningkat. Bukan hanya produksi dan ekspor TPT yang meningkat, melainkan investasi di sektor industri TPT juga mengalami kenaikan. Pasar terbesar ekspor TPT Indonesia adalah Amerika Serikat dengan ekspor naik 21 persen, disusul oleh Uni Eropa.
 Arti kata estimasi dalam teks tersebut adalah ....
@@ -823,6 +943,8 @@ E. sasaran
 
 Kunci: D
 
+---
+
 62. Pendidikan yang dulu diperjuangkan mati-matian oleh para pejuang kemerdekaan agar seluruh rakyat mendapatkan hak yang sama, ternyata masih menjadi milik segelintir orang tertentu. Setiap tahun, seolah-olah selalu muncul kegaduhan berulang yang berkaitan dengan keinginan orang tua menyekolahkan anaknya. Ternyata, kegaduhan itu muncul karena masalah lama belum tuntas.
 Gagasan utama paragraf tersebut adalah ....
 
@@ -833,6 +955,8 @@ D. perjuangan agar semua anak mendapat kesempatan pendidikan
 E. ketimpangan sosial yang terjadi di bidang pendidikan
 
 Kunci: B
+
+---
 
 63. “Hampir 25 tahun lalu kami berpisah karena keluarga saya harus boyongan ke kota tempat kerja Ayah yang baru di luar pulau.”
 Penggunaan kata serapan boyongan dapat memperjelas peristiwa yang dialami tokoh saya, yaitu ...
@@ -845,6 +969,8 @@ E. Kegiatan  pindah  rumah  untuk  sementara  waktu  dan  akan berpindah 
 
 Kunci: C
 
+---
+
 64. Hubungan makna paragraf kedua dan ketiga adalah ….
 
 A. perbedaan jenis buwuhan berdasarkan jenis acara yang dilangsungkan
@@ -854,6 +980,8 @@ D. perbedaan tata cara buwuhan pada beberapa kelurahan atau desa di Surabaya
 E. penjelasan hubungan hukum agama dengan pengertian masyarakat terhadap buwuhan
 
 Kunci: B
+
+---
 
 65. Hubungan makna antara kalimat (2) dan (3) pada paragraf kedua adalah ….
 
@@ -865,6 +993,8 @@ E. Penyimpulan bahwa teknologi hijau merupakan solusi masalah deforestasi
 
 Kunci: B
 
+---
+
 66. Kalimat yang tepat untuk mengakhiri uraian pada paragraf keempat adalah …
 
 A. Pada sisi lain, teknologi hijau memunculkan deforestasi dan polusi.
@@ -874,6 +1004,8 @@ D. Di samping itu, bumi yang menggunakan teknologi hijau akan semakin menghadapi
 E. Jadi, teknologi hijau berperan dalam menghilangnya keanekaragaman hayati.
 
 Kunci: C
+
+---
 
 67. Makna istilah mobilisasi pada paragraf kedua teks tersebut adalah ....
 
@@ -885,6 +1017,8 @@ E. Berpikir bersama
 
 Kunci: A
 
+---
+
 68. Apa gagasan utama yang disampaikan pada paragraf pertama teks tersebut?
 
 A. Ancaman plastik terhadap lautan.
@@ -894,6 +1028,8 @@ D. Pemompaan CO2 ke atmosfer.
 E. Ancaman bagi negara berkembang.
 
 Kunci: A
+
+---
 
 69. "E...gurumu itu orang desa ini juga. Pasti tahu bahwa saat ini musim maddongi (mengusir burung saat buah padi mulai menguning). Besok kau menghadap, sampaikan bahwa kau membantu Ayah di sawah. Nah, pasti gurumu mengerti mengapa kamu tidak ke sekolah.”
 Aku terpana. Jawaban Ayah benar-benar membuatku hampir menangis histeris. Bagaimana tidak. Lomba semakin dekat, sementara masih banyak materi yang belum aku paham. Terbayang aku akan hancur dan tidak bisa bersaing dengan siswa sekolah lain. Ingin rasanya aku berteriak agar Ayahku tahu bagaimana kacaunya pikiranku. Namun, aku sadar bahwa ini adalah perbuatan yang tidak akan menyelesaikan masalah. Malah akan semakin membuat Ayahku geram. Otakku terus berpikir untuk mencari solusi terbaik. Sambil berjalan mengikuti Ayah dari belakang, aku mulai menyusun strategi. “Bagaimana kalau aku ke rumah iyye-ku (nenek), menyampaikan masalahku ini. Ya, hanya dia yang mampu menundukkan Ayah.”
@@ -911,6 +1047,8 @@ E. Orang tua mengarahkan anak-anak untuk rajin bekerja membantu mereka di sawah 
 
 Kunci: A
 
+---
+
 70. Teks 1
 Rhodamin B adalah zat pewarna yang tersedia di pasar untuk industri tekstil. Zat ini sering disalahgunakan sebagai zat pewarna makanan dan kosmetik di berbagai negara. Jenis makanan yang mengandung Rhodamin B di antaranya kerupuk, terasi, dan makanan ringan. Zat ini juga banyak ditemukan pada kembang gula, sirup, manisan, dawet, bubur, ikan asap, dan cendol. Tampilan makanan yang menggunakan zat ini cenderung menarik dan terkesan menawarkan cita rasa tinggi sehingga ketika harga jualnya tidak semahal tampilannya, banyak yang tertarik untuk membeli dan mengonsumsinya. Zat ini paling berbahaya bila dikonsumsi karena menyebabkan gangguan pada fungsi hati, bahkan kanker hati. Apabila mengonsumsi makanan yang mengandung Rhodamin B, dalam tubuh akan terjadi penumpukan lemak sehingga lama-kelamaan jumlahnya akan terus bertambah. Dampaknya baru akan kelihatan setelah puluhan tahun kemudian. Jika sudah masuk dalam tubuh, akan mengendap pada jaringan hati dan lemak, tidak dapat dikeluarkan, dan dalam jangka waktu lama bisa bersifat karsinogenik.
 Teks 2
@@ -925,6 +1063,8 @@ E. Menjelaskan gejala yang timbul akibat mengkonsumsi makanan yang mengandung Rh
 
 Kunci: D
 
+---
+
 71. Teks 1
 Rhodamin B adalah zat pewarna yang tersedia di pasar untuk industri tekstil. Zat ini sering disalahgunakan sebagai zat pewarna makanan dan kosmetik di berbagai negara. Jenis makanan yang mengandung Rhodamin B di antaranya kerupuk, terasi, dan makanan ringan. Zat ini juga banyak ditemukan pada kembang gula, sirup, manisan, dawet, bubur, ikan asap, dan cendol. Tampilan makanan yang menggunakan zat ini cenderung menarik dan terkesan menawarkan cita rasa tinggi sehingga ketika harga jualnya tidak semahal tampilannya, banyak yang tertarik untuk membeli dan mengonsumsinya. Zat ini paling berbahaya bila dikonsumsi karena menyebabkan gangguan pada fungsi hati, bahkan kanker hati. Apabila mengonsumsi makanan yang mengandung Rhodamin B, dalam tubuh akan terjadi penumpukan lemak sehingga lama-kelamaan jumlahnya akan terus bertambah. Dampaknya baru akan kelihatan setelah puluhan tahun kemudian. Jika sudah masuk dalam tubuh, akan mengendap pada jaringan hati dan lemak, tidak dapat dikeluarkan, dan dalam jangka waktu lama bisa bersifat karsinogenik.
 Teks 2
@@ -938,6 +1078,8 @@ D. Rhodamin B yang berbentuk serbuk kristal dan berwarna hijau digunakan pada in
 E. Rhodamin B berdampak buruk bagi kesehatan, meskipun dampak itu baru terlihat beberapa tahun kemudian.
 
 Kunci: B
+
+---
 
 72. Gentle parenting atau pengasuhan yang lembut pada dasarnya adalah pola pengasuhan yang mengutamakan empati, mengakui perasaan, serta memotivasi anak. Ibu-ibu praktisi gentle parenting membuat batasan yang jelas dalam pengasuhan ini, yakni memberi pilihan pada anak, bukannya perintah. Mereka juga menghindari pemberian hadiah, hukuman, serta ancaman pada anak. Gaya pengasuhan ini memerlukan disiplin diri yang tinggi. Ibu dituntut untuk lebih proaktif bukan reaktif, membuat keputusan dengan pemikiran matang, dan menjadi panutan dalam hal empati, respek, memahami, serta komunikasi.
 Ada banyak hal yang disukai tentang pengasuhan yang lembut ini karena memberikan perspektif baru tentang pengasuhan anak (yang sangat menghormati emosi dan anak sebagai pribadi). Namun, atas dasar pengasuhan lembut ini, anak-anak yang memang belum memiliki kematangan emosi dan memiliki kepatuhan dan pengendalian diri menjadi tokoh utama. Oleh karena itu, hanya dikatakan adil bila orang dewasa, dalam hal ini ibu, yang harus menunjukkan kesabaran dan empati kepada anak.
@@ -955,6 +1097,8 @@ E. memberi masukan kepada ibu yang menerapkan gentle parenting agar melakukan be
 
 Kunci: B
 
+---
+
 73. Gentle parenting atau pengasuhan yang lembut pada dasarnya adalah pola pengasuhan yang mengutamakan empati, mengakui perasaan, serta memotivasi anak. Ibu-ibu praktisi gentle parenting membuat batasan yang jelas dalam pengasuhan ini, yakni memberi pilihan pada anak, bukannya perintah. Mereka juga menghindari pemberian hadiah, hukuman, serta ancaman pada anak. Gaya pengasuhan ini memerlukan disiplin diri yang tinggi. Ibu dituntut untuk lebih proaktif bukan reaktif, membuat keputusan dengan pemikiran matang, dan menjadi panutan dalam hal empati, respek, memahami, serta komunikasi.
 Ada banyak hal yang disukai tentang pengasuhan yang lembut ini karena memberikan perspektif baru tentang pengasuhan anak (yang sangat menghormati emosi dan anak sebagai pribadi). Namun, atas dasar pengasuhan lembut ini, anak-anak yang memang belum memiliki kematangan emosi dan memiliki kepatuhan dan pengendalian diri menjadi tokoh utama. Oleh karena itu, hanya dikatakan adil bila orang dewasa, dalam hal ini ibu, yang harus menunjukkan kesabaran dan empati kepada anak.
 Gentle parenting menganggap bahwa seorang anak tidak boleh diberi tahu bahwa ia telah membuat ibu sedih atau tidak boleh ditegur sekalipun ia telah melakukan hal yang kurang baik. Perilaku buruk anak dalam pengasuhan gentle parenting dianggap sebagai akibat dari stres atau kecemasan anak yang disebabkan oleh orang lain.
@@ -970,6 +1114,8 @@ D. Gentle parenting mensyaratkan orang tua yang proaktif.
 E. Gentle parenting hanya cocok untuk orang tua dengan satu anak.
 
 Kunci: A
+
+---
 
 74. Gentle parenting atau pengasuhan yang lembut pada dasarnya adalah pola pengasuhan yang mengutamakan empati, mengakui perasaan, serta memotivasi anak. Ibu-ibu praktisi gentle parenting membuat batasan yang jelas dalam pengasuhan ini, yakni memberi pilihan pada anak, bukannya perintah. Mereka juga menghindari pemberian hadiah, hukuman, serta ancaman pada anak. Gaya pengasuhan ini memerlukan disiplin diri yang tinggi. Ibu dituntut untuk lebih proaktif bukan reaktif, membuat keputusan dengan pemikiran matang, dan menjadi panutan dalam hal empati, respek, memahami, serta komunikasi.
 Ada banyak hal yang disukai tentang pengasuhan yang lembut ini karena memberikan perspektif baru tentang pengasuhan anak (yang sangat menghormati emosi dan anak sebagai pribadi). Namun, atas dasar pengasuhan lembut ini, anak-anak yang memang belum memiliki kematangan emosi dan memiliki kepatuhan dan pengendalian diri menjadi tokoh utama. Oleh karena itu, hanya dikatakan adil bila orang dewasa, dalam hal ini ibu, yang harus menunjukkan kesabaran dan empati kepada anak.
@@ -987,6 +1133,8 @@ E. Kondisi ibu seolah-olah tidak menjadi prioritas dalam gentle parenting, padah
 
 Kunci: C
 
+---
+
 75. Gentle parenting atau pengasuhan yang lembut pada dasarnya adalah pola pengasuhan yang mengutamakan empati, mengakui perasaan, serta memotivasi anak. Ibu-ibu praktisi gentle parenting membuat batasan yang jelas dalam pengasuhan ini, yakni memberi pilihan pada anak, bukannya perintah. Mereka juga menghindari pemberian hadiah, hukuman, serta ancaman pada anak. Gaya pengasuhan ini memerlukan disiplin diri yang tinggi. Ibu dituntut untuk lebih proaktif bukan reaktif, membuat keputusan dengan pemikiran matang, dan menjadi panutan dalam hal empati, respek, memahami, serta komunikasi.
 Ada banyak hal yang disukai tentang pengasuhan yang lembut ini karena memberikan perspektif baru tentang pengasuhan anak (yang sangat menghormati emosi dan anak sebagai pribadi). Namun, atas dasar pengasuhan lembut ini, anak-anak yang memang belum memiliki kematangan emosi dan memiliki kepatuhan dan pengendalian diri menjadi tokoh utama. Oleh karena itu, hanya dikatakan adil bila orang dewasa, dalam hal ini ibu, yang harus menunjukkan kesabaran dan empati kepada anak.
 Gentle parenting menganggap bahwa seorang anak tidak boleh diberi tahu bahwa ia telah membuat ibu sedih atau tidak boleh ditegur sekalipun ia telah melakukan hal yang kurang baik. Perilaku buruk anak dalam pengasuhan gentle parenting dianggap sebagai akibat dari stres atau kecemasan anak yang disebabkan oleh orang lain.
@@ -1002,6 +1150,8 @@ D. Ibu yang tidak punya banyak waktu untuk anaknya.
 E. Ibu yang tidak mempunyai asisten rumah tangga.
 
 Kunci: D
+
+---
 
 76. Gentle parenting atau pengasuhan yang lembut pada dasarnya adalah pola pengasuhan yang mengutamakan empati, mengakui perasaan, serta memotivasi anak. Ibu-ibu praktisi gentle parenting membuat batasan yang jelas dalam pengasuhan ini, yakni memberi pilihan pada anak, bukannya perintah. Mereka juga menghindari pemberian hadiah, hukuman, serta ancaman pada anak. Gaya pengasuhan ini memerlukan disiplin diri yang tinggi. Ibu dituntut untuk lebih proaktif bukan reaktif, membuat keputusan dengan pemikiran matang, dan menjadi panutan dalam hal empati, respek, memahami, serta komunikasi.
 Ada banyak hal yang disukai tentang pengasuhan yang lembut ini karena memberikan perspektif baru tentang pengasuhan anak (yang sangat menghormati emosi dan anak sebagai pribadi). Namun, atas dasar pengasuhan lembut ini, anak-anak yang memang belum memiliki kematangan emosi dan memiliki kepatuhan dan pengendalian diri menjadi tokoh utama. Oleh karena itu, hanya dikatakan adil bila orang dewasa, dalam hal ini ibu, yang harus menunjukkan kesabaran dan empati kepada anak.
@@ -1019,6 +1169,8 @@ E. Selain berusaha untuk selalu ada untuk anaknya, Dinda akan menyewa pengasuh d
 
 Kunci: E
 
+---
+
 77. (1) Seperti ditulis Wallace dalam The Malay Archipelago, kunjungan pertamanya berlangsung selama September hingga November 1856. (2) Ia berangkat dari Lombok pada 30 Agustus dan sampai di Makassar dalam tiga hari. (3) Pada pencarian pertamanya, ia mendapati begitu banyak kupu-kupu spesies Euploea dan Danais. (4) Kupu-kupu ini biasanya mudah ditemui di bagian teduh hutan dan gemar hinggap di semak-semak. (5) Kupu-kupu di wilayah ini umumnya berwarna biru, hitam pucat, serta kupu-kupu putih yang umum dijumpai. (6) Pada kunjungan kedua selama Juli hingga November 1857, Wallace kembali menyusuri hutan-hutan negeri Angin Mamiri ini. (7) Kali ini, ia masuk ke pedalaman Maros. (8) Di wilayah perbukitan karst yang terjal ini, ia tak banyak mendapati burung langka maupun serangga langka. (9) Beberapa serangga langka yang ia temukan persebarannya tidak merata. (10) Namun, ia menemukan kupu-kupu yang belum pernah ia jumpai.
 Jika paragraf kedua dipisahkan menjadi dua paragraf, kalimat manakah yang tepat untuk menjadi awal paragraf ketiga?
 
@@ -1029,6 +1181,8 @@ D. Kalimat (5) karena membahas deskripsi kupu-kupu unik yang ditemukan oleh Wall
 E. Kalimat (3) karena sudah berbeda dengan pembahasan pada kalimat sebelumnya yang membahas kedatangan kali pertama Wallace di Sulawesi Selatan.
 
 Kunci: C
+
+---
 
 78. Seonggok jagung di kamar
 dan seorang pemuda
@@ -1126,6 +1280,8 @@ E. (3), (4), dan (5)
 
 Kunci: C
 
+---
+
 79. Seonggok jagung di kamar
 dan seorang pemuda
 yang kurang sekolahan.
@@ -1215,6 +1371,8 @@ D. Lebih baik menjadi pemuda yang kurang pendidikan karena pendidikan hanya akan
 E. Pendidikan tidak lebih penting daripada kecakapan hidup, terlebih untuk pemuda desa yang mengandalkan hidup dari bertani.
 
 Kunci: B
+
+---
 
 80. Seonggok jagung di kamar
 dan seorang pemuda
@@ -1306,6 +1464,8 @@ E. Seorang sarjana ekonomi yang menganggur di kota lalu kembali ke kampung, teta
 
 Kunci: E
 
+---
+
 81. Seonggok jagung di kamar
 dan seorang pemuda
 yang kurang sekolahan.
@@ -1396,6 +1556,8 @@ E. Untuk memperjelas bahwa pendidikan tidak dibutuhkan oleh banyak orang.
 
 Kunci: D
 
+---
+
 82. Wacana 1
 Robohnya Surau Kami
 Di surau tua yang hampir roboh itu, aku duduk bersila di samping seorang kakek tua, kurus, dan berjanggut putih. Hujan baru saja reda. Dari jendela kayu yang lapuk, sinar matahari sore menyusup masuk, menyinari lantai yang sudah keropos. Kami berbicara pelan, membahas hidup, mati, dan dunia yang sedang kacau.
@@ -1420,6 +1582,8 @@ D. Takut jika kelak akan mengikuti jejak hidup kakek.
 E. Kecewa karena tidak sempat mengubah pandangan kakek.
 
 Kunci: C
+
+---
 
 83. Wacana 1
 Robohnya Surau Kami
@@ -1446,6 +1610,8 @@ E. Jenuh dan kecewa karena kakek tidak menjawab pertanyaannya dengan tegas.
 
 Kunci: C
 
+---
+
 84. Hikayat Sa-ijaan dan Ikan Todak
 Hatta, ketika laut tenang, seekor ikan besar tiba-tiba muncul dari permukaan laut dan terbang menyerangnya. Tanpa beringsut dari tempat duduk maupun membuka mata, Datu Mabrur menepis serangan mendadak itu. Ikan itu terpelanting dan jatuh di karang. Setelah jatuh ke air, ikan itu menyerang lagi. Demikian berulang-ulang. Di sekeliling karang, ribuan ikan lain mengepung, memperlihatkan gigi mereka yang panjang dan tajam, seakan prajurit siap tempur. Pada serangannya yang terakhir, ikan itu terpelanting jatuh persis saat Datu Mabrur membuka matanya.
 “Hai, ikan! Apa maksudmu mengganggu samadiku? Ikan apa kamu?”
@@ -1469,6 +1635,8 @@ E. Raja ikan menyerang Datu Mabrur — Datu Mabrur mengusulkan perjanjian — pe
 
 Kunci: A
 
+---
+
 85. Hikayat Sa-ijaan dan Ikan Todak
 Hatta, ketika laut tenang, seekor ikan besar tiba-tiba muncul dari permukaan laut dan terbang menyerangnya. Tanpa beringsut dari tempat duduk maupun membuka mata, Datu Mabrur menepis serangan mendadak itu. Ikan itu terpelanting dan jatuh di karang. Setelah jatuh ke air, ikan itu menyerang lagi. Demikian berulang-ulang. Di sekeliling karang, ribuan ikan lain mengepung, memperlihatkan gigi mereka yang panjang dan tajam, seakan prajurit siap tempur. Pada serangannya yang terakhir, ikan itu terpelanting jatuh persis saat Datu Mabrur membuka matanya.
 “Hai, ikan! Apa maksudmu mengganggu samadiku? Ikan apa kamu?”
@@ -1491,6 +1659,8 @@ D. Datu Mabrur mengajak semua ikan menyerang kerajaan manusia
 E. Raja Ikan Todak mengangkat Datu Mabrur menjadi raja laut
 
 Kunci: C
+
+---
 
 86. Pahlawan Tak Dikenal
 Sepuluh tahun yang lalu dia terbaring
@@ -1524,6 +1694,8 @@ E. Gambaran ketidaktahuan kita dalam menghormati seorang pahlawan
 
 Kunci: C
 
+---
+
 87. Pahlawan Tak Dikenal
 Sepuluh tahun yang lalu dia terbaring
 Tetapi bukan tidur, saying
@@ -1556,6 +1728,8 @@ E. Menata beberapa tangkai bunga untuk pahlawan
 
 Kunci: B
 
+---
+
 88. Metode Bercocok Tanam di Lahan Sempit
 Urbanisasi yang terjadi secara masif menimbulkan berbagai tantangan serius, terutama dalam hal penyediaan pangan dan keterbatasan lahan. Seiring dengan pertumbuhan populasi yang pesat, kebutuhan akan makanan segar meningkat, sementara lahan perkotaan semakin sempit karena dialokasikan untuk pembangunan infrastruktur, perumahan, dan fasilitas publik. Situasi ini menyebabkan ketergantungan tinggi pada pasokan dari luar kota yang rentan terhadap gangguan distribusi dan peningkatan biaya. Kondisi ini menuntut adanya inovasi dalam sistem produksi pangan agar kebutuhan masyarakat tetap terpenuhi. Perlu metode bercocok tanam yang dapat diterapkan di dalam ruang terbatas.
 Inovasi metode bercocok tanam yang dapat mengatasi keterbatasan lahan di kota besar, yaitu pertanian vertikal. Metode ini dilakukan dengan menyusun tanaman dalam rak-rak bertingkat di lingkungan yang terkontrol. Metode ini memanfaatkan teknologi modern seperti hidroponik, aeroponik, dan pencahayaan LED. Sistem ini memungkinkan produksi pangan dilakukan dalam ruang terbatas secara efisien sehingga sangat cocok diterapkan di wilayah perkotaan. Selain menghemat lahan, pertanian vertikal juga dapat mengurangi penggunaan air, pestisida, serta tidak tergantung pada musim.
@@ -1574,6 +1748,8 @@ E. Penduduk kota harus dibiasakan untuk mengurangi konsumsi makanan segar dan be
 
 Kunci: B
 
+---
+
 89. Apa makna kata hajatan pada teks tersebut?
 
 A. Kegiatan kerja bakti membersihkan lingkungan sekitar.
@@ -1584,6 +1760,8 @@ E. Acara atau pesta yang diadakan untuk memperingati hal penting.
 
 Kunci: E
 
+---
+
 90. Manakah gagasan yang mendukung ide pokok bahwa buwuhan adalah bentuk utang?
 
 A. Praktik buwuhan disertai dengan perjanjian utang piutang secara tertulis.
@@ -1593,6 +1771,8 @@ D. Buwuhan dilakukan oleh tetangga dan kerabat sebagai bentuk pertukaran solidar
 E. Penerima buwuhan merasa harus mengembalikan bantuan yang diterima di kemudian hari.
 
 Kunci: E
+
+---
 
 91. "Oleh karena itu, pemahaman masyarakat terhadap tradisi buwuhan perlu diluruskan agar nilai luhur tolong-menolong tetap terjaga tanpa menimbulkan beban yang tidak perlu."
 Kalimat tersebut dapat menjadi kesimpulan yang sesuai teks argumentasi tersebut karena ….
@@ -1605,6 +1785,8 @@ E. menggarisbawahi solusi untuk melestarikan tradisi buwuhan di seluruh wilayah 
 
 Kunci: D
 
+---
+
 92. Berdasarkan teks tersebut, bagaimana sifat yang dimiliki oleh Layur?
 
 A. Nekat dan optimis
@@ -1614,6 +1796,8 @@ D. Suka menyendiri dan tegas
 E. Cepat panik dan menyalahkan keadaan
 
 Kunci: C
+
+---
 
 93. Apa yang menyebabkan Layur kesal kepada Bapak?
 
@@ -1625,6 +1809,8 @@ E. Tidak menepati janjinya untuk pulang tepat waktu ketika melaut
 
 Kunci: D
 
+---
+
 94. Bagaimana kisah yang sesuai untuk menutup cerita Layur merasa lega pada cerita tersebut?
 
 A. Bapak meminta maaf pada Layur dan menceritakan penyebabnya pulang terlambat.
@@ -1634,6 +1820,8 @@ D. Layur membereskan sampan dan memberikan hasil tangkapan yang tidak seberapa k
 E. Layur berterima kasih kepada Bapak karena telah menunggunya pulang dari melaut berhari-hari.
 
 Kunci: A
+
+---
 
 95. Bagaimana reaksi yang ditunjukkan oleh Bapak ketika rumahnya luluh lantak dan bondet buatannya melukai Layur?
 
@@ -1645,6 +1833,8 @@ E. Bingung dan berusaha mencerna terhadap apa yang telah terjadi.
 
 Kunci: C
 
+---
+
 96. Apa pesan moral yang disiratkan melalui dialog antara Pak Wayan dan petugas kebersihan?
 
 A. Menjaga kebersihan pantai adalah tanggung jawab utama pemerintah dan petugas kebersihan
@@ -1654,6 +1844,8 @@ D. Media sosial bisa menjadi sarana positif untuk mengampanyekan kepedulian terh
 E. Nelayan dan petugas kebersihan sering kali menjadi pihak yang terdampak langsung oleh sampah
 
 Kunci: C
+
+---
 
 97. Manakah relevansi paling kuat antara sindiran dalam teks dengan realitas kehidupan sehari-hari, terutama terkait kesadaran lingkungan dan pencitraan?
 
@@ -1665,6 +1857,8 @@ E. Kontras antara spanduk "Bersih Tanpa Sampah" dengan sampah kenangan yang diti
 
 Kunci: B
 
+---
+
 98. Bagaimana hubungan makna antara paragraf 1 dan paragraf 2 dalam teks tersebut?
 
 A. Paragraf 2 menjelaskan akibat dari fenomena sampah yang diuraikan di paragraf 1
@@ -1674,6 +1868,8 @@ D. Paragraf 2 mengkritisi data yang rancu tentang sampah yang disajikan di parag
 E. Paragraf 2 menguraikan penyebab dari permasalahan yang dijabarkan di paragraf 1
 
 Kunci: E
+
+---
 
 99. Mengapa penulis memilih istilah 'bahu-membahu' untuk menggambarkan peran semua pihak dalam upaya pelestarian lingkungan?
 
@@ -1685,6 +1881,8 @@ E. Menunjukkan bahwa konteks ini terlalu ambigu dan tidak ada definisi yang jela
 
 Kunci: A
 
+---
+
 100. Fenomena yang menggambarkan "inflasi" berdasarkan teks di atas adalah ...
 
 A. Pengencangan anggaran negara karena kurangnya barang dan jasa
@@ -1694,6 +1892,8 @@ D. Pergeseran tren pasar global terhadap produk-produk dari Indonesia
 E. Lambatnya sektor manufaktur global akibat menurunnya pembelian
 
 Kunci: B
+
+---
 
 101. Peristiwa yang menggambarkan tantangan perekonomian global adalah ...
 
@@ -1705,6 +1905,8 @@ E. Geopolitik memperlancar jalur perdagangan dan produksi sehingga menciptakan i
 
 Kunci: D
 
+---
+
 102. Manakah pernyataan yang dapat menjadi kelanjutan teks tersebut?
 
 A. Peran aktif IMF dan Bank Dunia dalam menanggulangi krisis ekonomi dan pembentukan SDM di negara berkembang secara global
@@ -1714,6 +1916,8 @@ D. Analisis mengenai skenario dan kemungkinan-kemungkinan terkait evolusi inflas
 E. Pentingnya investasi di sektor manufaktur untuk meningkatkan ekspor dan mengurangi gangguan rantai pasok secara global
 
 Kunci: D
+
+---
 
 103. Latar tempat yang tergambar dalam cerita tersebut adalah ….
 
@@ -1725,6 +1929,8 @@ E. pantai dengan pasir putih
 
 Kunci: D
 
+---
+
 104. Apa yang menyebabkan konflik dalam kutipan cerpen tersebut?
 
 A. Tokoh utama dan kawan-kawan tersesat di tengah hutan belantara
@@ -1734,6 +1940,8 @@ D. Ketua adat tidak menyukai kehadiran orang luar di wilayahnya
 E. Kelompok tokoh utama dianggap mengancam kelestarian hutan
 
 Kunci: E
+
+---
 
 105. Apa yang akan dilakukan tokoh utama setelah mengalami peristiwa tersebut?
 
@@ -1745,6 +1953,8 @@ E. Mencari orang pintar untuk mengusir Roh Meratus yang berada di hutan tersebut
 
 Kunci: A
 
+---
+
 106. Apa makna kata sesepuh pada teks tersebut?
 
 A. keluarga yang dihormati oleh seluruh warga desa
@@ -1754,6 +1964,8 @@ D. pengurus atau perangkat desa yang sudah tua
 E. laki-laki yang sudah menikah dan memiliki anak
 
 Kunci: B
+
+---
 
 107. Tradisi belis memiliki banyak nilai positif.
 Manakah gagasan penjelas yang mendukung gagasan pokok tersebut?
@@ -1766,6 +1978,8 @@ E. Belis harus berupa gading gajah dan tidak bisa digantikan dengan benda lain.
 
 Kunci: D
 
+---
+
 108. Bagaimana hubungan makna antara paragraf kedua dan ketiga pada teks tersebut?
 
 A. Paragraf kedua mempertentangkan mengenai pelestarian tradisi belis beserta contohnya di paragraf ketiga.
@@ -1775,6 +1989,8 @@ D. Paragraf ketiga menjelaskan tata laksana tradisi belis berdasarkan filosofiny
 E. Paragraf ketiga memaparkan dampak negatif tradisi belis, meskipun maknanya baik seperti yang dijelaskan di paragraf kedua.
 
 Kunci: E
+
+---
 
 109. “Dengan demikian, perlu untuk memikirkan ulang makna belis dan menetapkan cara ataupun perhitungan besaran belis yang lebih fleksibel.”
 Kalimat tersebut dapat menjadi kesimpulan yang sesuai teks argumentasi tersebut karena ….
@@ -1787,6 +2003,8 @@ E. menyimpulkan solusi konkret untuk masalah yang dibahas, yaitu beban finansial
 
 Kunci: E
 
+---
+
 110. Isi teks tersebut adalah ....
 
 A. kurangnya perhatian masyarakat Indonesia terhadap penderita penyakit batu empedu.
@@ -1797,6 +2015,8 @@ E. masalah pengobatan penderita batu empedu di Indonesia.
 
 Kunci: A
 
+---
+
 111. Kalimat yang rancu strukturnya terdapat pada nomor ....
 
 A. (1)
@@ -1806,6 +2026,8 @@ D. (4)
 E. (5)
 
 Kunci: D
+
+---
 
 112. TEKS 1: Catatan Kurator Pameran
 (1) Sebuah foto lama dipilih untuk pameran perkembangan Kota Kertala. Di dalam bingkai tampak tiga puluh orang berdiri di depan menara air. Sebagian tersenyum menghadap kamera. Nama menara diketahui dari tulisan di belakang foto. Foto diterima oleh ruang arsip pada 1972. Label awal berbunyi, "Semua warga bergembira pada peresmian Menara Kertala, 1972." Keterangan kegiatan itu belum ditelusuri melalui dokumen lain.
@@ -1827,6 +2049,8 @@ E. Teks 2 memperjelas batas bukti untuk memperbaiki label, tanpa meniadakan nila
 
 Kunci: E
 
+---
+
 113. TEKS 1: Catatan Kurator Pameran
 (1) Sebuah foto lama dipilih untuk pameran perkembangan Kota Kertala. Di dalam bingkai tampak tiga puluh orang berdiri di depan menara air. Sebagian tersenyum menghadap kamera. Nama menara diketahui dari tulisan di belakang foto. Foto diterima oleh ruang arsip pada 1972. Label awal berbunyi, "Semua warga bergembira pada peresmian Menara Kertala, 1972." Keterangan kegiatan itu belum ditelusuri melalui dokumen lain.
 (2) Kurator ingin menghubungkan benda dalam pameran dengan kehidupan masyarakat. Menara air dapat menjadi pintu masuk untuk membicarakan perubahan kota. Foto orang-orang di depannya terasa lebih dekat daripada gambar bangunan kosong. Pengunjung dapat memperhatikan pakaian, jarak antartokoh, dan cara mereka menghadap kamera. Namun, hal yang terlihat dalam bingkai tidak selalu menjelaskan alasan orang berkumpul. Senyum seseorang juga tidak mewakili sikap orang yang berada di luar foto.
@@ -1847,6 +2071,8 @@ E. Diketahui: kesaksian narasumber memastikan acara perawatan. Belum diketahui: 
 
 Kunci: D
 
+---
+
 114. Sore itu, Mak Ijah masih duduk di bangku bambu depan rumahnya yang berlantai tanah. Di pangkuannya terhampar kebaya yang robek di bagian lengan, sementara jarum di tangannya bergerak pelan, seolah menimbang apakah benang tua itu masih sanggup bertahan. Dari kejauhan, deru ojek dan teriakan pedagang kaki lima di jalan raya terdengar samar, tetapi kampung kecil itu seperti menutup telinga. Tak ada lagi anak-anak yang berlari di gang sempit. Satu per satu mereka pergi ke kota, dan yang tersisa hanyalah rumah-rumah reyot dengan jendela yang jarang terbuka.
 
 Ketika Rani, cucunya, pulang membawa koper besar, Mak Ijah hanya mengangguk. "Aku bisa beli yang baru, Mak," kata Rani sambil menunjuk kebaya itu. Mak Ijah tidak menjawab. Ia menggigit ujung benang, lalu berkata lirih, "Yang baru tidak punya bekas keringat Embahmu." Rani terdiam. Malam itu, untuk pertama kalinya setelah sepuluh tahun, ia ikut duduk di bangku bambu dan memintal benang bersama neneknya.
@@ -1860,6 +2086,8 @@ D. pasar tradisional yang sibuk dan riuh
 E. perumahan modern yang tenang dan nyaman
 
 Kunci: C
+
+---
 
 115. Sore itu, Mak Ijah masih duduk di bangku bambu depan rumahnya yang berlantai tanah. Di pangkuannya terhampar kebaya yang robek di bagian lengan, sementara jarum di tangannya bergerak pelan, seolah menimbang apakah benang tua itu masih sanggup bertahan. Dari kejauhan, deru ojek dan teriakan pedagang kaki lima di jalan raya terdengar samar, tetapi kampung kecil itu seperti menutup telinga. Tak ada lagi anak-anak yang berlari di gang sempit. Satu per satu mereka pergi ke kota, dan yang tersisa hanyalah rumah-rumah reyot dengan jendela yang jarang terbuka.
 
@@ -1875,6 +2103,8 @@ E. Merantau adalah satu-satunya jalan untuk meraih kesuksesan.
 
 Kunci: A
 
+---
+
 116. Sore itu, Mak Ijah masih duduk di bangku bambu depan rumahnya yang berlantai tanah. Di pangkuannya terhampar kebaya yang robek di bagian lengan, sementara jarum di tangannya bergerak pelan, seolah menimbang apakah benang tua itu masih sanggup bertahan. Dari kejauhan, deru ojek dan teriakan pedagang kaki lima di jalan raya terdengar samar, tetapi kampung kecil itu seperti menutup telinga. Tak ada lagi anak-anak yang berlari di gang sempit. Satu per satu mereka pergi ke kota, dan yang tersisa hanyalah rumah-rumah reyot dengan jendela yang jarang terbuka.
 
 Ketika Rani, cucunya, pulang membawa koper besar, Mak Ijah hanya mengangguk. "Aku bisa beli yang baru, Mak," kata Rani sambil menunjuk kebaya itu. Mak Ijah tidak menjawab. Ia menggigit ujung benang, lalu berkata lirih, "Yang baru tidak punya bekas keringat Embahmu." Rani terdiam. Malam itu, untuk pertama kalinya setelah sepuluh tahun, ia ikut duduk di bangku bambu dan memintal benang bersama neneknya.
@@ -1888,6 +2118,8 @@ D. "Rani terdiam."
 E. "Yang baru tidak punya bekas keringat Embahmu."
 
 Kunci: E
+
+---
 
 117. Sore itu, Mak Ijah masih duduk di bangku bambu depan rumahnya yang berlantai tanah. Di pangkuannya terhampar kebaya yang robek di bagian lengan, sementara jarum di tangannya bergerak pelan, seolah menimbang apakah benang tua itu masih sanggup bertahan. Dari kejauhan, deru ojek dan teriakan pedagang kaki lima di jalan raya terdengar samar, tetapi kampung kecil itu seperti menutup telinga. Tak ada lagi anak-anak yang berlari di gang sempit. Satu per satu mereka pergi ke kota, dan yang tersisa hanyalah rumah-rumah reyot dengan jendela yang jarang terbuka.
 
@@ -1903,6 +2135,8 @@ E. bangga karena tokoh berhasil memenangkan persaingan
 
 Kunci: B
 
+---
+
 118. Kata-kata serapan berikut yang asal bahasanya dicatat dengan tepat adalah ...
 
 A. kursi (Portugis), sepatu (Arab), bandar (Jawa)
@@ -1913,6 +2147,8 @@ E. kursi (Persia), bandar (Arab), rendang (Portugis)
 
 Kunci: D
 
+---
+
 119. Kalimat yang menggunakan pilihan kata dan ejaan secara tepat adalah ...
 
 A. Para peserta rapat itu mengemukakan beberapa saran-saran untuk perbaikan.
@@ -1922,6 +2158,8 @@ D. Hal tersebut disebabkan karena kurangnya pengawasan.
 E. Dia mengatakan, bahwa acara akan dimulai pukul delapan.
 
 Kunci: B
+
+---
 
 120. (1) Setiap tahun, Indonesia menghasilkan jutaan ton sampah makanan. Angka ini bukan sekadar statistik, melainkan cerminan kebiasaan sehari-hari: nasi yang tersisa di piring, sayur yang layu di lemari es, dan makanan hajatan yang tidak habis dimakan.
 
@@ -1941,6 +2179,8 @@ E. 1. Besarnya sampah makanan di Indonesia; 2. Dampak lingkungan sampah makanan;
 
 Kunci: E
 
+---
+
 121. (1) Setiap tahun, Indonesia menghasilkan jutaan ton sampah makanan. Angka ini bukan sekadar statistik, melainkan cerminan kebiasaan sehari-hari: nasi yang tersisa di piring, sayur yang layu di lemari es, dan makanan hajatan yang tidak habis dimakan.
 
 (2) Sampah makanan tidak hanya membuang uang. Ketika membusuk di tempat pembuangan akhir, makanan menghasilkan gas metana yang menghangatkan atmosfer jauh lebih kuat daripada karbon dioksida. Artinya, piring yang tidak dihabiskan ikut menyumbang pemanasan global.
@@ -1958,6 +2198,8 @@ D. urutan waktu setelah penjelasan sebelumnya
 E. syarat terjadinya peristiwa sebelumnya
 
 Kunci: A
+
+---
 
 122. (1) Setiap tahun, Indonesia menghasilkan jutaan ton sampah makanan. Angka ini bukan sekadar statistik, melainkan cerminan kebiasaan sehari-hari: nasi yang tersisa di piring, sayur yang layu di lemari es, dan makanan hajatan yang tidak habis dimakan.
 
@@ -1977,6 +2219,8 @@ E. Toni mengajak teman-temannya makan di restoran mewah setiap akhir pekan.
 
 Kunci: C
 
+---
+
 123. (1) Setiap tahun, Indonesia menghasilkan jutaan ton sampah makanan. Angka ini bukan sekadar statistik, melainkan cerminan kebiasaan sehari-hari: nasi yang tersisa di piring, sayur yang layu di lemari es, dan makanan hajatan yang tidak habis dimakan.
 
 (2) Sampah makanan tidak hanya membuang uang. Ketika membusuk di tempat pembuangan akhir, makanan menghasilkan gas metana yang menghangatkan atmosfer jauh lebih kuat daripada karbon dioksida. Artinya, piring yang tidak dihabiskan ikut menyumbang pemanasan global.
@@ -1995,6 +2239,8 @@ E. Menyumbangkan kelebihan makanan tidak berpengaruh pada masalah sampah makanan
 
 Kunci: D
 
+---
+
 124. Kelompok kata serapan berikut yang semuanya sudah sesuai dengan kaidah penulisan baku adalah ...
 
 A. analisis, kualitas, apotek
@@ -2004,6 +2250,8 @@ D. sistim, aktifitas, konsekwen
 E. teknik, jadual, hakikat
 
 Kunci: A
+
+---
 
 125. Senja di Dermaga Lama
 
@@ -2025,6 +2273,8 @@ E. marah dan penuh dendam
 
 Kunci: C
 
+---
+
 126. Senja di Dermaga Lama
 
 Perahu-perahu tertidur, lambungnya berkarat dimakan waktu.
@@ -2044,6 +2294,8 @@ D. bangga terhadap anak-anak yang berani berlayar
 E. iba dan haru karena senja digambarkan seolah ikut menyimpan duka lelaki tua itu
 
 Kunci: E
+
+---
 
 127. Senja di Dermaga Lama
 
@@ -2065,6 +2317,8 @@ E. "Senja merunduk, menutup lukanya dengan jingga."
 
 Kunci: D
 
+---
+
 128. Warga RW 05, Kelurahan Sumbersari, mengubah lahan kosong bekas tempat pembuangan sampah menjadi kebun sayur komunal sejak Januari lalu.
 
 Awalnya, lahan seluas 600 meter persegi itu dipenuhi tumpukan sampah dan sering memicu banjir kecil saat hujan. Ketua RW, Bambang Hartono, mengatakan gagasan tersebut muncul setelah warga lelah mengeluhkan bau dan serangan nyamuk.
@@ -2084,6 +2338,8 @@ D. Warga menanam sayur, lahan banjir, lalu sampah diangkut.
 E. Ketua RW menjual lahan, warga pindah, lalu kebun ditutup.
 
 Kunci: B
+
+---
 
 129. Warga RW 05, Kelurahan Sumbersari, mengubah lahan kosong bekas tempat pembuangan sampah menjadi kebun sayur komunal sejak Januari lalu.
 
@@ -2105,6 +2361,8 @@ E. belum cukup kuat sebagai bukti sebab-akibat karena hanya membandingkan jumlah
 
 Kunci: E
 
+---
+
 130. Warga RW 05, Kelurahan Sumbersari, mengubah lahan kosong bekas tempat pembuangan sampah menjadi kebun sayur komunal sejak Januari lalu.
 
 Awalnya, lahan seluas 600 meter persegi itu dipenuhi tumpukan sampah dan sering memicu banjir kecil saat hujan. Ketua RW, Bambang Hartono, mengatakan gagasan tersebut muncul setelah warga lelah mengeluhkan bau dan serangan nyamuk.
@@ -2124,6 +2382,8 @@ D. 1. Keluhan warga lanjut usia; 2. Cara meratakan tanah; 3. Jumlah keluarga; 4.
 E. 1. Banjir di perkotaan; 2. Pengelolaan sampah nasional; 3. Peran pemerintah; 4. Bantuan dana
 
 Kunci: B
+
+---
 
 131. Warga RW 05, Kelurahan Sumbersari, mengubah lahan kosong bekas tempat pembuangan sampah menjadi kebun sayur komunal sejak Januari lalu.
 
@@ -2145,6 +2405,8 @@ E. syarat agar kebun dapat terus berjalan
 
 Kunci: D
 
+---
+
 132. Kalimat yang efektif dan sesuai dengan kaidah kebahasaan adalah ...
 
 A. Setelah membaca laporan itu, kepala sekolah memutuskan untuk memperpanjang waktu pendaftaran.
@@ -2154,6 +2416,8 @@ D. Waktu pendaftaran daripada siswa baru diperpanjang oleh Kepala Sekolah itu.
 E. Di dalam laporan itu menunjukkan bahwa waktu pendaftaran perlu diperpanjang.
 
 Kunci: A
+
+---
 
 133. Bacalah kutipan berikut.
 
@@ -2168,6 +2432,8 @@ D. Pak Camat meminta warga menyediakan jalur alternatif sendiri.
 E. Rapat desa memutuskan untuk membatalkan pembangunan jembatan.
 
 Kunci: C
+
+---
 
 134. Babak II. Ruang tamu rumah sederhana. Pak Darmo duduk memegang amplop cokelat. Dina masuk membawa tas sekolah.
 
@@ -2193,6 +2459,8 @@ E. ingin menyembunyikan kesulitan ekonomi demi menjaga ketenangan anaknya
 
 Kunci: E
 
+---
+
 135. Babak II. Ruang tamu rumah sederhana. Pak Darmo duduk memegang amplop cokelat. Dina masuk membawa tas sekolah.
 
 DINA: (berhenti di pintu) Ayah belum tidur?
@@ -2216,6 +2484,8 @@ D. Dina menjual sepeda tua untuk membayar uang ujian.
 E. Pak Darmo menuduh Dina berbohong tentang uang ujian.
 
 Kunci: C
+
+---
 
 136. Babak II. Ruang tamu rumah sederhana. Pak Darmo duduk memegang amplop cokelat. Dina masuk membawa tas sekolah.
 
@@ -2241,6 +2511,8 @@ E. "Lagi pula, Ayah lebih suka berjalan kaki."
 
 Kunci: D
 
+---
+
 137. Babak II. Ruang tamu rumah sederhana. Pak Darmo duduk memegang amplop cokelat. Dina masuk membawa tas sekolah.
 
 DINA: (berhenti di pintu) Ayah belum tidur?
@@ -2265,6 +2537,8 @@ E. persaingan antarsiswa dalam memperebutkan peringkat
 
 Kunci: A
 
+---
+
 138. Perhatikan kutipan berikut.
 
 Ia melangkah pelan, bahunya melorot, dan matanya tak lagi berani menatap siapa pun sejak pengumuman itu dibacakan.
@@ -2278,6 +2552,8 @@ D. marah dan ingin membalas dendam
 E. tenang dan penuh perhitungan
 
 Kunci: B
+
+---
 
 139. (1) Dari lebih dari 700 bahasa daerah di Indonesia, puluhan di antaranya kini berstatus terancam punah karena penuturnya semakin sedikit. Penyebab utamanya bukan pelarangan, melainkan pergeseran kebiasaan: orang tua lebih memilih berbicara dalam bahasa Indonesia atau bahasa asing kepada anak-anak mereka dengan harapan masa depan anak lebih cerah.
 
@@ -2297,6 +2573,8 @@ E. tujuan, yaitu paragraf (2) menyatakan tujuan tindakan orang tua pada paragraf
 
 Kunci: D
 
+---
+
 140. (1) Dari lebih dari 700 bahasa daerah di Indonesia, puluhan di antaranya kini berstatus terancam punah karena penuturnya semakin sedikit. Penyebab utamanya bukan pelarangan, melainkan pergeseran kebiasaan: orang tua lebih memilih berbicara dalam bahasa Indonesia atau bahasa asing kepada anak-anak mereka dengan harapan masa depan anak lebih cerah.
 
 (2) Padahal, bahasa daerah menyimpan lebih dari sekadar kosakata. Di dalamnya terkandung pengetahuan tentang cara menanam, memperkirakan musim, dan mengobati penyakit yang diwariskan lewat cerita lisan. Ketika sebuah bahasa hilang, pengetahuan tersebut ikut terkubur karena tidak pernah sempat dituliskan.
@@ -2314,6 +2592,8 @@ D. Anak dwibahasa terbukti sulit menguasai bahasa Indonesia.
 E. Semua bahasa daerah di Indonesia berstatus terancam punah.
 
 Kunci: A
+
+---
 
 141. (1) Dari lebih dari 700 bahasa daerah di Indonesia, puluhan di antaranya kini berstatus terancam punah karena penuturnya semakin sedikit. Penyebab utamanya bukan pelarangan, melainkan pergeseran kebiasaan: orang tua lebih memilih berbicara dalam bahasa Indonesia atau bahasa asing kepada anak-anak mereka dengan harapan masa depan anak lebih cerah.
 
@@ -2333,6 +2613,8 @@ E. Guru menghapus pelajaran muatan lokal karena dianggap tidak penting.
 
 Kunci: C
 
+---
+
 142. (1) Dari lebih dari 700 bahasa daerah di Indonesia, puluhan di antaranya kini berstatus terancam punah karena penuturnya semakin sedikit. Penyebab utamanya bukan pelarangan, melainkan pergeseran kebiasaan: orang tua lebih memilih berbicara dalam bahasa Indonesia atau bahasa asing kepada anak-anak mereka dengan harapan masa depan anak lebih cerah.
 
 (2) Padahal, bahasa daerah menyimpan lebih dari sekadar kosakata. Di dalamnya terkandung pengetahuan tentang cara menanam, memperkirakan musim, dan mengobati penyakit yang diwariskan lewat cerita lisan. Ketika sebuah bahasa hilang, pengetahuan tersebut ikut terkubur karena tidak pernah sempat dituliskan.
@@ -2351,6 +2633,8 @@ E. 1. Kondisi bahasa daerah yang terancam punah beserta penyebabnya; 2. Pengetah
 
 Kunci: E
 
+---
+
 143. Hujan baru reda ketika Pak Wira menurunkan peti kayu dari bagasi mobil tuanya. Bau tanah basah bercampur aroma cengkeh dari gudang tembakau di seberang jalan. Di ruang tamu rumah panggung itu, adiknya, Sarwo, sudah menunggu dengan wajah masam. Sudah tujuh tahun mereka tidak bertegur sapa sejak perselisihan soal pembagian sawah warisan.
 
 "Peti ini milik Bapak," kata Pak Wira singkat. "Aku baru menemukannya di loteng rumah lama." Sarwo membuka tutupnya dengan jemari kaku. Di dalamnya ada dua seruling bambu yang sudah menguning dan secarik kertas lusuh bertulisan tangan Bapak: "Untuk Wira dan Sarwo. Lagu ini baru utuh bila dimainkan berdua." Sarwo memalingkan wajah ke jendela. Kerongkongannya bergerak menelan sesuatu yang tak terlihat. Beberapa saat kemudian, terdengar nada pertama yang bergetar dari seruling Pak Wira, disusul nada kedua dari seruling Sarwo yang sedikit terlambat, tetapi tidak lagi menjauh.
@@ -2364,6 +2648,8 @@ D. perebutan seruling antara anak dan ayah
 E. perbedaan pendapat tentang membangun rumah baru
 
 Kunci: B
+
+---
 
 144. Hujan baru reda ketika Pak Wira menurunkan peti kayu dari bagasi mobil tuanya. Bau tanah basah bercampur aroma cengkeh dari gudang tembakau di seberang jalan. Di ruang tamu rumah panggung itu, adiknya, Sarwo, sudah menunggu dengan wajah masam. Sudah tujuh tahun mereka tidak bertegur sapa sejak perselisihan soal pembagian sawah warisan.
 
@@ -2379,6 +2665,8 @@ E. menakutkan dan penuh teror
 
 Kunci: C
 
+---
+
 145. Hujan baru reda ketika Pak Wira menurunkan peti kayu dari bagasi mobil tuanya. Bau tanah basah bercampur aroma cengkeh dari gudang tembakau di seberang jalan. Di ruang tamu rumah panggung itu, adiknya, Sarwo, sudah menunggu dengan wajah masam. Sudah tujuh tahun mereka tidak bertegur sapa sejak perselisihan soal pembagian sawah warisan.
 
 "Peti ini milik Bapak," kata Pak Wira singkat. "Aku baru menemukannya di loteng rumah lama." Sarwo membuka tutupnya dengan jemari kaku. Di dalamnya ada dua seruling bambu yang sudah menguning dan secarik kertas lusuh bertulisan tangan Bapak: "Untuk Wira dan Sarwo. Lagu ini baru utuh bila dimainkan berdua." Sarwo memalingkan wajah ke jendela. Kerongkongannya bergerak menelan sesuatu yang tak terlihat. Beberapa saat kemudian, terdengar nada pertama yang bergetar dari seruling Pak Wira, disusul nada kedua dari seruling Sarwo yang sedikit terlambat, tetapi tidak lagi menjauh.
@@ -2392,6 +2680,8 @@ D. "Sarwo memalingkan wajah ke jendela."
 E. "Peti ini milik Bapak,"
 
 Kunci: A
+
+---
 
 146. Hujan baru reda ketika Pak Wira menurunkan peti kayu dari bagasi mobil tuanya. Bau tanah basah bercampur aroma cengkeh dari gudang tembakau di seberang jalan. Di ruang tamu rumah panggung itu, adiknya, Sarwo, sudah menunggu dengan wajah masam. Sudah tujuh tahun mereka tidak bertegur sapa sejak perselisihan soal pembagian sawah warisan.
 
@@ -2407,6 +2697,8 @@ E. benci terhadap sikap Pak Wira yang sombong
 
 Kunci: D
 
+---
+
 147. Kalimat berikut yang menggunakan kata serapan dari bahasa daerah adalah ...
 
 A. Para peserta mengikuti workshop tentang desain grafis.
@@ -2417,6 +2709,8 @@ E. Setiap sore, para pemuda itu berlatih silat di halaman balai desa.
 
 Kunci: E
 
+---
+
 148. Kalimat yang menggunakan tanda baca dan huruf kapital dengan tepat adalah ...
 
 A. Ayah membeli buku, pena, dan, pensil untuk adik.
@@ -2426,6 +2720,8 @@ D. Ibu membeli sayur di Pasar, lalu memasaknya.
 E. dia mengatakan bahwa Acara akan dimulai pukul sembilan.
 
 Kunci: B
+
+---
 
 149. Pesan untuk Bumi
 
@@ -2448,6 +2744,8 @@ E. prihatin dan malu atas kerusakan lingkungan yang ditimbulkan manusia
 
 Kunci: E
 
+---
+
 150. Pesan untuk Bumi
 
 Kami mewarisi sungai yang pernah jernih,
@@ -2468,6 +2766,8 @@ D. Keuntungan ekonomi adalah ukuran utama keberhasilan manusia.
 E. Anak-anak harus dijauhkan dari sungai dan hutan.
 
 Kunci: C
+
+---
 
 151. Pesan untuk Bumi
 
@@ -2490,6 +2790,8 @@ E. keberhasilan petani dalam panen raya
 
 Kunci: A
 
+---
+
 152. Sejak Maret lalu, Perpustakaan Daerah mengoperasikan satu mobil perpustakaan keliling yang menjangkau 14 desa terpencil. Setiap desa dikunjungi dua kali sebulan, dan setiap kunjungan berlangsung selama tiga jam. Menurut Kepala Perpustakaan, Ratna Wulandari, jumlah peminjam buku meningkat dari 120 orang menjadi 410 orang dalam lima bulan. Peningkatan itu, katanya, menunjukkan tingginya minat baca warga desa. Meskipun demikian, banyak peminjam mengeluhkan koleksi yang didominasi buku pelajaran, sedangkan buku cerita anak dan buku keterampilan pertanian masih sedikit. Karena itu, perpustakaan berencana bekerja sama dengan penerbit lokal dan komunitas literasi untuk menambah koleksi. Kepala Perpustakaan juga berharap pemerintah desa menyediakan balai pertemuan sebagai tempat singgah agar kegiatan membaca tidak terganggu cuaca.
 
 Kesimpulan Kepala Perpustakaan bahwa kenaikan jumlah peminjam menunjukkan tingginya minat baca warga desa paling tepat dinilai ...
@@ -2501,6 +2803,8 @@ D. tepat karena koleksi buku sudah sangat lengkap
 E. tidak relevan karena tidak berkaitan dengan minat baca
 
 Kunci: B
+
+---
 
 153. Sejak Maret lalu, Perpustakaan Daerah mengoperasikan satu mobil perpustakaan keliling yang menjangkau 14 desa terpencil. Setiap desa dikunjungi dua kali sebulan, dan setiap kunjungan berlangsung selama tiga jam. Menurut Kepala Perpustakaan, Ratna Wulandari, jumlah peminjam buku meningkat dari 120 orang menjadi 410 orang dalam lima bulan. Peningkatan itu, katanya, menunjukkan tingginya minat baca warga desa. Meskipun demikian, banyak peminjam mengeluhkan koleksi yang didominasi buku pelajaran, sedangkan buku cerita anak dan buku keterampilan pertanian masih sedikit. Karena itu, perpustakaan berencana bekerja sama dengan penerbit lokal dan komunitas literasi untuk menambah koleksi. Kepala Perpustakaan juga berharap pemerintah desa menyediakan balai pertemuan sebagai tempat singgah agar kegiatan membaca tidak terganggu cuaca.
 
@@ -2514,6 +2818,8 @@ E. Koleksi didominasi buku cerita anak sehingga buku pelajaran akan ditambah.
 
 Kunci: D
 
+---
+
 154. Sejak Maret lalu, Perpustakaan Daerah mengoperasikan satu mobil perpustakaan keliling yang menjangkau 14 desa terpencil. Setiap desa dikunjungi dua kali sebulan, dan setiap kunjungan berlangsung selama tiga jam. Menurut Kepala Perpustakaan, Ratna Wulandari, jumlah peminjam buku meningkat dari 120 orang menjadi 410 orang dalam lima bulan. Peningkatan itu, katanya, menunjukkan tingginya minat baca warga desa. Meskipun demikian, banyak peminjam mengeluhkan koleksi yang didominasi buku pelajaran, sedangkan buku cerita anak dan buku keterampilan pertanian masih sedikit. Karena itu, perpustakaan berencana bekerja sama dengan penerbit lokal dan komunitas literasi untuk menambah koleksi. Kepala Perpustakaan juga berharap pemerintah desa menyediakan balai pertemuan sebagai tempat singgah agar kegiatan membaca tidak terganggu cuaca.
 
 Kalimat "Karena itu, perpustakaan berencana bekerja sama dengan penerbit lokal dan komunitas literasi untuk menambah koleksi" memiliki hubungan makna dengan kalimat sebelumnya berupa ...
@@ -2525,6 +2831,8 @@ D. contoh dari tingginya minat baca
 E. urutan waktu kunjungan perpustakaan
 
 Kunci: C
+
+---
 
 155. Sejak Maret lalu, Perpustakaan Daerah mengoperasikan satu mobil perpustakaan keliling yang menjangkau 14 desa terpencil. Setiap desa dikunjungi dua kali sebulan, dan setiap kunjungan berlangsung selama tiga jam. Menurut Kepala Perpustakaan, Ratna Wulandari, jumlah peminjam buku meningkat dari 120 orang menjadi 410 orang dalam lima bulan. Peningkatan itu, katanya, menunjukkan tingginya minat baca warga desa. Meskipun demikian, banyak peminjam mengeluhkan koleksi yang didominasi buku pelajaran, sedangkan buku cerita anak dan buku keterampilan pertanian masih sedikit. Karena itu, perpustakaan berencana bekerja sama dengan penerbit lokal dan komunitas literasi untuk menambah koleksi. Kepala Perpustakaan juga berharap pemerintah desa menyediakan balai pertemuan sebagai tempat singgah agar kegiatan membaca tidak terganggu cuaca.
 
@@ -2538,6 +2846,8 @@ E. 1. Minat baca anak; 2. Komunitas literasi; 3. Penerbit lokal; 4. Balai pertem
 
 Kunci: D
 
+---
+
 156. Kelompok kata serapan berikut yang semuanya sudah ditulis sesuai dengan kaidah baku adalah ...
 
 A. frekuensi, objek, karier
@@ -2547,6 +2857,8 @@ D. frekwensi, objek, karier
 E. frekuensi, objek, karir
 
 Kunci: A
+
+---
 
 157. Babak III. Halaman belakang sebuah warung makan menjelang malam. Bu Surti mengelap meja. Raka, anaknya, duduk dengan buku sketsa.
 
@@ -2572,6 +2884,8 @@ E. dilema antara kesulitan membayar sewa dan keinginan mendukung mimpi anaknya
 
 Kunci: E
 
+---
+
 158. Babak III. Halaman belakang sebuah warung makan menjelang malam. Bu Surti mengelap meja. Raka, anaknya, duduk dengan buku sketsa.
 
 RAKA: (menutup buku dengan cepat) Bu, besok aku mau ikut seleksi lomba desain di kota. Biayanya dua ratus ribu.
@@ -2595,6 +2909,8 @@ D. "Kalau begitu, tidak usah, Bu. Aku bisa ikut tahun depan."
 E. "(menutup buku dengan cepat) Bu, besok aku mau ikut seleksi lomba desain di kota."
 
 Kunci: B
+
+---
 
 159. Babak III. Halaman belakang sebuah warung makan menjelang malam. Bu Surti mengelap meja. Raka, anaknya, duduk dengan buku sketsa.
 
@@ -2620,6 +2936,8 @@ E. siswa yang menyontek saat mengikuti lomba
 
 Kunci: A
 
+---
+
 160. Babak III. Halaman belakang sebuah warung makan menjelang malam. Bu Surti mengelap meja. Raka, anaknya, duduk dengan buku sketsa.
 
 RAKA: (menutup buku dengan cepat) Bu, besok aku mau ikut seleksi lomba desain di kota. Biayanya dua ratus ribu.
@@ -2644,6 +2962,8 @@ E. bosan karena percakapan terasa bertele-tele
 
 Kunci: C
 
+---
+
 161. Kalimat yang menggunakan kata penghubung dan kata depan secara tepat adalah ...
 
 A. Dia tidak hadir di rapat sebab daripada sakit.
@@ -2653,6 +2973,8 @@ D. Mereka belajar supaya agar lulus ujian.
 E. Karena hujan deras, pertandingan ditunda sampai minggu depan.
 
 Kunci: E
+
+---
 
 162. Perhatikan kutipan berikut.
 
@@ -2668,6 +2990,8 @@ E. stasiun kereta api saat hujan deras
 
 Kunci: D
 
+---
+
 163. Bacalah kutipan berikut.
 
 Pada musim kemarau panjang, warga Desa Sukamaju kesulitan memperoleh air bersih. Kepala desa mengusulkan pembuatan sumur bor bersama, sedangkan sebagian warga lebih memilih membeli air dari tangki keliling. Setelah bermusyawarah, disepakati bahwa sumur bor dibangun dengan iuran warga, dan tangki keliling digunakan sementara hingga sumur selesai.
@@ -2681,6 +3005,8 @@ D. Sumur bor dibiayai sepenuhnya oleh pemerintah pusat.
 E. Musyawarah warga gagal mencapai kesepakatan.
 
 Kunci: B
+
+---
 
 164. Sejak pagi, Bu Lastri berdiri di depan kantor kelurahan dengan map plastik yang ujungnya mulai melengkung. Antrean mengular, tetapi tak seorang pun memedulikan perempuan sepuh itu. Petugas loket hanya menyebut nomor, bukan nama, seolah manusia dapat diperas menjadi deretan angka. Ketika gilirannya tiba, ia disuruh kembali lusa karena satu lembar fotokopi kurang jelas.
 
@@ -2696,6 +3022,8 @@ E. licik dan suka menyerobot antrean
 
 Kunci: B
 
+---
+
 165. Sejak pagi, Bu Lastri berdiri di depan kantor kelurahan dengan map plastik yang ujungnya mulai melengkung. Antrean mengular, tetapi tak seorang pun memedulikan perempuan sepuh itu. Petugas loket hanya menyebut nomor, bukan nama, seolah manusia dapat diperas menjadi deretan angka. Ketika gilirannya tiba, ia disuruh kembali lusa karena satu lembar fotokopi kurang jelas.
 
 Bu Lastri mengangguk sopan. Di bangku luar, ia mengusap map itu seperti mengusap kepala cucu. Seorang pemuda berseragam ojek daring menghampirinya dan menawarkan diri memfotokopi ulang tanpa bayaran. "Saya juga pernah bolak-balik begini, Bu," katanya. Bu Lastri tersenyum, dan untuk pertama kalinya hari itu, matanya tidak lagi menunduk.
@@ -2709,6 +3037,8 @@ D. Kepedulian sederhana dari orang lain dapat meringankan beban dan memulihkan h
 E. Kemajuan teknologi membuat manusia semakin tidak peduli.
 
 Kunci: D
+
+---
 
 166. Sejak pagi, Bu Lastri berdiri di depan kantor kelurahan dengan map plastik yang ujungnya mulai melengkung. Antrean mengular, tetapi tak seorang pun memedulikan perempuan sepuh itu. Petugas loket hanya menyebut nomor, bukan nama, seolah manusia dapat diperas menjadi deretan angka. Ketika gilirannya tiba, ia disuruh kembali lusa karena satu lembar fotokopi kurang jelas.
 
@@ -2724,6 +3054,8 @@ E. "Di bangku luar, ia mengusap map itu seperti mengusap kepala cucu."
 
 Kunci: A
 
+---
+
 167. Sejak pagi, Bu Lastri berdiri di depan kantor kelurahan dengan map plastik yang ujungnya mulai melengkung. Antrean mengular, tetapi tak seorang pun memedulikan perempuan sepuh itu. Petugas loket hanya menyebut nomor, bukan nama, seolah manusia dapat diperas menjadi deretan angka. Ketika gilirannya tiba, ia disuruh kembali lusa karena satu lembar fotokopi kurang jelas.
 
 Bu Lastri mengangguk sopan. Di bangku luar, ia mengusap map itu seperti mengusap kepala cucu. Seorang pemuda berseragam ojek daring menghampirinya dan menawarkan diri memfotokopi ulang tanpa bayaran. "Saya juga pernah bolak-balik begini, Bu," katanya. Bu Lastri tersenyum, dan untuk pertama kalinya hari itu, matanya tidak lagi menunduk.
@@ -2738,6 +3070,8 @@ E. hangat dan lega karena kebaikan kecil seorang asing mengembalikan semangat Bu
 
 Kunci: E
 
+---
+
 168. Pasangan kata serapan dan bahasa asalnya yang tepat adalah ...
 
 A. jendela (Arab), kantor (Portugis), kamus (Belanda)
@@ -2747,6 +3081,8 @@ D. jendela (Portugis), kantor (Arab), kamus (Belanda)
 E. jendela (Arab), kantor (Belanda), kamus (Portugis)
 
 Kunci: C
+
+---
 
 169. (1) Dalam beberapa tahun terakhir, video berdurasi pendek menjadi tontonan utama remaja. Hanya dengan menggulir layar, ratusan video dapat dilahap dalam satu jam tanpa jeda untuk mencerna.
 
@@ -2766,6 +3102,8 @@ E. Kebiasaan menonton video pendek yang serbacepat dapat melemahkan kemampuan ko
 
 Kunci: E
 
+---
+
 170. (1) Dalam beberapa tahun terakhir, video berdurasi pendek menjadi tontonan utama remaja. Hanya dengan menggulir layar, ratusan video dapat dilahap dalam satu jam tanpa jeda untuk mencerna.
 
 (2) Para peneliti perilaku menyebut pola ini melatih otak agar terbiasa dengan rangsangan cepat. Akibatnya, bacaan yang membutuhkan konsentrasi panjang terasa membosankan. Sebuah survei terhadap 1.200 pelajar menemukan bahwa 64 persen responden mengaku sulit membaca teks lebih dari lima menit.
@@ -2783,6 +3121,8 @@ D. contoh, yaitu paragraf (3) memberi contoh survei pada paragraf (2)
 E. tujuan, yaitu paragraf (3) menyatakan tujuan survei pada paragraf (2)
 
 Kunci: C
+
+---
 
 171. (1) Dalam beberapa tahun terakhir, video berdurasi pendek menjadi tontonan utama remaja. Hanya dengan menggulir layar, ratusan video dapat dilahap dalam satu jam tanpa jeda untuk mencerna.
 
@@ -2802,6 +3142,8 @@ E. akurat karena disampaikan oleh para peneliti perilaku
 
 Kunci: B
 
+---
+
 172. (1) Dalam beberapa tahun terakhir, video berdurasi pendek menjadi tontonan utama remaja. Hanya dengan menggulir layar, ratusan video dapat dilahap dalam satu jam tanpa jeda untuk mencerna.
 
 (2) Para peneliti perilaku menyebut pola ini melatih otak agar terbiasa dengan rangsangan cepat. Akibatnya, bacaan yang membutuhkan konsentrasi panjang terasa membosankan. Sebuah survei terhadap 1.200 pelajar menemukan bahwa 64 persen responden mengaku sulit membaca teks lebih dari lima menit.
@@ -2820,6 +3162,8 @@ E. 1. Larangan menonton video pendek; 2. Kerugian bagi mata; 3. Peran orang tua;
 
 Kunci: D
 
+---
+
 173. Kalimat yang penulisan kata depan dan imbuhan di- nya tepat adalah ...
 
 A. Ayah pergi kekantor pukul tujuh pagi.
@@ -2829,6 +3173,8 @@ D. Anak itu di marahi ibunya karena pulang terlambat.
 E. Mereka bertemu di mana-mana, bahkan dimana mereka belajar.
 
 Kunci: B
+
+---
 
 174. Pasar Subuh
 
@@ -2851,6 +3197,8 @@ E. terminal bus pada tengah malam
 
 Kunci: C
 
+---
+
 175. Pasar Subuh
 
 Lampu minyak berayun di kaki lima,
@@ -2871,6 +3219,8 @@ D. bangga karena ibu itu berhasil menawar harga
 E. haru dan iba karena senyum ibu itu menyiratkan keikhlasan di balik keterbatasannya
 
 Kunci: E
+
+---
 
 176. Pasar Subuh
 
@@ -2893,6 +3243,8 @@ E. "Seorang ibu menghitung receh dua kali,"
 
 Kunci: A
 
+---
+
 177. SMA Negeri 2 Tirtamulya meluncurkan program "Bank Sampah Pelajar" sejak Agustus lalu. Setiap Jumat, siswa menyetorkan sampah plastik dan kertas bersih dari rumah. Setoran ditimbang dan dicatat sebagai saldo tabungan atas nama siswa.
 
 Menurut koordinator program, Yuni Astuti, hingga Oktober terkumpul 1,2 ton sampah dengan saldo gabungan Rp3,5 juta. Dana itu rencananya dipakai untuk membeli tempat sampah terpilah. Yuni menyebut volume sampah di tempat pembuangan sekolah berkurang separuh.
@@ -2908,6 +3260,8 @@ D. Siswa membawa sampah plastik dan kertas bersih setiap Jumat, setoran ditimban
 E. Sekolah mengumpulkan sampah dari seluruh kelurahan, lalu menjualnya untuk membangun perpustakaan.
 
 Kunci: D
+
+---
 
 178. SMA Negeri 2 Tirtamulya meluncurkan program "Bank Sampah Pelajar" sejak Agustus lalu. Setiap Jumat, siswa menyetorkan sampah plastik dan kertas bersih dari rumah. Setoran ditimbang dan dicatat sebagai saldo tabungan atas nama siswa.
 
@@ -2925,6 +3279,8 @@ E. tidak relevan karena berkaitan dengan tempat sampah terpilah
 
 Kunci: A
 
+---
+
 179. SMA Negeri 2 Tirtamulya meluncurkan program "Bank Sampah Pelajar" sejak Agustus lalu. Setiap Jumat, siswa menyetorkan sampah plastik dan kertas bersih dari rumah. Setoran ditimbang dan dicatat sebagai saldo tabungan atas nama siswa.
 
 Menurut koordinator program, Yuni Astuti, hingga Oktober terkumpul 1,2 ton sampah dengan saldo gabungan Rp3,5 juta. Dana itu rencananya dipakai untuk membeli tempat sampah terpilah. Yuni menyebut volume sampah di tempat pembuangan sekolah berkurang separuh.
@@ -2940,6 +3296,8 @@ D. Anto mengumpulkan semua sampah dalam satu kantong besar supaya mudah diangkut
 E. Wawan meminta petugas kebersihan membuang semua sampah tanpa dipilah.
 
 Kunci: C
+
+---
 
 180. SMA Negeri 2 Tirtamulya meluncurkan program "Bank Sampah Pelajar" sejak Agustus lalu. Setiap Jumat, siswa menyetorkan sampah plastik dan kertas bersih dari rumah. Setoran ditimbang dan dicatat sebagai saldo tabungan atas nama siswa.
 
@@ -2957,6 +3315,8 @@ E. data berat sampah yang dicatat sebelum dan sesudah program dijalankan
 
 Kunci: E
 
+---
+
 181. Kelompok kata serapan berikut yang semuanya sudah ditulis sesuai kaidah baku adalah ...
 
 A. aktifitas, metode, teknik
@@ -2966,6 +3326,8 @@ D. aktifitas, metoda, teknik
 E. aktivitas, methode, teknik
 
 Kunci: B
+
+---
 
 182. Bacalah paragraf berikut.
 
@@ -2980,6 +3342,8 @@ D. sebab, yaitu kalimat (2) memerinci penyebab penurunan kualitas tidur pada kal
 E. urutan waktu, yaitu kalimat (2) terjadi setelah kualitas tidur membaik
 
 Kunci: D
+
+---
 
 183. Babak I. Teras rumah Pak Hasan pada sore hari. Pak Hasan merapikan tumpukan koran bekas. Laras, cucunya, datang membawa piala.
 
@@ -3003,6 +3367,8 @@ E. rindu dan sedih karena telah kehilangan istrinya
 
 Kunci: E
 
+---
+
 184. Babak I. Teras rumah Pak Hasan pada sore hari. Pak Hasan merapikan tumpukan koran bekas. Laras, cucunya, datang membawa piala.
 
 LARAS: (mengangkat piala) Kek, aku juara dua lomba pidato!
@@ -3024,6 +3390,8 @@ D. "(meletakkan piala, duduk di sebelah kakeknya)"
 E. "(tertawa kecil, tetapi matanya berkaca-kaca)"
 
 Kunci: B
+
+---
 
 185. Babak I. Teras rumah Pak Hasan pada sore hari. Pak Hasan merapikan tumpukan koran bekas. Laras, cucunya, datang membawa piala.
 
@@ -3047,6 +3415,8 @@ E. tetangga yang saling mencampuri urusan keluarga
 
 Kunci: A
 
+---
+
 186. Babak I. Teras rumah Pak Hasan pada sore hari. Pak Hasan merapikan tumpukan koran bekas. Laras, cucunya, datang membawa piala.
 
 LARAS: (mengangkat piala) Kek, aku juara dua lomba pidato!
@@ -3069,6 +3439,8 @@ E. cemas karena Laras akan bertengkar dengan kakeknya
 
 Kunci: C
 
+---
+
 187. Bacalah kutipan berikut.
 
 Sejak koperasi siswa dibuka, jajanan kantin sehat mulai diminati. Pengelola mencatat penjualan buah potong meningkat dua kali lipat, sedangkan penjualan minuman bersoda menurun. Namun, sebagian siswa mengeluh harga buah potong lebih mahal dan porsinya sedikit.
@@ -3082,6 +3454,8 @@ D. Penjualan buah potong meningkat dan minuman bersoda menurun sejak koperasi di
 E. Pengelola menaikkan harga minuman bersoda agar penjualan buah potong meningkat.
 
 Kunci: D
+
+---
 
 188. Menjelang magrib, Pak Sodik masih memeriksa satu per satu jala di belakang rumahnya. Sudah tiga hari laut tak memberinya apa-apa selain ombak setinggi dada dan angin yang membawa bau garam ke ruang tidur. Istrinya diam-diam menjual cincin kawin untuk menyambung beras, dan ia pura-pura tidak tahu.
 
@@ -3097,6 +3471,8 @@ E. kapal pesiar yang mewah dan nyaman
 
 Kunci: C
 
+---
+
 189. Menjelang magrib, Pak Sodik masih memeriksa satu per satu jala di belakang rumahnya. Sudah tiga hari laut tak memberinya apa-apa selain ombak setinggi dada dan angin yang membawa bau garam ke ruang tidur. Istrinya diam-diam menjual cincin kawin untuk menyambung beras, dan ia pura-pura tidak tahu.
 
 Malam itu, Pak Sodik duduk di tangga dapur. "Besok aku melaut lagi," katanya, "meski cuaca belum bersahabat." Istrinya hanya menuangkan teh, tangannya sedikit gemetar. Di luar, bulan menggantung pucat, seperti cincin yang pernah melingkar di jari yang kini kosong.
@@ -3110,6 +3486,8 @@ D. bingung menentukan harga jual ikan di pasar
 E. tertekan oleh kesulitan mencari nafkah dan menyadari besarnya pengorbanan istrinya
 
 Kunci: E
+
+---
 
 190. Menjelang magrib, Pak Sodik masih memeriksa satu per satu jala di belakang rumahnya. Sudah tiga hari laut tak memberinya apa-apa selain ombak setinggi dada dan angin yang membawa bau garam ke ruang tidur. Istrinya diam-diam menjual cincin kawin untuk menyambung beras, dan ia pura-pura tidak tahu.
 
@@ -3125,6 +3503,8 @@ E. "Pak Sodik duduk di tangga dapur."
 
 Kunci: A
 
+---
+
 191. Menjelang magrib, Pak Sodik masih memeriksa satu per satu jala di belakang rumahnya. Sudah tiga hari laut tak memberinya apa-apa selain ombak setinggi dada dan angin yang membawa bau garam ke ruang tidur. Istrinya diam-diam menjual cincin kawin untuk menyambung beras, dan ia pura-pura tidak tahu.
 
 Malam itu, Pak Sodik duduk di tangga dapur. "Besok aku melaut lagi," katanya, "meski cuaca belum bersahabat." Istrinya hanya menuangkan teh, tangannya sedikit gemetar. Di luar, bulan menggantung pucat, seperti cincin yang pernah melingkar di jari yang kini kosong.
@@ -3139,6 +3519,8 @@ E. Pak Sodik dan istrinya sepakat pindah ke kota karena hasil laut menurun.
 
 Kunci: D
 
+---
+
 192. Pasangan kata serapan dari bahasa daerah dan asal bahasanya yang tepat adalah ...
 
 A. lesehan (Sunda), rendang (Jawa), angklung (Minangkabau)
@@ -3148,6 +3530,8 @@ D. lesehan (Jawa), rendang (Sunda), angklung (Minangkabau)
 E. lesehan (Sunda), rendang (Minangkabau), angklung (Jawa)
 
 Kunci: B
+
+---
 
 193. Bacalah larik puisi berikut.
 
@@ -3163,6 +3547,8 @@ D. bosan karena larik tersebut hanya menggambarkan kegiatan menjahit
 E. haru dan kagum atas ketulusan serta kesabaran seorang ibu yang merawat keluarganya
 
 Kunci: E
+
+---
 
 194. (1) Pemerintah daerah berencana melarang kendaraan pribadi memasuki kawasan pusat kota pada akhir pekan. Tujuannya mengurangi kemacetan dan polusi udara.
 
@@ -3182,6 +3568,8 @@ E. Pemerintah daerah sebaiknya menunda semua kebijakan lalu lintas.
 
 Kunci: B
 
+---
+
 195. (1) Pemerintah daerah berencana melarang kendaraan pribadi memasuki kawasan pusat kota pada akhir pekan. Tujuannya mengurangi kemacetan dan polusi udara.
 
 (2) Kebijakan ini patut didukung. Di kota-kota yang telah menerapkannya, kadar polusi di pusat kota turun dan pejalan kaki merasa lebih aman. Selain itu, pelaku usaha kecil melaporkan peningkatan pengunjung karena kawasan menjadi nyaman ditelusuri dengan berjalan kaki.
@@ -3200,6 +3588,8 @@ E. akurat mutlak karena pejalan kaki merasa lebih aman
 
 Kunci: A
 
+---
+
 196. (1) Pemerintah daerah berencana melarang kendaraan pribadi memasuki kawasan pusat kota pada akhir pekan. Tujuannya mengurangi kemacetan dan polusi udara.
 
 (2) Kebijakan ini patut didukung. Di kota-kota yang telah menerapkannya, kadar polusi di pusat kota turun dan pejalan kaki merasa lebih aman. Selain itu, pelaku usaha kecil melaporkan peningkatan pengunjung karena kawasan menjadi nyaman ditelusuri dengan berjalan kaki.
@@ -3217,6 +3607,8 @@ D. 1. Rencana pelarangan kendaraan pribadi di pusat kota; 2. Alasan mendukung ke
 E. 1. Penolakan warga; 2. Kerugian pedagang; 3. Kenaikan harga tiket; 4. Pembatalan kebijakan
 
 Kunci: D
+
+---
 
 197. (1) Pemerintah daerah berencana melarang kendaraan pribadi memasuki kawasan pusat kota pada akhir pekan. Tujuannya mengurangi kemacetan dan polusi udara.
 

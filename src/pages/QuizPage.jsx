@@ -71,6 +71,11 @@ export default function QuizPage() {
     return () => clearTimeout(id);
   }, [sisa, selesai, maks]);
 
+  // Kembali ke puncak saat pindah soal — wacana panjang bikin scroll nyangkut.
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, [idx]);
+
   const nilaiData = useMemo(() => {
     if (!selesai) return null;
     const benar = urutan.reduce(
@@ -283,11 +288,6 @@ export default function QuizPage() {
             Soal {idx + 1} dari {urutan.length}
           </span>
         </div>
-        {soal.wacana && (
-          <div className="mt-3 rounded-lg bg-slate-50 p-3 text-sm leading-relaxed text-slate-600 dark:bg-slate-800/60 dark:text-slate-300">
-            <Markdown>{soal.wacana}</Markdown>
-          </div>
-        )}
         <Markdown className="mt-3 text-[15px] sm:text-base">
           {soal.teks}
         </Markdown>

@@ -5,7 +5,7 @@ tahun: 2026
 waktu: 60
 ---
 
-**1.** Read the text!
+1. Read the text!
 Last month, I finished my internship at a broadcasting company. During the internship, my supervisor gave me many different tasks. Every morning, I woke up early and arrived at the office on time. I followed the instructions carefully, and every day I learnt something new. I found that my writing skills improved a lot. My supervisor also showed me how to be professional, such as how to do online research and how to conduct interviews with people. Although I did many tasks, I never forgot my main responsibility: to complete my internship report and submit it on time.
 What did the writer do every morning during the internship?
 
@@ -15,11 +15,11 @@ C. Conducted online research.
 D. Woke up early, arrived on time, and followed the instructions.
 E. Wrote news reports.
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**2.** Read the text!
+2. Read the text!
 Most plants are made up of carbon, hydrogen, and oxygen. These three elements are not very important from a mineral perspective, since carbon is obtained from carbon dioxide in the atmosphere, hydrogen from water, and oxygen from both carbon dioxide and water. The remaining elements, some sixteen, are taken up mainly from the soil, although a few are obtained from the atmosphere as well. Sodium, iodine, and cobalt are usually found in plants, but they are not considered essential. Seven of the sixteen elements are, however, of extreme importance. These are carbon, hydrogen, oxygen, nitrogen, phosphorus, sulfur, and potassium.
 Which of the following elements is not absorbed from the soil?
 
@@ -29,11 +29,11 @@ C. Carbon
 D. Calcium
 E. Sulfur
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**3.** Read the text!
+3. Read the text!
 The total supply of nutrients in soils is usually high, as shown by overall chemical analyses. Much of this potential supply, however, is bound tightly in forms that do not give satisfactory growth to plants. Because of this, the farmer is interested in measuring the available nutrient supply as contrasted to the total quantities of nutrient found in the soil.
 Why do farmers prefer considering the available nutrients to the total quantities of nutrients found in the soil?
 
@@ -43,11 +43,11 @@ C. Most of the nutrients are bound in compounds that are not available to plants
 D. Some of the nutrients are found in the atmosphere.
 E. The total nutrients always give satisfactory growth to the plants.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**4.** Read the text!
+4. Read the text!
 Ecology is the science of the relationships among living things and with their environment. One of the first lessons of ecology is that all forms of life in any particular environment depend on other forms of life and on their physical surroundings. In nature, there is an interdependence of living things in a particular area. Green plants take in nitrogen and other minerals from the soil and combine them with water and carbon dioxide from the air. With energy from sunlight, plants produce sugar and starches and release oxygen. Animals feed on plants or other animals. Polar bears depend on seals, and seals depend on fish, which in turn depend on tiny marine animals that feed on microscopic plants.
 When a natural ecological balance is destroyed, the result can be a disaster. The example of wolves and deer in Alaska shows how the misuse of pesticides caused the *devastation* of an entire ecological system. The deer ate grass and plants that were sprayed with pesticides meant to kill insects. The chemicals passed up the food chain, and animals that ate the plants were poisoned. When the wolves ate the poisoned deer, they too were affected.
 "The ... caused the *devastation* of an entire ecological system."
@@ -59,11 +59,11 @@ C. destruction
 D. preservation
 E. starvation
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**5.** Read the text!
+5. Read the text!
 The movement to secure voting rights for women, known as woman's suffrage, began in the United States in the 1830s. It took almost ninety years to win the fight. In 1869, Wyoming became the first territory to grant full suffrage to women. By 1896, several western states had followed, but suffrage was still opposed in many parts of the country. Women became active in politics and organized large parades and protests to demand the vote. Finally, in 1920, the nineteenth amendment to the Constitution — the Susan B. Anthony amendment — was ratified, giving women the right to vote throughout the United States.
 When were women allowed to vote throughout the United States?
 
@@ -73,11 +73,11 @@ C. After 1870
 D. After 1878
 E. After 1920
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**6.** Read the text!
+6. Read the text!
 The movement to secure voting rights for women, known as woman's suffrage, began in the United States in the 1830s. It took almost ninety years to win the fight.
 In 1869, Wyoming became the first territory to grant full suffrage to women. By 1896, several western states had followed, but suffrage was still opposed in many parts of the country. Women became active in politics and organized large parades and protests to demand the vote. Finally, in 1920, the nineteenth amendment to the Constitution was ratified, giving women the right to vote throughout the United States.
 What is mainly discussed in the second paragraph?
@@ -88,11 +88,11 @@ C. Some ways of gaining the right to vote for women.
 D. The number of states that granted women the right to vote.
 E. The reason why women were still opposed in some states.
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**7.** Read the text!
+7. Read the text!
 The movement to secure voting rights for women, known as woman's suffrage, began in the United States in the 1830s. It took almost ninety years to win the fight. In 1869, Wyoming became the first territory to grant full suffrage to women. Women became active in politics and organized large parades and protests to demand the vote. Finally, in 1920, the nineteenth amendment to the Constitution — the Susan B. Anthony amendment — was ratified, giving women the right to vote throughout the United States.
 The passage is primarily concerned with …
 
@@ -102,11 +102,11 @@ C. Women's suffrage.
 D. Women's rights in the workplace.
 E. A women's suffrage bill in Wyoming.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**8.** Read the text!
+8. Read the text!
 The movement to secure voting rights for women, known as woman's suffrage, began in the United States in the 1830s. It took almost ninety years to win the fight. Many laws that limited women's roles in society made daily life difficult, so women became active in politics and organized large parades and protests to demand the vote.
 According to the passage, why did women become active in politics?
 
@@ -116,11 +116,11 @@ C. Because they had to attend large parades.
 D. Because they were refused their rights in many states.
 E. To improve the condition of life that existed at the time.
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**9.** Read the sentence!
+9. Read the sentence!
 "Finally, in 1920, the nineteenth amendment was ratified, and a women's *suffrage* bill had been presented to the federal government, giving women the right to vote throughout the United States."
 The closest meaning to the underlined word is …
 
@@ -130,11 +130,11 @@ C. the act of working
 D. the role to be elected
 E. the obligation to obey the law
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**10.** Complete the following sentence!
+10. Complete the following sentence!
 Poverty sometimes occurs in … slums, where some poor people have not had the opportunity to learn skills.
 
 A. rich
@@ -143,11 +143,11 @@ C. urban
 D. remote
 E. suburban
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**11.** Complete the sentence!
+11. Complete the sentence!
 … some poor people have not had the opportunity to learn skills that will help them to … a living.
 
 A. get
@@ -156,11 +156,11 @@ C. find
 D. need
 E. earn
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**12.** Complete the sentence!
+12. Complete the sentence!
 People trapped in this kind of situation often have … income, so they remain poor.
 
 A. much
@@ -169,11 +169,11 @@ C. sufficient
 D. inefficient
 E. inadequate
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**13.** Read the letter!
+13. Read the letter!
 Dear Ms. Susanti,
 I am writing to you because I need your help. Mathematics has been very difficult for me since I was in elementary school. Every time I see numbers and equations, I feel nervous and afraid of making mistakes. I know that mathematics is important, but I just cannot seem to understand it. I have tried to study harder, but it is still not easy for me. I would like to ask if you could give me some extra help and guidance so that I can improve my mathematics. I hope we can meet outside of class to discuss this matter. Thank you for your time and understanding.
 Sincerely,
@@ -186,11 +186,11 @@ C. Mathematics
 D. History
 E. Pancasila Education
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**14.** Read the letter!
+14. Read the letter!
 Dear Ms. Susanti,
 I am writing to you because I need your help. Mathematics has been very difficult for me since I was in elementary school. Every time I see numbers and equations, I feel nervous and afraid of making mistakes. I have tried to study harder, but it is still not easy for me.
 What does Rayani think of mathematics?
@@ -201,11 +201,11 @@ C. It's helpful.
 D. It's enjoyable.
 E. It's not difficult.
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**15.** Read the letter!
+15. Read the letter!
 Dear Ms. Susanti,
 I am writing to you because I need your help with mathematics. I would like to ask if you could give me some extra help and guidance so that I can improve my mathematics. I hope we can meet outside of class to discuss this matter.
 Rayani writes the letter because she wants her teacher …
@@ -216,11 +216,11 @@ C. to be kind to all students.
 D. to give her some extra help and guidance.
 E. to reduce the mathematics homework.
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**16.** Mount Bromo is one of the most famous tourist destinations in East Java. It stands 2,329 metres above sea level and is part of the Bromo Tengger Semeru National Park. Unlike many other volcanoes, Bromo does not look very tall. Its crater, however, is wide and always releases a thin white smoke into the sky.
+16. Mount Bromo is one of the most famous tourist destinations in East Java. It stands 2,329 metres above sea level and is part of the Bromo Tengger Semeru National Park. Unlike many other volcanoes, Bromo does not look very tall. Its crater, however, is wide and always releases a thin white smoke into the sky.
 Around the volcano lies a huge sea of sand known as Segara Wedi. When visitors cross it in the early morning, the cold wind bites their cheeks, and the ground feels soft and dry under their shoes. Far in the distance, the green slopes of Mount Batok rise like a giant cone, with deep lines on its sides that look as if they were drawn by hand.
 Most tourists wake up at three o'clock in the morning to watch the sunrise from the Penanjakan viewpoint. The sky slowly changes from dark blue to orange, and the mist below turns golden. Many people say it is the most beautiful moment of their trip.
 The Tengger people, who have lived around the mountain for centuries, consider Bromo sacred. Every year they climb to the crater to throw vegetables, fruit, and flowers into it during the Yadnya Kasada ceremony. For them, the volcano is not only a landscape but also a part of their faith.
@@ -232,11 +232,11 @@ C. It does not look tall, but its crater is wide.
 D. It is completely covered by thick green forest.
 E. It constantly releases thick black smoke.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**17.** Mount Bromo is one of the most famous tourist destinations in East Java. It stands 2,329 metres above sea level and is part of the Bromo Tengger Semeru National Park. Unlike many other volcanoes, Bromo does not look very tall. Its crater, however, is wide and always releases a thin white smoke into the sky.
+17. Mount Bromo is one of the most famous tourist destinations in East Java. It stands 2,329 metres above sea level and is part of the Bromo Tengger Semeru National Park. Unlike many other volcanoes, Bromo does not look very tall. Its crater, however, is wide and always releases a thin white smoke into the sky.
 Around the volcano lies a huge sea of sand known as Segara Wedi. When visitors cross it in the early morning, the cold wind bites their cheeks, and the ground feels soft and dry under their shoes. Far in the distance, the green slopes of Mount Batok rise like a giant cone, with deep lines on its sides that look as if they were drawn by hand.
 Most tourists wake up at three o'clock in the morning to watch the sunrise from the Penanjakan viewpoint. The sky slowly changes from dark blue to orange, and the mist below turns golden. Many people say it is the most beautiful moment of their trip.
 The Tengger people, who have lived around the mountain for centuries, consider Bromo sacred. Every year they climb to the crater to throw vegetables, fruit, and flowers into it during the Yadnya Kasada ceremony. For them, the volcano is not only a landscape but also a part of their faith.
@@ -248,11 +248,11 @@ C. On the slopes of Mount Batok
 D. At the edge of the crater
 E. In front of the national park office
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**18.** Mount Bromo is one of the most famous tourist destinations in East Java. It stands 2,329 metres above sea level and is part of the Bromo Tengger Semeru National Park. Unlike many other volcanoes, Bromo does not look very tall. Its crater, however, is wide and always releases a thin white smoke into the sky.
+18. Mount Bromo is one of the most famous tourist destinations in East Java. It stands 2,329 metres above sea level and is part of the Bromo Tengger Semeru National Park. Unlike many other volcanoes, Bromo does not look very tall. Its crater, however, is wide and always releases a thin white smoke into the sky.
 Around the volcano lies a huge sea of sand known as Segara Wedi. When visitors cross it in the early morning, the cold wind bites their cheeks, and the ground feels soft and dry under their shoes. Far in the distance, the green slopes of Mount Batok rise like a giant cone, with deep lines on its sides that look as if they were drawn by hand.
 Most tourists wake up at three o'clock in the morning to watch the sunrise from the Penanjakan viewpoint. The sky slowly changes from dark blue to orange, and the mist below turns golden. Many people say it is the most beautiful moment of their trip.
 The Tengger people, who have lived around the mountain for centuries, consider Bromo sacred. Every year they climb to the crater to throw vegetables, fruit, and flowers into it during the Yadnya Kasada ceremony. For them, the volcano is not only a landscape but also a part of their faith.
@@ -264,11 +264,11 @@ C. prefer to see the sunrise from Mount Batok
 D. usually arrive late at the viewpoint
 E. are willing to give up sleep to enjoy the view
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**19.** Mount Bromo is one of the most famous tourist destinations in East Java. It stands 2,329 metres above sea level and is part of the Bromo Tengger Semeru National Park. Unlike many other volcanoes, Bromo does not look very tall. Its crater, however, is wide and always releases a thin white smoke into the sky.
+19. Mount Bromo is one of the most famous tourist destinations in East Java. It stands 2,329 metres above sea level and is part of the Bromo Tengger Semeru National Park. Unlike many other volcanoes, Bromo does not look very tall. Its crater, however, is wide and always releases a thin white smoke into the sky.
 Around the volcano lies a huge sea of sand known as Segara Wedi. When visitors cross it in the early morning, the cold wind bites their cheeks, and the ground feels soft and dry under their shoes. Far in the distance, the green slopes of Mount Batok rise like a giant cone, with deep lines on its sides that look as if they were drawn by hand.
 Most tourists wake up at three o'clock in the morning to watch the sunrise from the Penanjakan viewpoint. The sky slowly changes from dark blue to orange, and the mist below turns golden. Many people say it is the most beautiful moment of their trip.
 The Tengger people, who have lived around the mountain for centuries, consider Bromo sacred. Every year they climb to the crater to throw vegetables, fruit, and flowers into it during the Yadnya Kasada ceremony. For them, the volcano is not only a landscape but also a part of their faith.
@@ -280,11 +280,11 @@ C. They see the mountain only as a source of income.
 D. They think the ceremony is only a form of entertainment.
 E. They have moved away from the area.
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**20.** Mount Bromo is one of the most famous tourist destinations in East Java. It stands 2,329 metres above sea level and is part of the Bromo Tengger Semeru National Park. Unlike many other volcanoes, Bromo does not look very tall. Its crater, however, is wide and always releases a thin white smoke into the sky.
+20. Mount Bromo is one of the most famous tourist destinations in East Java. It stands 2,329 metres above sea level and is part of the Bromo Tengger Semeru National Park. Unlike many other volcanoes, Bromo does not look very tall. Its crater, however, is wide and always releases a thin white smoke into the sky.
 Around the volcano lies a huge sea of sand known as Segara Wedi. When visitors cross it in the early morning, the cold wind bites their cheeks, and the ground feels soft and dry under their shoes. Far in the distance, the green slopes of Mount Batok rise like a giant cone, with deep lines on its sides that look as if they were drawn by hand.
 Most tourists wake up at three o'clock in the morning to watch the sunrise from the Penanjakan viewpoint. The sky slowly changes from dark blue to orange, and the mist below turns golden. Many people say it is the most beautiful moment of their trip.
 The Tengger people, who have lived around the mountain for centuries, consider Bromo sacred. Every year they climb to the crater to throw vegetables, fruit, and flowers into it during the Yadnya Kasada ceremony. For them, the volcano is not only a landscape but also a part of their faith.
@@ -296,11 +296,11 @@ C. The text tells a series of past events in chronological order.
 D. The writer uses sensory details so that readers can imagine the place.
 E. The writer argues that tourists should not visit the mountain.
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**21.** My grandmother's house is in a small village near Magelang. It is an old wooden house with a big yard. In front of the house, there are two mango trees and many pots of red and yellow flowers. My grandmother waters them every morning.
+21. My grandmother's house is in a small village near Magelang. It is an old wooden house with a big yard. In front of the house, there are two mango trees and many pots of red and yellow flowers. My grandmother waters them every morning.
 Inside, the living room is not large, but it feels warm. There is a long brown sofa, a round table, and an old clock on the wall. The clock makes a loud "tock" sound every hour. On the table, there is always a plate of fried bananas.
 The kitchen is my favourite part. It smells of coconut oil and spices. My grandmother still cooks on a wood stove because she says the food tastes better. Behind the kitchen, there is a small garden where she grows chilli and tomatoes.
 I visit her every holiday. Her house is simple and old, but I always feel happy and safe there.
@@ -312,11 +312,11 @@ C. Near a beach
 D. In a big city
 E. Beside a river
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**22.** My grandmother's house is in a small village near Magelang. It is an old wooden house with a big yard. In front of the house, there are two mango trees and many pots of red and yellow flowers. My grandmother waters them every morning.
+22. My grandmother's house is in a small village near Magelang. It is an old wooden house with a big yard. In front of the house, there are two mango trees and many pots of red and yellow flowers. My grandmother waters them every morning.
 Inside, the living room is not large, but it feels warm. There is a long brown sofa, a round table, and an old clock on the wall. The clock makes a loud "tock" sound every hour. On the table, there is always a plate of fried bananas.
 The kitchen is my favourite part. It smells of coconut oil and spices. My grandmother still cooks on a wood stove because she says the food tastes better. Behind the kitchen, there is a small garden where she grows chilli and tomatoes.
 I visit her every holiday. Her house is simple and old, but I always feel happy and safe there.
@@ -328,11 +328,11 @@ C. She picks mangoes.
 D. She waters the flowers.
 E. She sells tomatoes.
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**23.** My grandmother's house is in a small village near Magelang. It is an old wooden house with a big yard. In front of the house, there are two mango trees and many pots of red and yellow flowers. My grandmother waters them every morning.
+23. My grandmother's house is in a small village near Magelang. It is an old wooden house with a big yard. In front of the house, there are two mango trees and many pots of red and yellow flowers. My grandmother waters them every morning.
 Inside, the living room is not large, but it feels warm. There is a long brown sofa, a round table, and an old clock on the wall. The clock makes a loud "tock" sound every hour. On the table, there is always a plate of fried bananas.
 The kitchen is my favourite part. It smells of coconut oil and spices. My grandmother still cooks on a wood stove because she says the food tastes better. Behind the kitchen, there is a small garden where she grows chilli and tomatoes.
 I visit her every holiday. Her house is simple and old, but I always feel happy and safe there.
@@ -344,11 +344,11 @@ C. dislikes modern food
 D. works as a professional cook
 E. has no place to grow vegetables
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**24.** My grandmother's house is in a small village near Magelang. It is an old wooden house with a big yard. In front of the house, there are two mango trees and many pots of red and yellow flowers. My grandmother waters them every morning.
+24. My grandmother's house is in a small village near Magelang. It is an old wooden house with a big yard. In front of the house, there are two mango trees and many pots of red and yellow flowers. My grandmother waters them every morning.
 Inside, the living room is not large, but it feels warm. There is a long brown sofa, a round table, and an old clock on the wall. The clock makes a loud "tock" sound every hour. On the table, there is always a plate of fried bananas.
 The kitchen is my favourite part. It smells of coconut oil and spices. My grandmother still cooks on a wood stove because she says the food tastes better. Behind the kitchen, there is a small garden where she grows chilli and tomatoes.
 I visit her every holiday. Her house is simple and old, but I always feel happy and safe there.
@@ -360,11 +360,11 @@ C. The writer wants to move to the village.
 D. The writer is disappointed by the simple house.
 E. The writer feels comfortable and attached to the house.
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**25.** My grandmother's house is in a small village near Magelang. It is an old wooden house with a big yard. In front of the house, there are two mango trees and many pots of red and yellow flowers. My grandmother waters them every morning.
+25. My grandmother's house is in a small village near Magelang. It is an old wooden house with a big yard. In front of the house, there are two mango trees and many pots of red and yellow flowers. My grandmother waters them every morning.
 Inside, the living room is not large, but it feels warm. There is a long brown sofa, a round table, and an old clock on the wall. The clock makes a loud "tock" sound every hour. On the table, there is always a plate of fried bananas.
 The kitchen is my favourite part. It smells of coconut oil and spices. My grandmother still cooks on a wood stove because she says the food tastes better. Behind the kitchen, there is a small garden where she grows chilli and tomatoes.
 I visit her every holiday. Her house is simple and old, but I always feel happy and safe there.
@@ -376,11 +376,11 @@ C. It begins with a general description and then describes the parts one by one.
 D. It begins with a thesis and then gives arguments.
 E. It presents a problem and then a solution.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**26.** Last month, my class went on a field trip to the Sonobudoyo Museum in Yogyakarta. We had been preparing for it for two weeks because our history teacher, Mr Hendra, wanted us to write a report afterwards.
+26. Last month, my class went on a field trip to the Sonobudoyo Museum in Yogyakarta. We had been preparing for it for two weeks because our history teacher, Mr Hendra, wanted us to write a report afterwards.
 We left school at 7 a.m. by bus. The journey took almost two hours because of heavy traffic near the city. Some of my friends fell asleep, but I stayed awake and read the information sheet that Mr Hendra had given us.
 When we arrived, a guide welcomed us and took us to the Javanese puppet collection. I was amazed to see wayang kulit made hundreds of years ago. The guide explained that each puppet is carved by hand from buffalo leather, and a single puppet can take weeks to finish. After that, we visited the gallery of traditional masks and the room of old Javanese manuscripts.
 At noon, we ate lunch in the garden and discussed what we had seen. Dina, who is usually quiet, surprised everyone by asking the guide many questions about the manuscripts. Then we had thirty minutes to buy souvenirs before the bus took us home.
@@ -393,11 +393,11 @@ C. To celebrate the end of the semester
 D. To meet a famous museum guide
 E. To collect material for a history report
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**27.** Last month, my class went on a field trip to the Sonobudoyo Museum in Yogyakarta. We had been preparing for it for two weeks because our history teacher, Mr Hendra, wanted us to write a report afterwards.
+27. Last month, my class went on a field trip to the Sonobudoyo Museum in Yogyakarta. We had been preparing for it for two weeks because our history teacher, Mr Hendra, wanted us to write a report afterwards.
 We left school at 7 a.m. by bus. The journey took almost two hours because of heavy traffic near the city. Some of my friends fell asleep, but I stayed awake and read the information sheet that Mr Hendra had given us.
 When we arrived, a guide welcomed us and took us to the Javanese puppet collection. I was amazed to see wayang kulit made hundreds of years ago. The guide explained that each puppet is carved by hand from buffalo leather, and a single puppet can take weeks to finish. After that, we visited the gallery of traditional masks and the room of old Javanese manuscripts.
 At noon, we ate lunch in the garden and discussed what we had seen. Dina, who is usually quiet, surprised everyone by asking the guide many questions about the manuscripts. Then we had thirty minutes to buy souvenirs before the bus took us home.
@@ -410,11 +410,11 @@ C. They are carved by hand from buffalo leather and take weeks to make.
 D. They are only used inside the museum.
 E. They are produced by machines.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**28.** Last month, my class went on a field trip to the Sonobudoyo Museum in Yogyakarta. We had been preparing for it for two weeks because our history teacher, Mr Hendra, wanted us to write a report afterwards.
+28. Last month, my class went on a field trip to the Sonobudoyo Museum in Yogyakarta. We had been preparing for it for two weeks because our history teacher, Mr Hendra, wanted us to write a report afterwards.
 We left school at 7 a.m. by bus. The journey took almost two hours because of heavy traffic near the city. Some of my friends fell asleep, but I stayed awake and read the information sheet that Mr Hendra had given us.
 When we arrived, a guide welcomed us and took us to the Javanese puppet collection. I was amazed to see wayang kulit made hundreds of years ago. The guide explained that each puppet is carved by hand from buffalo leather, and a single puppet can take weeks to finish. After that, we visited the gallery of traditional masks and the room of old Javanese manuscripts.
 At noon, we ate lunch in the garden and discussed what we had seen. Dina, who is usually quiet, surprised everyone by asking the guide many questions about the manuscripts. Then we had thirty minutes to buy souvenirs before the bus took us home.
@@ -427,11 +427,11 @@ C. She wanted to become a museum guide.
 D. She had already studied all the museum collections.
 E. She wanted to leave the museum early.
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**29.** Last month, my class went on a field trip to the Sonobudoyo Museum in Yogyakarta. We had been preparing for it for two weeks because our history teacher, Mr Hendra, wanted us to write a report afterwards.
+29. Last month, my class went on a field trip to the Sonobudoyo Museum in Yogyakarta. We had been preparing for it for two weeks because our history teacher, Mr Hendra, wanted us to write a report afterwards.
 We left school at 7 a.m. by bus. The journey took almost two hours because of heavy traffic near the city. Some of my friends fell asleep, but I stayed awake and read the information sheet that Mr Hendra had given us.
 When we arrived, a guide welcomed us and took us to the Javanese puppet collection. I was amazed to see wayang kulit made hundreds of years ago. The guide explained that each puppet is carved by hand from buffalo leather, and a single puppet can take weeks to finish. After that, we visited the gallery of traditional masks and the room of old Javanese manuscripts.
 At noon, we ate lunch in the garden and discussed what we had seen. Dina, who is usually quiet, surprised everyone by asking the guide many questions about the manuscripts. Then we had thirty minutes to buy souvenirs before the bus took us home.
@@ -444,11 +444,11 @@ C. the museum ticket was free
 D. direct experience made learning more effective for the writer
 E. the writer did not want to write the report
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**30.** Last month, my class went on a field trip to the Sonobudoyo Museum in Yogyakarta. We had been preparing for it for two weeks because our history teacher, Mr Hendra, wanted us to write a report afterwards.
+30. Last month, my class went on a field trip to the Sonobudoyo Museum in Yogyakarta. We had been preparing for it for two weeks because our history teacher, Mr Hendra, wanted us to write a report afterwards.
 We left school at 7 a.m. by bus. The journey took almost two hours because of heavy traffic near the city. Some of my friends fell asleep, but I stayed awake and read the information sheet that Mr Hendra had given us.
 When we arrived, a guide welcomed us and took us to the Javanese puppet collection. I was amazed to see wayang kulit made hundreds of years ago. The guide explained that each puppet is carved by hand from buffalo leather, and a single puppet can take weeks to finish. After that, we visited the gallery of traditional masks and the room of old Javanese manuscripts.
 At noon, we ate lunch in the garden and discussed what we had seen. Dina, who is usually quiet, surprised everyone by asking the guide many questions about the manuscripts. Then we had thirty minutes to buy souvenirs before the bus took us home.
@@ -461,11 +461,11 @@ C. It describes only one place without any events.
 D. It gives steps to organise a field trip.
 E. It is a fictional story with a moral lesson.
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**31.** Last Saturday was my sixteenth birthday. I woke up at six o'clock, but nobody said "happy birthday" to me. My parents were already in the kitchen, and they only asked me to help clean the house. I felt a little sad.
+31. Last Saturday was my sixteenth birthday. I woke up at six o'clock, but nobody said "happy birthday" to me. My parents were already in the kitchen, and they only asked me to help clean the house. I felt a little sad.
 At ten o'clock, my best friend Rani called me. She asked me to come to the school library to return a book. I was confused because I had not borrowed any books. But I went anyway.
 When I opened the library door, many people shouted, "Surprise!" My classmates were there. Some of them held balloons, and one of them carried a cake with sixteen candles. My parents were there too. They had come by motorbike while I was walking to school.
 I was so happy that I almost cried. We sang together, ate cake, and played games until the afternoon. It was the best birthday I had ever had.
@@ -477,11 +477,11 @@ C. Go to the library
 D. Call Rani
 E. Wash the motorbike
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**32.** Last Saturday was my sixteenth birthday. I woke up at six o'clock, but nobody said "happy birthday" to me. My parents were already in the kitchen, and they only asked me to help clean the house. I felt a little sad.
+32. Last Saturday was my sixteenth birthday. I woke up at six o'clock, but nobody said "happy birthday" to me. My parents were already in the kitchen, and they only asked me to help clean the house. I felt a little sad.
 At ten o'clock, my best friend Rani called me. She asked me to come to the school library to return a book. I was confused because I had not borrowed any books. But I went anyway.
 When I opened the library door, many people shouted, "Surprise!" My classmates were there. Some of them held balloons, and one of them carried a cake with sixteen candles. My parents were there too. They had come by motorbike while I was walking to school.
 I was so happy that I almost cried. We sang together, ate cake, and played games until the afternoon. It was the best birthday I had ever had.
@@ -493,11 +493,11 @@ C. In a park
 D. At Rani's house
 E. In the school library
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**33.** Last Saturday was my sixteenth birthday. I woke up at six o'clock, but nobody said "happy birthday" to me. My parents were already in the kitchen, and they only asked me to help clean the house. I felt a little sad.
+33. Last Saturday was my sixteenth birthday. I woke up at six o'clock, but nobody said "happy birthday" to me. My parents were already in the kitchen, and they only asked me to help clean the house. I felt a little sad.
 At ten o'clock, my best friend Rani called me. She asked me to come to the school library to return a book. I was confused because I had not borrowed any books. But I went anyway.
 When I opened the library door, many people shouted, "Surprise!" My classmates were there. Some of them held balloons, and one of them carried a cake with sixteen candles. My parents were there too. They had come by motorbike while I was walking to school.
 I was so happy that I almost cried. We sang together, ate cake, and played games until the afternoon. It was the best birthday I had ever had.
@@ -509,11 +509,11 @@ C. Rani wanted to borrow a new book.
 D. Rani wanted to bring the writer to the place where the party was prepared.
 E. Rani was afraid to go to the library alone.
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**34.** Last Saturday was my sixteenth birthday. I woke up at six o'clock, but nobody said "happy birthday" to me. My parents were already in the kitchen, and they only asked me to help clean the house. I felt a little sad.
+34. Last Saturday was my sixteenth birthday. I woke up at six o'clock, but nobody said "happy birthday" to me. My parents were already in the kitchen, and they only asked me to help clean the house. I felt a little sad.
 At ten o'clock, my best friend Rani called me. She asked me to come to the school library to return a book. I was confused because I had not borrowed any books. But I went anyway.
 When I opened the library door, many people shouted, "Surprise!" My classmates were there. Some of them held balloons, and one of them carried a cake with sixteen candles. My parents were there too. They had come by motorbike while I was walking to school.
 I was so happy that I almost cried. We sang together, ate cake, and played games until the afternoon. It was the best birthday I had ever had.
@@ -525,11 +525,11 @@ C. was part of a plan to keep the party a secret
 D. showed that they did not care about the writer
 E. was caused by their busy work schedule
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**35.** Last Saturday was my sixteenth birthday. I woke up at six o'clock, but nobody said "happy birthday" to me. My parents were already in the kitchen, and they only asked me to help clean the house. I felt a little sad.
+35. Last Saturday was my sixteenth birthday. I woke up at six o'clock, but nobody said "happy birthday" to me. My parents were already in the kitchen, and they only asked me to help clean the house. I felt a little sad.
 At ten o'clock, my best friend Rani called me. She asked me to come to the school library to return a book. I was confused because I had not borrowed any books. But I went anyway.
 When I opened the library door, many people shouted, "Surprise!" My classmates were there. Some of them held balloons, and one of them carried a cake with sixteen candles. My parents were there too. They had come by motorbike while I was walking to school.
 I was so happy that I almost cried. We sang together, ate cake, and played games until the afternoon. It was the best birthday I had ever had.
@@ -541,11 +541,11 @@ C. Parents should never be busy on their children's birthdays.
 D. It is better to avoid birthday parties.
 E. Friends are more important than parents.
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**36.** In a small village at the foot of a hill lived a farmer named Pak Darman. His land was small and dry, and his neighbours often laughed at him because he spent every afternoon carrying water from the river to his garden. "The rain will come when it wants to," they said. "Why tire yourself?"
+36. In a small village at the foot of a hill lived a farmer named Pak Darman. His land was small and dry, and his neighbours often laughed at him because he spent every afternoon carrying water from the river to his garden. "The rain will come when it wants to," they said. "Why tire yourself?"
 Pak Darman never answered. He simply kept carrying his buckets, one after another, even when his back ached.
 One year, the dry season lasted longer than anyone could remember. The wells became empty, and the neighbours' fields turned brown. Panic spread through the village. Pak Darman's garden, however, stayed green, because the little water he had carried every day had kept the soil alive.
 Slowly, the neighbours came to his gate, feeling ashamed. Pak Darman did not scold them. Instead, he showed them a narrow path to the river and gave each family a bucket. "The river was always there," he said. "We only needed to walk to it."
@@ -558,11 +558,11 @@ C. He was too lazy to work.
 D. He carried water every afternoon although the rain would come anyway.
 E. He sold vegetables at very high prices.
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**37.** In a small village at the foot of a hill lived a farmer named Pak Darman. His land was small and dry, and his neighbours often laughed at him because he spent every afternoon carrying water from the river to his garden. "The rain will come when it wants to," they said. "Why tire yourself?"
+37. In a small village at the foot of a hill lived a farmer named Pak Darman. His land was small and dry, and his neighbours often laughed at him because he spent every afternoon carrying water from the river to his garden. "The rain will come when it wants to," they said. "Why tire yourself?"
 Pak Darman never answered. He simply kept carrying his buckets, one after another, even when his back ached.
 One year, the dry season lasted longer than anyone could remember. The wells became empty, and the neighbours' fields turned brown. Panic spread through the village. Pak Darman's garden, however, stayed green, because the little water he had carried every day had kept the soil alive.
 Slowly, the neighbours came to his gate, feeling ashamed. Pak Darman did not scold them. Instead, he showed them a narrow path to the river and gave each family a bucket. "The river was always there," he said. "We only needed to walk to it."
@@ -575,11 +575,11 @@ C. It was destroyed by a flood.
 D. It was taken over by the neighbours.
 E. It produced no vegetables.
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**38.** In a small village at the foot of a hill lived a farmer named Pak Darman. His land was small and dry, and his neighbours often laughed at him because he spent every afternoon carrying water from the river to his garden. "The rain will come when it wants to," they said. "Why tire yourself?"
+38. In a small village at the foot of a hill lived a farmer named Pak Darman. His land was small and dry, and his neighbours often laughed at him because he spent every afternoon carrying water from the river to his garden. "The rain will come when it wants to," they said. "Why tire yourself?"
 Pak Darman never answered. He simply kept carrying his buckets, one after another, even when his back ached.
 One year, the dry season lasted longer than anyone could remember. The wells became empty, and the neighbours' fields turned brown. Panic spread through the village. Pak Darman's garden, however, stayed green, because the little water he had carried every day had kept the soil alive.
 Slowly, the neighbours came to his gate, feeling ashamed. Pak Darman did not scold them. Instead, he showed them a narrow path to the river and gave each family a bucket. "The river was always there," he said. "We only needed to walk to it."
@@ -592,11 +592,11 @@ C. They realised he had been right while they had mocked him.
 D. They wanted to sell their land to him.
 E. They were angry that he refused to help.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**39.** In a small village at the foot of a hill lived a farmer named Pak Darman. His land was small and dry, and his neighbours often laughed at him because he spent every afternoon carrying water from the river to his garden. "The rain will come when it wants to," they said. "Why tire yourself?"
+39. In a small village at the foot of a hill lived a farmer named Pak Darman. His land was small and dry, and his neighbours often laughed at him because he spent every afternoon carrying water from the river to his garden. "The rain will come when it wants to," they said. "Why tire yourself?"
 Pak Darman never answered. He simply kept carrying his buckets, one after another, even when his back ached.
 One year, the dry season lasted longer than anyone could remember. The wells became empty, and the neighbours' fields turned brown. Panic spread through the village. Pak Darman's garden, however, stayed green, because the little water he had carried every day had kept the soil alive.
 Slowly, the neighbours came to his gate, feeling ashamed. Pak Darman did not scold them. Instead, he showed them a narrow path to the river and gave each family a bucket. "The river was always there," he said. "We only needed to walk to it."
@@ -609,11 +609,11 @@ C. The villagers should move closer to the river.
 D. He wants to keep the river for himself.
 E. He does not like the rain.
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**40.** In a small village at the foot of a hill lived a farmer named Pak Darman. His land was small and dry, and his neighbours often laughed at him because he spent every afternoon carrying water from the river to his garden. "The rain will come when it wants to," they said. "Why tire yourself?"
+40. In a small village at the foot of a hill lived a farmer named Pak Darman. His land was small and dry, and his neighbours often laughed at him because he spent every afternoon carrying water from the river to his garden. "The rain will come when it wants to," they said. "Why tire yourself?"
 Pak Darman never answered. He simply kept carrying his buckets, one after another, even when his back ached.
 One year, the dry season lasted longer than anyone could remember. The wells became empty, and the neighbours' fields turned brown. Panic spread through the village. Pak Darman's garden, however, stayed green, because the little water he had carried every day had kept the soil alive.
 Slowly, the neighbours came to his gate, feeling ashamed. Pak Darman did not scold them. Instead, he showed them a narrow path to the river and gave each family a bucket. "The river was always there," he said. "We only needed to walk to it."
@@ -626,11 +626,11 @@ C. Neighbours should never help each other.
 D. Gardens grow best without water.
 E. Consistent effort pays off, and we should not mock other people's hard work.
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**41.** Mira lived with her grandfather at the edge of a rice field. Every evening, she heard a faint crying sound from behind the barn, but her grandfather told her it was only the wind.
+41. Mira lived with her grandfather at the edge of a rice field. Every evening, she heard a faint crying sound from behind the barn, but her grandfather told her it was only the wind.
 One rainy night, the crying became louder. Mira took a flashlight and followed the sound, ignoring the thunder. Behind the barn, she found a small white puppy trembling under a broken wooden box. Its leg was caught between two boards.
 Mira tried to pull it out, but the boards were too heavy. She was frightened, yet she knew she could not leave the puppy alone. She ran back to the house, shouting for her grandfather. He came with a hammer, and together they carefully broke the boards.
 The puppy was free, but it could not walk. Mira wrapped it in her jacket and carried it inside. Her grandfather cleaned the wound and said, "You were brave to follow that sound." Mira smiled and named the puppy Putih.
@@ -643,11 +643,11 @@ C. A wounded bird inside a box
 D. Her grandfather's lost tools
 E. An empty wooden box
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**42.** Mira lived with her grandfather at the edge of a rice field. Every evening, she heard a faint crying sound from behind the barn, but her grandfather told her it was only the wind.
+42. Mira lived with her grandfather at the edge of a rice field. Every evening, she heard a faint crying sound from behind the barn, but her grandfather told her it was only the wind.
 One rainy night, the crying became louder. Mira took a flashlight and followed the sound, ignoring the thunder. Behind the barn, she found a small white puppy trembling under a broken wooden box. Its leg was caught between two boards.
 Mira tried to pull it out, but the boards were too heavy. She was frightened, yet she knew she could not leave the puppy alone. She ran back to the house, shouting for her grandfather. He came with a hammer, and together they carefully broke the boards.
 The puppy was free, but it could not walk. Mira wrapped it in her jacket and carried it inside. Her grandfather cleaned the wound and said, "You were brave to follow that sound." Mira smiled and named the puppy Putih.
@@ -660,11 +660,11 @@ C. They lifted the box together.
 D. They asked a neighbour for help.
 E. They broke the boards with a hammer.
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**43.** Mira lived with her grandfather at the edge of a rice field. Every evening, she heard a faint crying sound from behind the barn, but her grandfather told her it was only the wind.
+43. Mira lived with her grandfather at the edge of a rice field. Every evening, she heard a faint crying sound from behind the barn, but her grandfather told her it was only the wind.
 One rainy night, the crying became louder. Mira took a flashlight and followed the sound, ignoring the thunder. Behind the barn, she found a small white puppy trembling under a broken wooden box. Its leg was caught between two boards.
 Mira tried to pull it out, but the boards were too heavy. She was frightened, yet she knew she could not leave the puppy alone. She ran back to the house, shouting for her grandfather. He came with a hammer, and together they carefully broke the boards.
 The puppy was free, but it could not walk. Mira wrapped it in her jacket and carried it inside. Her grandfather cleaned the wound and said, "You were brave to follow that sound." Mira smiled and named the puppy Putih.
@@ -677,11 +677,11 @@ C. disliked animals
 D. was afraid of the dark
 E. was angry with Mira
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**44.** Mira lived with her grandfather at the edge of a rice field. Every evening, she heard a faint crying sound from behind the barn, but her grandfather told her it was only the wind.
+44. Mira lived with her grandfather at the edge of a rice field. Every evening, she heard a faint crying sound from behind the barn, but her grandfather told her it was only the wind.
 One rainy night, the crying became louder. Mira took a flashlight and followed the sound, ignoring the thunder. Behind the barn, she found a small white puppy trembling under a broken wooden box. Its leg was caught between two boards.
 Mira tried to pull it out, but the boards were too heavy. She was frightened, yet she knew she could not leave the puppy alone. She ran back to the house, shouting for her grandfather. He came with a hammer, and together they carefully broke the boards.
 The puppy was free, but it could not walk. Mira wrapped it in her jacket and carried it inside. Her grandfather cleaned the wound and said, "You were brave to follow that sound." Mira smiled and named the puppy Putih.
@@ -694,11 +694,11 @@ C. disobedient and rude
 D. caring and courageous
 E. weak and unwilling to help
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**45.** Mira lived with her grandfather at the edge of a rice field. Every evening, she heard a faint crying sound from behind the barn, but her grandfather told her it was only the wind.
+45. Mira lived with her grandfather at the edge of a rice field. Every evening, she heard a faint crying sound from behind the barn, but her grandfather told her it was only the wind.
 One rainy night, the crying became louder. Mira took a flashlight and followed the sound, ignoring the thunder. Behind the barn, she found a small white puppy trembling under a broken wooden box. Its leg was caught between two boards.
 Mira tried to pull it out, but the boards were too heavy. She was frightened, yet she knew she could not leave the puppy alone. She ran back to the house, shouting for her grandfather. He came with a hammer, and together they carefully broke the boards.
 The puppy was free, but it could not walk. Mira wrapped it in her jacket and carried it inside. Her grandfather cleaned the wound and said, "You were brave to follow that sound." Mira smiled and named the puppy Putih.
@@ -711,11 +711,11 @@ C. We should show courage and care for those who need help.
 D. Strong people do not need help from others.
 E. It is better to ignore strange sounds.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**46.** How to Grow Chilli Plants from Seeds
+46. How to Grow Chilli Plants from Seeds
 Materials: ripe chilli seeds, a small pot, soil mixed with compost, water, and a sunny place.
 Soak the seeds in warm water for about six hours. This softens the skin of the seeds so they sprout faster.
 Fill the pot with soil, leaving about two centimetres at the top.
@@ -732,11 +732,11 @@ C. Move the seedlings to a bigger pot.
 D. Soak the seeds in warm water for about six hours.
 E. Water the soil every day.
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**47.** How to Grow Chilli Plants from Seeds
+47. How to Grow Chilli Plants from Seeds
 Materials: ripe chilli seeds, a small pot, soil mixed with compost, water, and a sunny place.
 Soak the seeds in warm water for about six hours. This softens the skin of the seeds so they sprout faster.
 Fill the pot with soil, leaving about two centimetres at the top.
@@ -753,11 +753,11 @@ C. About five centimetres
 D. About ten centimetres
 E. About half a centimetre
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**48.** How to Grow Chilli Plants from Seeds
+48. How to Grow Chilli Plants from Seeds
 Materials: ripe chilli seeds, a small pot, soil mixed with compost, water, and a sunny place.
 Soak the seeds in warm water for about six hours. This softens the skin of the seeds so they sprout faster.
 Fill the pot with soil, leaving about two centimetres at the top.
@@ -774,11 +774,11 @@ C. It increases the chance that at least one seed will grow.
 D. All of the seeds will produce chillies.
 E. The seeds will be softer.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**49.** How to Grow Chilli Plants from Seeds
+49. How to Grow Chilli Plants from Seeds
 Materials: ripe chilli seeds, a small pot, soil mixed with compost, water, and a sunny place.
 Soak the seeds in warm water for about six hours. This softens the skin of the seeds so they sprout faster.
 Fill the pot with soil, leaving about two centimetres at the top.
@@ -795,11 +795,11 @@ C. the plant should only be watered once a month
 D. the soil must be dry before planting
 E. too much water can harm the seeds as much as too little
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**50.** How to Grow Chilli Plants from Seeds
+50. How to Grow Chilli Plants from Seeds
 Materials: ripe chilli seeds, a small pot, soil mixed with compost, water, and a sunny place.
 Soak the seeds in warm water for about six hours. This softens the skin of the seeds so they sprout faster.
 Fill the pot with soil, leaving about two centimetres at the top.
@@ -816,11 +816,11 @@ C. It tries to persuade readers to become farmers.
 D. It only describes the appearance of a chilli plant.
 E. It is difficult to follow because it has no list of materials.
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**51.** How to Use a Fire Extinguisher
+51. How to Use a Fire Extinguisher
 A fire extinguisher can stop a small fire before it grows. Use it only when the fire is small and you have a clear way to escape. To remember the steps, think of the word PASS.
 Pull the pin. The pin is at the top of the handle. Pulling it breaks the plastic seal and allows you to use the extinguisher.
 Aim low. Point the nozzle at the base of the fire, not at the flames, because the fuel is at the base.
@@ -835,11 +835,11 @@ C. Pull the pin at the top of the handle.
 D. Sweep the nozzle from side to side.
 E. Call the emergency services.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**52.** How to Use a Fire Extinguisher
+52. How to Use a Fire Extinguisher
 A fire extinguisher can stop a small fire before it grows. Use it only when the fire is small and you have a clear way to escape. To remember the steps, think of the word PASS.
 Pull the pin. The pin is at the top of the handle. Pulling it breaks the plastic seal and allows you to use the extinguisher.
 Aim low. Point the nozzle at the base of the fire, not at the flames, because the fuel is at the base.
@@ -854,11 +854,11 @@ C. At the smoke
 D. Above the fire
 E. At the walls
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**53.** How to Use a Fire Extinguisher
+53. How to Use a Fire Extinguisher
 A fire extinguisher can stop a small fire before it grows. Use it only when the fire is small and you have a clear way to escape. To remember the steps, think of the word PASS.
 Pull the pin. The pin is at the top of the handle. Pulling it breaks the plastic seal and allows you to use the extinguisher.
 Aim low. Point the nozzle at the base of the fire, not at the flames, because the fuel is at the base.
@@ -873,11 +873,11 @@ C. The fire will disappear by itself.
 D. The emergency services will not come otherwise.
 E. The fire may be too big for the extinguisher and too dangerous to stay near.
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**54.** How to Use a Fire Extinguisher
+54. How to Use a Fire Extinguisher
 A fire extinguisher can stop a small fire before it grows. Use it only when the fire is small and you have a clear way to escape. To remember the steps, think of the word PASS.
 Pull the pin. The pin is at the top of the handle. Pulling it breaks the plastic seal and allows you to use the extinguisher.
 Aim low. Point the nozzle at the base of the fire, not at the flames, because the fuel is at the base.
@@ -892,11 +892,11 @@ C. people should never use fire extinguishers
 D. fires always destroy property
 E. emergency services only protect buildings
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**55.** How to Use a Fire Extinguisher
+55. How to Use a Fire Extinguisher
 A fire extinguisher can stop a small fire before it grows. Use it only when the fire is small and you have a clear way to escape. To remember the steps, think of the word PASS.
 Pull the pin. The pin is at the top of the handle. Pulling it breaks the plastic seal and allows you to use the extinguisher.
 Aim low. Point the nozzle at the base of the fire, not at the flames, because the fuel is at the base.
@@ -911,11 +911,11 @@ C. It mainly describes the shape and colour of an extinguisher.
 D. The word PASS helps readers remember the steps easily.
 E. It argues that fire extinguishers should be banned.
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**56.** Schools Should Start Later in the Morning
+56. Schools Should Start Later in the Morning
 In many schools in Indonesia, the first lesson begins at 6.30 or 7.00 a.m. Although this schedule has become a habit, I strongly believe that schools should start later, at around 8.00 a.m.
 First, teenagers need more sleep than adults. Students between 13 and 18 years old need eight to ten hours of sleep each night. Because their body clock makes them feel sleepy later at night, many teenagers cannot fall asleep before 10 p.m. When they must wake up at 5 a.m., they often study while tired and cannot concentrate.
 Second, a later start can improve students' performance. Some schools abroad that moved their start time reported fewer students falling asleep in class and better exam results. Students who are well rested also tend to be in a better mood and have fewer conflicts with friends.
@@ -930,11 +930,11 @@ C. The school day should end earlier.
 D. Extracurricular activities should be stopped.
 E. Schools should move all lessons to the afternoon.
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**57.** Schools Should Start Later in the Morning
+57. Schools Should Start Later in the Morning
 In many schools in Indonesia, the first lesson begins at 6.30 or 7.00 a.m. Although this schedule has become a habit, I strongly believe that schools should start later, at around 8.00 a.m.
 First, teenagers need more sleep than adults. Students between 13 and 18 years old need eight to ten hours of sleep each night. Because their body clock makes them feel sleepy later at night, many teenagers cannot fall asleep before 10 p.m. When they must wake up at 5 a.m., they often study while tired and cannot concentrate.
 Second, a later start can improve students' performance. Some schools abroad that moved their start time reported fewer students falling asleep in class and better exam results. Students who are well rested also tend to be in a better mood and have fewer conflicts with friends.
@@ -949,11 +949,11 @@ C. Ten to twelve hours
 D. Eight to ten hours
 E. Five to seven hours
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**58.** Schools Should Start Later in the Morning
+58. Schools Should Start Later in the Morning
 In many schools in Indonesia, the first lesson begins at 6.30 or 7.00 a.m. Although this schedule has become a habit, I strongly believe that schools should start later, at around 8.00 a.m.
 First, teenagers need more sleep than adults. Students between 13 and 18 years old need eight to ten hours of sleep each night. Because their body clock makes them feel sleepy later at night, many teenagers cannot fall asleep before 10 p.m. When they must wake up at 5 a.m., they often study while tired and cannot concentrate.
 Second, a later start can improve students' performance. Some schools abroad that moved their start time reported fewer students falling asleep in class and better exam results. Students who are well rested also tend to be in a better mood and have fewer conflicts with friends.
@@ -968,11 +968,11 @@ C. always get better exam results
 D. have more free time after school
 E. enjoy travelling in the dark
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**59.** Schools Should Start Later in the Morning
+59. Schools Should Start Later in the Morning
 In many schools in Indonesia, the first lesson begins at 6.30 or 7.00 a.m. Although this schedule has become a habit, I strongly believe that schools should start later, at around 8.00 a.m.
 First, teenagers need more sleep than adults. Students between 13 and 18 years old need eight to ten hours of sleep each night. Because their body clock makes them feel sleepy later at night, many teenagers cannot fall asleep before 10 p.m. When they must wake up at 5 a.m., they often study while tired and cannot concentrate.
 Second, a later start can improve students' performance. Some schools abroad that moved their start time reported fewer students falling asleep in class and better exam results. Students who are well rested also tend to be in a better mood and have fewer conflicts with friends.
@@ -987,11 +987,11 @@ C. The writer expects an opposing view and offers a solution.
 D. The writer wants to stop extracurricular activities.
 E. The writer is not sure about his or her own thesis.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**60.** Schools Should Start Later in the Morning
+60. Schools Should Start Later in the Morning
 In many schools in Indonesia, the first lesson begins at 6.30 or 7.00 a.m. Although this schedule has become a habit, I strongly believe that schools should start later, at around 8.00 a.m.
 First, teenagers need more sleep than adults. Students between 13 and 18 years old need eight to ten hours of sleep each night. Because their body clock makes them feel sleepy later at night, many teenagers cannot fall asleep before 10 p.m. When they must wake up at 5 a.m., they often study while tired and cannot concentrate.
 Second, a later start can improve students' performance. Some schools abroad that moved their start time reported fewer students falling asleep in class and better exam results. Students who are well rested also tend to be in a better mood and have fewer conflicts with friends.
@@ -1006,11 +1006,11 @@ C. It gives steps for changing a school schedule.
 D. It describes the place where a school is located.
 E. It is convincing because it gives several reasons with supporting information and restates the position at the end.
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**61.** Students Should Cycle to School
+61. Students Should Cycle to School
 Many students go to school by motorbike or are driven by their parents. In my opinion, more students should cycle to school for three reasons.
 Firstly, cycling is good for health. Riding a bicycle for twenty minutes every day exercises the heart and muscles, and it helps students stay fit. Many students spend most of their day sitting in class, so cycling gives them a chance to move.
 Secondly, cycling is good for the environment. Bicycles do not produce exhaust gases, so they do not pollute the air. If a hundred students leave their motorbikes at home, the school area will have cleaner air and less noise.
@@ -1025,11 +1025,11 @@ C. Cycling is safer than walking.
 D. Cycling improves students' grades.
 E. Cycling saves money.
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**62.** Students Should Cycle to School
+62. Students Should Cycle to School
 Many students go to school by motorbike or are driven by their parents. In my opinion, more students should cycle to school for three reasons.
 Firstly, cycling is good for health. Riding a bicycle for twenty minutes every day exercises the heart and muscles, and it helps students stay fit. Many students spend most of their day sitting in class, so cycling gives them a chance to move.
 Secondly, cycling is good for the environment. Bicycles do not produce exhaust gases, so they do not pollute the air. If a hundred students leave their motorbikes at home, the school area will have cleaner air and less noise.
@@ -1044,11 +1044,11 @@ C. The school area will have cleaner air and less noise.
 D. The school will save electricity.
 E. Parents will spend more money on fuel.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**63.** Students Should Cycle to School
+63. Students Should Cycle to School
 Many students go to school by motorbike or are driven by their parents. In my opinion, more students should cycle to school for three reasons.
 Firstly, cycling is good for health. Riding a bicycle for twenty minutes every day exercises the heart and muscles, and it helps students stay fit. Many students spend most of their day sitting in class, so cycling gives them a chance to move.
 Secondly, cycling is good for the environment. Bicycles do not produce exhaust gases, so they do not pollute the air. If a hundred students leave their motorbikes at home, the school area will have cleaner air and less noise.
@@ -1063,11 +1063,11 @@ C. students prefer motorbikes to bicycles
 D. students do not get enough physical activity during school hours
 E. teachers do not allow students to move
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**64.** Students Should Cycle to School
+64. Students Should Cycle to School
 Many students go to school by motorbike or are driven by their parents. In my opinion, more students should cycle to school for three reasons.
 Firstly, cycling is good for health. Riding a bicycle for twenty minutes every day exercises the heart and muscles, and it helps students stay fit. Many students spend most of their day sitting in class, so cycling gives them a chance to move.
 Secondly, cycling is good for the environment. Bicycles do not produce exhaust gases, so they do not pollute the air. If a hundred students leave their motorbikes at home, the school area will have cleaner air and less noise.
@@ -1082,11 +1082,11 @@ C. To suggest that all students should move closer to school
 D. To complain about the location of the school
 E. To argue that motorbikes are better than bicycles
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**65.** Students Should Cycle to School
+65. Students Should Cycle to School
 Many students go to school by motorbike or are driven by their parents. In my opinion, more students should cycle to school for three reasons.
 Firstly, cycling is good for health. Riding a bicycle for twenty minutes every day exercises the heart and muscles, and it helps students stay fit. Many students spend most of their day sitting in class, so cycling gives them a chance to move.
 Secondly, cycling is good for the environment. Bicycles do not produce exhaust gases, so they do not pollute the air. If a hundred students leave their motorbikes at home, the school area will have cleaner air and less noise.
@@ -1101,11 +1101,11 @@ C. It is incomplete because it has no conclusion.
 D. It mainly describes the parts of a bicycle.
 E. It tells a sequence of events in the past.
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**66.** Financial Literacy Should Be Taught in Every School
+66. Financial Literacy Should Be Taught in Every School
 Many students graduate from senior high school knowing how to solve complex equations but not how to manage their own money. In my opinion, schools should teach basic financial literacy to all students.
 First, financial skills are needed in daily life. Young people today receive allowances, shop online, and use digital wallets. Without knowledge about budgeting, they may spend all their money on things they do not need. A simple lesson on how to record income and expenses can help them avoid this problem.
 Second, learning about money early builds good habits. Research from several countries shows that students who learn about saving at school are more likely to save regularly as adults. They also understand the risks of debt, such as online loans with very high interest.
@@ -1120,11 +1120,11 @@ C. Online shopping should be banned for students.
 D. Schools should teach basic financial literacy to all students.
 E. Parents should give their children bigger allowances.
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**67.** Financial Literacy Should Be Taught in Every School
+67. Financial Literacy Should Be Taught in Every School
 Many students graduate from senior high school knowing how to solve complex equations but not how to manage their own money. In my opinion, schools should teach basic financial literacy to all students.
 First, financial skills are needed in daily life. Young people today receive allowances, shop online, and use digital wallets. Without knowledge about budgeting, they may spend all their money on things they do not need. A simple lesson on how to record income and expenses can help them avoid this problem.
 Second, learning about money early builds good habits. Research from several countries shows that students who learn about saving at school are more likely to save regularly as adults. They also understand the risks of debt, such as online loans with very high interest.
@@ -1139,11 +1139,11 @@ C. Being unable to attend school
 D. Losing a job
 E. Paying taxes late
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**68.** Financial Literacy Should Be Taught in Every School
+68. Financial Literacy Should Be Taught in Every School
 Many students graduate from senior high school knowing how to solve complex equations but not how to manage their own money. In my opinion, schools should teach basic financial literacy to all students.
 First, financial skills are needed in daily life. Young people today receive allowances, shop online, and use digital wallets. Without knowledge about budgeting, they may spend all their money on things they do not need. A simple lesson on how to record income and expenses can help them avoid this problem.
 Second, learning about money early builds good habits. Research from several countries shows that students who learn about saving at school are more likely to save regularly as adults. They also understand the risks of debt, such as online loans with very high interest.
@@ -1158,11 +1158,11 @@ C. may waste money if they do not know how to budget
 D. already understand how to manage money
 E. always find cheaper prices when shopping online
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**69.** Financial Literacy Should Be Taught in Every School
+69. Financial Literacy Should Be Taught in Every School
 Many students graduate from senior high school knowing how to solve complex equations but not how to manage their own money. In my opinion, schools should teach basic financial literacy to all students.
 First, financial skills are needed in daily life. Young people today receive allowances, shop online, and use digital wallets. Without knowledge about budgeting, they may spend all their money on things they do not need. A simple lesson on how to record income and expenses can help them avoid this problem.
 Second, learning about money early builds good habits. Research from several countries shows that students who learn about saving at school are more likely to save regularly as adults. They also understand the risks of debt, such as online loans with very high interest.
@@ -1177,11 +1177,11 @@ C. To prove that students dislike mathematics
 D. To reduce the number of teachers in schools
 E. To respond to the objection that the curriculum is already too full
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**70.** Financial Literacy Should Be Taught in Every School
+70. Financial Literacy Should Be Taught in Every School
 Many students graduate from senior high school knowing how to solve complex equations but not how to manage their own money. In my opinion, schools should teach basic financial literacy to all students.
 First, financial skills are needed in daily life. Young people today receive allowances, shop online, and use digital wallets. Without knowledge about budgeting, they may spend all their money on things they do not need. A simple lesson on how to record income and expenses can help them avoid this problem.
 Second, learning about money early builds good habits. Research from several countries shows that students who learn about saving at school are more likely to save regularly as adults. They also understand the risks of debt, such as online loans with very high interest.
@@ -1196,11 +1196,11 @@ C. It is a set of steps for managing money.
 D. It mainly describes a school building.
 E. It tells a series of past events in chronological order.
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**71.** Malioboro Street is the most famous street in Yogyakarta. It is about two kilometres long, and it is always crowded, especially on weekends and holidays.
+71. Malioboro Street is the most famous street in Yogyakarta. It is about two kilometres long, and it is always crowded, especially on weekends and holidays.
 On both sides of the street, there are many shops. They sell batik clothes, leather bags, wooden toys, and colourful souvenirs. In front of the shops, street vendors sit on the pavement and offer cheap bracelets and keychains. Visitors often bargain with them to get a lower price.
 At night, the street looks beautiful. Yellow lamps light the pavement, and the smell of grilled corn and fried tofu fills the air. Musicians play guitars and sing popular songs for the visitors. Horse-drawn carts, called andong, move slowly along the road, and the horses' hooves make a soft clip-clop sound.
 Malioboro is noisy and busy, but many people love it. It is a place where visitors can enjoy local food, culture, and friendly people.
@@ -1212,11 +1212,11 @@ C. About five kilometres
 D. About ten kilometres
 E. About half a kilometre
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**72.** Malioboro Street is the most famous street in Yogyakarta. It is about two kilometres long, and it is always crowded, especially on weekends and holidays.
+72. Malioboro Street is the most famous street in Yogyakarta. It is about two kilometres long, and it is always crowded, especially on weekends and holidays.
 On both sides of the street, there are many shops. They sell batik clothes, leather bags, wooden toys, and colourful souvenirs. In front of the shops, street vendors sit on the pavement and offer cheap bracelets and keychains. Visitors often bargain with them to get a lower price.
 At night, the street looks beautiful. Yellow lamps light the pavement, and the smell of grilled corn and fried tofu fills the air. Musicians play guitars and sing popular songs for the visitors. Horse-drawn carts, called andong, move slowly along the road, and the horses' hooves make a soft clip-clop sound.
 Malioboro is noisy and busy, but many people love it. It is a place where visitors can enjoy local food, culture, and friendly people.
@@ -1228,11 +1228,11 @@ C. Musical instruments
 D. Leather shoes
 E. Bracelets and keychains
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**73.** Malioboro Street is the most famous street in Yogyakarta. It is about two kilometres long, and it is always crowded, especially on weekends and holidays.
+73. Malioboro Street is the most famous street in Yogyakarta. It is about two kilometres long, and it is always crowded, especially on weekends and holidays.
 On both sides of the street, there are many shops. They sell batik clothes, leather bags, wooden toys, and colourful souvenirs. In front of the shops, street vendors sit on the pavement and offer cheap bracelets and keychains. Visitors often bargain with them to get a lower price.
 At night, the street looks beautiful. Yellow lamps light the pavement, and the smell of grilled corn and fried tofu fills the air. Musicians play guitars and sing popular songs for the visitors. Horse-drawn carts, called andong, move slowly along the road, and the horses' hooves make a soft clip-clop sound.
 Malioboro is noisy and busy, but many people love it. It is a place where visitors can enjoy local food, culture, and friendly people.
@@ -1244,11 +1244,11 @@ C. street vendors dislike tourists
 D. visitors cannot afford anything in the street
 E. the shops are closed during the day
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**74.** Malioboro Street is the most famous street in Yogyakarta. It is about two kilometres long, and it is always crowded, especially on weekends and holidays.
+74. Malioboro Street is the most famous street in Yogyakarta. It is about two kilometres long, and it is always crowded, especially on weekends and holidays.
 On both sides of the street, there are many shops. They sell batik clothes, leather bags, wooden toys, and colourful souvenirs. In front of the shops, street vendors sit on the pavement and offer cheap bracelets and keychains. Visitors often bargain with them to get a lower price.
 At night, the street looks beautiful. Yellow lamps light the pavement, and the smell of grilled corn and fried tofu fills the air. Musicians play guitars and sing popular songs for the visitors. Horse-drawn carts, called andong, move slowly along the road, and the horses' hooves make a soft clip-clop sound.
 Malioboro is noisy and busy, but many people love it. It is a place where visitors can enjoy local food, culture, and friendly people.
@@ -1260,11 +1260,11 @@ C. People visit it only for shopping.
 D. Its lively atmosphere and local culture attract visitors despite the noise.
 E. Visitors dislike the local food.
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**75.** Malioboro Street is the most famous street in Yogyakarta. It is about two kilometres long, and it is always crowded, especially on weekends and holidays.
+75. Malioboro Street is the most famous street in Yogyakarta. It is about two kilometres long, and it is always crowded, especially on weekends and holidays.
 On both sides of the street, there are many shops. They sell batik clothes, leather bags, wooden toys, and colourful souvenirs. In front of the shops, street vendors sit on the pavement and offer cheap bracelets and keychains. Visitors often bargain with them to get a lower price.
 At night, the street looks beautiful. Yellow lamps light the pavement, and the smell of grilled corn and fried tofu fills the air. Musicians play guitars and sing popular songs for the visitors. Horse-drawn carts, called andong, move slowly along the road, and the horses' hooves make a soft clip-clop sound.
 Malioboro is noisy and busy, but many people love it. It is a place where visitors can enjoy local food, culture, and friendly people.
@@ -1276,11 +1276,11 @@ C. It uses adjectives, sensory details, and the simple present tense.
 D. It uses modal verbs to persuade readers.
 E. It uses the first person to tell a series of events.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**76.** Last Sunday, I joined a beach clean-up organised by the environmental club at my school. I had never done anything like it, so I was a little nervous when I arrived at Depok Beach at 6.30 a.m.
+76. Last Sunday, I joined a beach clean-up organised by the environmental club at my school. I had never done anything like it, so I was a little nervous when I arrived at Depok Beach at 6.30 a.m.
 First, the coordinator, Kak Sari, divided the volunteers into five groups and gave each of us gloves and a large plastic bag. She told us to separate plastic bottles from other waste. My group was assigned to the area near the fishermen's boats.
 At first, I thought the work would be easy. However, after an hour, our bags were full and the beach still looked dirty. There were old sandals, fishing nets, food wrappers, and thousands of tiny plastic pieces mixed with the sand. My friend Doni got tired and wanted to stop, but a local fisherman, Pak Ali, joined us and told us how the waste harms the fish. After hearing that, we kept working.
 By noon, we had collected almost 200 kilograms of waste. Everyone sat together under the trees and ate rice boxes provided by the club. Kak Sari thanked us and said the waste would be sent to a recycling centre.
@@ -1293,11 +1293,11 @@ C. Separate them from other waste
 D. Take them home
 E. Burn them on the beach
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**77.** Last Sunday, I joined a beach clean-up organised by the environmental club at my school. I had never done anything like it, so I was a little nervous when I arrived at Depok Beach at 6.30 a.m.
+77. Last Sunday, I joined a beach clean-up organised by the environmental club at my school. I had never done anything like it, so I was a little nervous when I arrived at Depok Beach at 6.30 a.m.
 First, the coordinator, Kak Sari, divided the volunteers into five groups and gave each of us gloves and a large plastic bag. She told us to separate plastic bottles from other waste. My group was assigned to the area near the fishermen's boats.
 At first, I thought the work would be easy. However, after an hour, our bags were full and the beach still looked dirty. There were old sandals, fishing nets, food wrappers, and thousands of tiny plastic pieces mixed with the sand. My friend Doni got tired and wanted to stop, but a local fisherman, Pak Ali, joined us and told us how the waste harms the fish. After hearing that, we kept working.
 By noon, we had collected almost 200 kilograms of waste. Everyone sat together under the trees and ate rice boxes provided by the club. Kak Sari thanked us and said the waste would be sent to a recycling centre.
@@ -1310,11 +1310,11 @@ C. About 100 kilograms
 D. Almost 200 kilograms
 E. More than 500 kilograms
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**78.** Last Sunday, I joined a beach clean-up organised by the environmental club at my school. I had never done anything like it, so I was a little nervous when I arrived at Depok Beach at 6.30 a.m.
+78. Last Sunday, I joined a beach clean-up organised by the environmental club at my school. I had never done anything like it, so I was a little nervous when I arrived at Depok Beach at 6.30 a.m.
 First, the coordinator, Kak Sari, divided the volunteers into five groups and gave each of us gloves and a large plastic bag. She told us to separate plastic bottles from other waste. My group was assigned to the area near the fishermen's boats.
 At first, I thought the work would be easy. However, after an hour, our bags were full and the beach still looked dirty. There were old sandals, fishing nets, food wrappers, and thousands of tiny plastic pieces mixed with the sand. My friend Doni got tired and wanted to stop, but a local fisherman, Pak Ali, joined us and told us how the waste harms the fish. After hearing that, we kept working.
 By noon, we had collected almost 200 kilograms of waste. Everyone sat together under the trees and ate rice boxes provided by the club. Kak Sari thanked us and said the waste would be sent to a recycling centre.
@@ -1327,11 +1327,11 @@ C. Kak Sari ordered them to stay.
 D. They wanted to get the rice boxes.
 E. Their bags were still empty.
 
-**Kunci: B**
+Kunci: B
 
 ---
 
-**79.** Last Sunday, I joined a beach clean-up organised by the environmental club at my school. I had never done anything like it, so I was a little nervous when I arrived at Depok Beach at 6.30 a.m.
+79. Last Sunday, I joined a beach clean-up organised by the environmental club at my school. I had never done anything like it, so I was a little nervous when I arrived at Depok Beach at 6.30 a.m.
 First, the coordinator, Kak Sari, divided the volunteers into five groups and gave each of us gloves and a large plastic bag. She told us to separate plastic bottles from other waste. My group was assigned to the area near the fishermen's boats.
 At first, I thought the work would be easy. However, after an hour, our bags were full and the beach still looked dirty. There were old sandals, fishing nets, food wrappers, and thousands of tiny plastic pieces mixed with the sand. My friend Doni got tired and wanted to stop, but a local fisherman, Pak Ali, joined us and told us how the waste harms the fish. After hearing that, we kept working.
 By noon, we had collected almost 200 kilograms of waste. Everyone sat together under the trees and ate rice boxes provided by the club. Kak Sari thanked us and said the waste would be sent to a recycling centre.
@@ -1344,11 +1344,11 @@ C. disliked the activity
 D. did not do any work
 E. wanted to be paid next time
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**80.** Last Sunday, I joined a beach clean-up organised by the environmental club at my school. I had never done anything like it, so I was a little nervous when I arrived at Depok Beach at 6.30 a.m.
+80. Last Sunday, I joined a beach clean-up organised by the environmental club at my school. I had never done anything like it, so I was a little nervous when I arrived at Depok Beach at 6.30 a.m.
 First, the coordinator, Kak Sari, divided the volunteers into five groups and gave each of us gloves and a large plastic bag. She told us to separate plastic bottles from other waste. My group was assigned to the area near the fishermen's boats.
 At first, I thought the work would be easy. However, after an hour, our bags were full and the beach still looked dirty. There were old sandals, fishing nets, food wrappers, and thousands of tiny plastic pieces mixed with the sand. My friend Doni got tired and wanted to stop, but a local fisherman, Pak Ali, joined us and told us how the waste harms the fish. After hearing that, we kept working.
 By noon, we had collected almost 200 kilograms of waste. Everyone sat together under the trees and ate rice boxes provided by the club. Kak Sari thanked us and said the waste would be sent to a recycling centre.
@@ -1361,11 +1361,11 @@ C. It describes the physical features of a beach.
 D. It presents a problem and a solution without personal experience.
 E. It has an orientation, events in chronological order, and a personal reflection at the end.
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**81.** Here is my unforgettable experience. One day I joined a story telling contest. Two of my friends and I had been chosen to take a part in the final round at the district level. I was very happy and eager to win the competition. For preparation, I had to memorize and understand the story well. My teacher guided and taught me pronunciation, facial expression and gestures. One day, before performing, my friends and I were busy to prepare the props and costumes for the competition. Thing that made me sad was my teacher rented the props and costumes for my friends but not for me. My two friends had beautiful costumes and luxurious props. Although I just wore the simple ones, I performed my best to win the competition. The competition started. I got number 29 and my friends got number 5 and 10. I was nervous but I showed my best performance on stage. Lots of people took photos and videos of me. Finally, anxiety was gone after I had finished performing. And then, the announcement came which made three of us very uneasy. Luckily I was chosen as the first winner. I went to the stage and all the judges congratulated me and gave me a plaque, trophy, and money. I was very happy.
+81. Here is my unforgettable experience. One day I joined a story telling contest. Two of my friends and I had been chosen to take a part in the final round at the district level. I was very happy and eager to win the competition. For preparation, I had to memorize and understand the story well. My teacher guided and taught me pronunciation, facial expression and gestures. One day, before performing, my friends and I were busy to prepare the props and costumes for the competition. Thing that made me sad was my teacher rented the props and costumes for my friends but not for me. My two friends had beautiful costumes and luxurious props. Although I just wore the simple ones, I performed my best to win the competition. The competition started. I got number 29 and my friends got number 5 and 10. I was nervous but I showed my best performance on stage. Lots of people took photos and videos of me. Finally, anxiety was gone after I had finished performing. And then, the announcement came which made three of us very uneasy. Luckily I was chosen as the first winner. I went to the stage and all the judges congratulated me and gave me a plaque, trophy, and money. I was very happy.
 What is the writer's intention to write the text?
 
 A. To tell his achievement
@@ -1374,11 +1374,11 @@ C. To describe his feeling to the teacher
 D. To show his disappointment to teacher
 E. To tell his expectation to be the winner
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**82.** Here is my unforgettable experience. One day I joined a story telling contest. Two of my friends and I had been chosen to take a part in the final round at the district level. I was very happy and eager to win the competition. For preparation, I had to memorize and understand the story well. My teacher guided and taught me pronunciation, facial expression and gestures. One day, before performing, my friends and I were busy to prepare the props and costumes for the competition. Thing that made me sad was my teacher rented the props and costumes for my friends but not for me. My two friends had beautiful costumes and luxurious props. Although I just wore the simple ones, I performed my best to win the competition. The competition started. I got number 29 and my friends got number 5 and 10. I was nervous but I showed my best performance on stage. Lots of people took photos and videos of me. Finally, anxiety was gone after I had finished performing. And then, the announcement came which made three of us very uneasy. Luckily I was chosen as the first winner. I went to the stage and all the judges congratulated me and gave me a plaque, trophy, and money. I was very happy.
+82. Here is my unforgettable experience. One day I joined a story telling contest. Two of my friends and I had been chosen to take a part in the final round at the district level. I was very happy and eager to win the competition. For preparation, I had to memorize and understand the story well. My teacher guided and taught me pronunciation, facial expression and gestures. One day, before performing, my friends and I were busy to prepare the props and costumes for the competition. Thing that made me sad was my teacher rented the props and costumes for my friends but not for me. My two friends had beautiful costumes and luxurious props. Although I just wore the simple ones, I performed my best to win the competition. The competition started. I got number 29 and my friends got number 5 and 10. I was nervous but I showed my best performance on stage. Lots of people took photos and videos of me. Finally, anxiety was gone after I had finished performing. And then, the announcement came which made three of us very uneasy. Luckily I was chosen as the first winner. I went to the stage and all the judges congratulated me and gave me a plaque, trophy, and money. I was very happy.
 Why did the writer feel sad before the competition?
 
 A. She had no luxurious gown.
@@ -1387,11 +1387,11 @@ C. Her teacher was not fair to her.
 D. Her friends did not support her.
 E. She only had a very simple dress.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**83.** Here is my unforgettable experience. One day I joined a story telling contest. Two of my friends and I had been chosen to take a part in the final round at the district level. I was very happy and eager to win the competition. For preparation, I had to memorize and understand the story well. My teacher guided and taught me pronunciation, facial expression and gestures. One day, before performing, my friends and I were busy to prepare the props and costumes for the competition. Thing that made me sad was my teacher rented the props and costumes for my friends but not for me. My two friends had beautiful costumes and luxurious props. Although I just wore the simple ones, I performed my best to win the competition. The competition started. I got number 29 and my friends got number 5 and 10. I was nervous but I showed my best performance on stage. Lots of people took photos and videos of me. Finally, anxiety was gone after I had finished performing. And then, the announcement came which made three of us very uneasy. Luckily I was chosen as the first winner. I went to the stage and all the judges congratulated me and gave me a plaque, trophy, and money. I was very happy.
+83. Here is my unforgettable experience. One day I joined a story telling contest. Two of my friends and I had been chosen to take a part in the final round at the district level. I was very happy and eager to win the competition. For preparation, I had to memorize and understand the story well. My teacher guided and taught me pronunciation, facial expression and gestures. One day, before performing, my friends and I were busy to prepare the props and costumes for the competition. Thing that made me sad was my teacher rented the props and costumes for my friends but not for me. My two friends had beautiful costumes and luxurious props. Although I just wore the simple ones, I performed my best to win the competition. The competition started. I got number 29 and my friends got number 5 and 10. I was nervous but I showed my best performance on stage. Lots of people took photos and videos of me. Finally, anxiety was gone after I had finished performing. And then, the announcement came which made three of us very uneasy. Luckily I was chosen as the first winner. I went to the stage and all the judges congratulated me and gave me a plaque, trophy, and money. I was very happy.
 From the text it can be concluded that ...
 
 A. Practice makes performance go well
@@ -1400,11 +1400,11 @@ C. Wearing simple clothes can help win the competition
 D. It is necessary to wear beautiful costumes for the competition
 E. Beautiful costumes and luxurious props are the requirements for the competition
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**84.** Two state-owned lenders, Bank Mandiri and Bank BNI, will build temporary houses for 400 families displaced by the recent strong earthquake that hit Sigi District, Central Sulawesi Province. Second Assistant Secretary of Sigi District Government Iskandar Nontji informed that Bank Mandiri will construct the temporary houses for 100 families in the South Sibayala area of Dolo Sub-district. Meanwhile, Bank BNI will erect temporary shelters for 300 families in Jonoge Village of Sigi Biromaru Sub-district that severely suffered from soil liquefaction during the 7.4-magnitude earthquake rocked the area on Sept 28, he noted. The temporary houses will be constructed on pieces of land, owned by the sub-district government, village, and community members, he stated, adding that the Sigi district government will facilitate all related parties to sign a letter of agreement. "We are going to provide a letter of agreement that will be signed by all related parties to avoid any unexpected eventuality in the future," he explained. (Antara, 17th October, 2018).
+84. Two state-owned lenders, Bank Mandiri and Bank BNI, will build temporary houses for 400 families displaced by the recent strong earthquake that hit Sigi District, Central Sulawesi Province. Second Assistant Secretary of Sigi District Government Iskandar Nontji informed that Bank Mandiri will construct the temporary houses for 100 families in the South Sibayala area of Dolo Sub-district. Meanwhile, Bank BNI will erect temporary shelters for 300 families in Jonoge Village of Sigi Biromaru Sub-district that severely suffered from soil liquefaction during the 7.4-magnitude earthquake rocked the area on Sept 28, he noted. The temporary houses will be constructed on pieces of land, owned by the sub-district government, village, and community members, he stated, adding that the Sigi district government will facilitate all related parties to sign a letter of agreement. "We are going to provide a letter of agreement that will be signed by all related parties to avoid any unexpected eventuality in the future," he explained. (Antara, 17th October, 2018).
 What is the text about?
 
 A. Building temporary houses for displaced families
@@ -1413,11 +1413,11 @@ C. Signing a letter of agreement to build a permanent house
 D. BNI will build a new luxury house
 E. MANDIRI will provide letter agreement
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**85.** Two state-owned lenders, Bank Mandiri and Bank BNI, will build temporary houses for 400 families displaced by the recent strong earthquake that hit Sigi District, Central Sulawesi Province. Second Assistant Secretary of Sigi District Government Iskandar Nontji informed that Bank Mandiri will construct the temporary houses for 100 families in the South Sibayala area of Dolo Sub-district. Meanwhile, Bank BNI will erect temporary shelters for 300 families in Jonoge Village of Sigi Biromaru Sub-district that severely suffered from soil liquefaction during the 7.4-magnitude earthquake rocked the area on Sept 28, he noted. The temporary houses will be constructed on pieces of land, owned by the sub-district government, village, and community members, he stated, adding that the Sigi district government will facilitate all related parties to sign a letter of agreement. "We are going to provide a letter of agreement that will be signed by all related parties to avoid any unexpected eventuality in the future," he explained. (Antara, 17th October, 2018).
+85. Two state-owned lenders, Bank Mandiri and Bank BNI, will build temporary houses for 400 families displaced by the recent strong earthquake that hit Sigi District, Central Sulawesi Province. Second Assistant Secretary of Sigi District Government Iskandar Nontji informed that Bank Mandiri will construct the temporary houses for 100 families in the South Sibayala area of Dolo Sub-district. Meanwhile, Bank BNI will erect temporary shelters for 300 families in Jonoge Village of Sigi Biromaru Sub-district that severely suffered from soil liquefaction during the 7.4-magnitude earthquake rocked the area on Sept 28, he noted. The temporary houses will be constructed on pieces of land, owned by the sub-district government, village, and community members, he stated, adding that the Sigi district government will facilitate all related parties to sign a letter of agreement. "We are going to provide a letter of agreement that will be signed by all related parties to avoid any unexpected eventuality in the future," he explained. (Antara, 17th October, 2018).
 "...the temporary houses will be constructed on pieces of land..." The word "temporary" has an antonym of ...
 
 A. Momentary
@@ -1426,11 +1426,11 @@ C. Limited
 D. Permanent
 E. Moment
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**86.** How to Make Starfruit Punch
+86. How to Make Starfruit Punch
 Ingredients: 250 gr yellow starfruit in slices; 100 ml water; 2 spoonful of vanilla; 8 teaspoonful of lemonade extract
 Procedure: Put slices of starfruit and water in the blender. Wait until it's soft. Skim it. Add syrup, lemonade extract, and soda water. Stir thoroughly. Pour it in the glass and put in the ice cubes.
 What is the text about?
@@ -1441,11 +1441,11 @@ C. How to use blender
 D. How to stir thoroughly
 E. How to slice starfruit
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**87.** How to Make Starfruit Punch
+87. How to Make Starfruit Punch
 Ingredients: 250 gr yellow starfruit in slices; 100 ml water; 2 spoonful of vanilla; 8 teaspoonful of lemonade extract
 Procedure: Put slices of starfruit and water in the blender. Wait until it's soft. Skim it. Add syrup, lemonade extract, and soda water. Stir thoroughly. Pour it in the glass and put in the ice cubes.
 "...lemonade extract and soda water. Stir thoroughly." The word "stir" means ....
@@ -1456,11 +1456,11 @@ C. to cut
 D. to make dry
 E. to move an object in order to mix it
 
-**Kunci: E**
+Kunci: E
 
 ---
 
-**88.** How to Make Starfruit Punch
+88. How to Make Starfruit Punch
 Ingredients: 250 gr yellow starfruit in slices; 100 ml water; 2 spoonful of vanilla; 8 teaspoonful of lemonade extract
 Procedure: Put slices of starfruit and water in the blender. Wait until it's soft. Skim it. Add syrup, lemonade extract, and soda water. Stir thoroughly. Pour it in the glass and put in the ice cubes.
 Which of the following procedures is true?
@@ -1471,11 +1471,11 @@ C. Skim three spoonful of vanilla
 D. Skim the slices of starfruit and water which have already been softened
 E. Wait until the ice cubes are melted
 
-**Kunci: D**
+Kunci: D
 
 ---
 
-**89.** It was the rainy season in Banten. The villagers who were farmers were happy as the rain would water their rice fields and soon they would harvest their rice. Pak Bong was one of the farmers. He was also very happy and planned what he would buy for himself, his wife and his beautiful, beloved daughter, Nyi Banjarsari.
+89. It was the rainy season in Banten. The villagers who were farmers were happy as the rain would water their rice fields and soon they would harvest their rice. Pak Bong was one of the farmers. He was also very happy and planned what he would buy for himself, his wife and his beautiful, beloved daughter, Nyi Banjarsari.
 One night, Pak Bong had a terrible dream. An old man came to him and said the rain would never stop. There would be a great flood. Pak Bong had the same dream in the following nights. He decided to tell all the villagers about his dream and asked them to evacuate to a hill not far from their village. Everybody laughed at Pak Bong. "You are joking, Pak Bong. How can we leave our rice fields? We are going to have a great harvest, remember?"
 Pak Bong did not give up. He kept on asking the villagers to evacuate to the hill. Finally some villagers believed him. Together with his wife and his daughter Nyi Banjarsari, Pak Bong and his friends went to the hill. In the meantime, heavy rain fell day and night. It continued until water entered the houses. Soon, the village was flooded! Pak Bong and his friends could not do anything. They were sad because their village was under water. Then they prayed and asked how their village could be saved.
 The answer came in Pak Bong's dream. In his dream, the same old man told him how to save their village. "If you want the water to dry up, you have to sacrifice your daughter. She has to jump into the water!" said the old man. Pak Bong was very sad. He then told his family about his dream. "Father, if this is the only way to save our village, I will jump into the water," said Nyi Banjarsari. Her parents could not prevent their daughter from jumping into the water. After she had drowned, the water dried up. Pak Bong and his friends then returned to their village. Although the villagers had lost their harvest, they still had their lives and could rebuild their houses. To show their thankfulness and gratefulness to Nyi Banjarsari, the villagers named their village 'Banjarsari'.
@@ -1487,11 +1487,11 @@ C. Nyi Banjarsari died to save the village.
 D. The villagers were able to save their rice fields.
 E. The villagers were all with Pak Bong up the hill.
 
-**Kunci: C**
+Kunci: C
 
 ---
 
-**90.** It was the rainy season in Banten. The villagers who were farmers were happy as the rain would water their rice fields and soon they would harvest their rice. Pak Bong was one of the farmers. He was also very happy and planned what he would buy for himself, his wife and his beautiful, beloved daughter, Nyi Banjarsari.
+90. It was the rainy season in Banten. The villagers who were farmers were happy as the rain would water their rice fields and soon they would harvest their rice. Pak Bong was one of the farmers. He was also very happy and planned what he would buy for himself, his wife and his beautiful, beloved daughter, Nyi Banjarsari.
 One night, Pak Bong had a terrible dream. An old man came to him and said the rain would never stop. There would be a great flood. Pak Bong had the same dream in the following nights. He decided to tell all the villagers about his dream and asked them to evacuate to a hill not far from their village. Everybody laughed at Pak Bong. "You are joking, Pak Bong. How can we leave our rice fields? We are going to have a great harvest, remember?"
 Pak Bong did not give up. He kept on asking the villagers to evacuate to the hill. Finally some villagers believed him. Together with his wife and his daughter Nyi Banjarsari, Pak Bong and his friends went to the hill. In the meantime, heavy rain fell day and night. It continued until water entered the houses. Soon, the village was flooded! Pak Bong and his friends could not do anything. They were sad because their village was under water. Then they prayed and asked how their village could be saved.
 The answer came in Pak Bong's dream. In his dream, the same old man told him how to save their village. "If you want the water to dry up, you have to sacrifice your daughter. She has to jump into the water!" said the old man. Pak Bong was very sad. He then told his family about his dream. "Father, if this is the only way to save our village, I will jump into the water," said Nyi Banjarsari. Her parents could not prevent their daughter from jumping into the water. After she had drowned, the water dried up. Pak Bong and his friends then returned to their village. Although the villagers had lost their harvest, they still had their lives and could rebuild their houses. To show their thankfulness and gratefulness to Nyi Banjarsari, the villagers named their village 'Banjarsari'.
@@ -1503,11 +1503,11 @@ C. Pak Bong and the old man
 D. The villagers and Pak Bong
 E. The old man and Banjarsari
 
-**Kunci: A**
+Kunci: A
 
 ---
 
-**91.** The Lighthouse Keeper's Choice
+91. The Lighthouse Keeper's Choice
 
 For years, old Mr. Hendricks had kept the lighthouse on Raven's Point burning every night without fail. The villagers admired his devotion, though none of them knew why a man who could easily retire chose to climb the spiral stairs each evening, rain or shine.
 
@@ -1527,13 +1527,13 @@ C. He waited for the mayor's medal.
 D. He repaired the fishing boats.
 E. He trained new lighthouse volunteers.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 1).
 
 ---
 
-**92.** The Lighthouse Keeper's Choice
+92. The Lighthouse Keeper's Choice
 
 For years, old Mr. Hendricks had kept the lighthouse on Raven's Point burning every night without fail. The villagers admired his devotion, though none of them knew why a man who could easily retire chose to climb the spiral stairs each evening, rain or shine.
 
@@ -1553,13 +1553,13 @@ C. It collided with the lighthouse.
 D. It was caught in stormy waves near the rocks and radioed for help.
 E. It was repaired by Hendricks.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 2).
 
 ---
 
-**93.** The Lighthouse Keeper's Choice
+93. The Lighthouse Keeper's Choice
 
 For years, old Mr. Hendricks had kept the lighthouse on Raven's Point burning every night without fail. The villagers admired his devotion, though none of them knew why a man who could easily retire chose to climb the spiral stairs each evening, rain or shine.
 
@@ -1579,13 +1579,13 @@ C. He felt the medal was too small a reward.
 D. He felt he deserved a bigger reward than a medal.
 E. He felt indifferent and rejected it, suggesting he did not seek recognition for his actions.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 3).
 
 ---
 
-**94.** The Lighthouse Keeper's Choice
+94. The Lighthouse Keeper's Choice
 
 For years, old Mr. Hendricks had kept the lighthouse on Raven's Point burning every night without fail. The villagers admired his devotion, though none of them knew why a man who could easily retire chose to climb the spiral stairs each evening, rain or shine.
 
@@ -1605,13 +1605,13 @@ C. He wanted to prevent other sailors from suffering the same fate as his brothe
 D. He had no other job opportunities.
 E. He was ordered to do so by the coast guard.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 4).
 
 ---
 
-**95.** The Lighthouse Keeper's Choice
+95. The Lighthouse Keeper's Choice
 
 For years, old Mr. Hendricks had kept the lighthouse on Raven's Point burning every night without fail. The villagers admired his devotion, though none of them knew why a man who could easily retire chose to climb the spiral stairs each evening, rain or shine.
 
@@ -1631,13 +1631,13 @@ C. It creates confusion about the plot.
 D. It provokes anger toward the villagers.
 E. It leaves the reader indifferent to Hendricks' story.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 5).
 
 ---
 
-**96.** A Day I Got Lost in Kyoto
+96. A Day I Got Lost in Kyoto
 
 Last spring, I traveled to Japan for the first time, and I was determined to explore Kyoto without relying on a tour guide. Armed with a paper map and a phrase book, I set off early in the morning toward the Fushimi Inari Shrine, famous for its thousands of orange torii gates winding up the mountain.
 
@@ -1655,13 +1655,13 @@ C. A residential street.
 D. A phrase book store.
 E. A mountain village.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 6).
 
 ---
 
-**97.** A Day I Got Lost in Kyoto
+97. A Day I Got Lost in Kyoto
 
 Last spring, I traveled to Japan for the first time, and I was determined to explore Kyoto without relying on a tour guide. Armed with a paper map and a phrase book, I set off early in the morning toward the Fushimi Inari Shrine, famous for its thousands of orange torii gates winding up the mountain.
 
@@ -1679,13 +1679,13 @@ C. She lent the narrator her phone.
 D. She drew a simple map on a napkin and gave directions using landmarks.
 E. She sold the narrator a new map.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 7).
 
 ---
 
-**98.** A Day I Got Lost in Kyoto
+98. A Day I Got Lost in Kyoto
 
 Last spring, I traveled to Japan for the first time, and I was determined to explore Kyoto without relying on a tour guide. Armed with a paper map and a phrase book, I set off early in the morning toward the Fushimi Inari Shrine, famous for its thousands of orange torii gates winding up the mountain.
 
@@ -1703,13 +1703,13 @@ C. Anxiety and fear of being lost.
 D. Confidence that everything would be fine.
 E. Anger toward the tour guide.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 8).
 
 ---
 
-**99.** A Day I Got Lost in Kyoto
+99. A Day I Got Lost in Kyoto
 
 Last spring, I traveled to Japan for the first time, and I was determined to explore Kyoto without relying on a tour guide. Armed with a paper map and a phrase book, I set off early in the morning toward the Fushimi Inari Shrine, famous for its thousands of orange torii gates winding up the mountain.
 
@@ -1727,13 +1727,13 @@ C. It is better to avoid traveling abroad alone.
 D. Maps are useless when traveling.
 E. Unexpected, even frightening experiences can turn into valuable and memorable moments.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 9).
 
 ---
 
-**100.** A Day I Got Lost in Kyoto
+100. A Day I Got Lost in Kyoto
 
 Last spring, I traveled to Japan for the first time, and I was determined to explore Kyoto without relying on a tour guide. Armed with a paper map and a phrase book, I set off early in the morning toward the Fushimi Inari Shrine, famous for its thousands of orange torii gates winding up the mountain.
 
@@ -1751,13 +1751,13 @@ C. It suggests that the narrator failed to reach the shrine.
 D. It makes the passage feel like a scientific report.
 E. It has no effect on the reader's understanding of the story.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 10).
 
 ---
 
-**101.** The Ocean's Living Lights
+101. The Ocean's Living Lights
 
 Bioluminescence is the ability of living organisms to produce their own light through a chemical reaction inside their bodies. This phenomenon occurs in a wide range of marine creatures, from tiny plankton to deep-sea anglerfish, and even some species of jellyfish and squid.
 
@@ -1775,13 +1775,13 @@ C. Water and enzymes.
 D. Heat and light bulbs.
 E. Plankton and squid ink.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 11).
 
 ---
 
-**102.** The Ocean's Living Lights
+102. The Ocean's Living Lights
 
 Bioluminescence is the ability of living organisms to produce their own light through a chemical reaction inside their bodies. This phenomenon occurs in a wide range of marine creatures, from tiny plankton to deep-sea anglerfish, and even some species of jellyfish and squid.
 
@@ -1799,13 +1799,13 @@ C. To attract prey using a glowing lure.
 D. To generate heat in cold water.
 E. To camouflage itself from predators.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 12).
 
 ---
 
-**103.** The Ocean's Living Lights
+103. The Ocean's Living Lights
 
 Bioluminescence is the ability of living organisms to produce their own light through a chemical reaction inside their bodies. This phenomenon occurs in a wide range of marine creatures, from tiny plankton to deep-sea anglerfish, and even some species of jellyfish and squid.
 
@@ -1823,13 +1823,13 @@ C. They think it is too dangerous to research.
 D. They see potential practical value in it, both for medical research and possible energy-efficient lighting technology.
 E. They have already replaced all streetlights with bioluminescent bacteria.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 14).
 
 ---
 
-**104.** Grandmother's Kitchen
+104. Grandmother's Kitchen
 
 Even after all these years, I can still recall the exact smell of my grandmother's kitchen: a warm mixture of simmering cinnamon, fresh bread, and the faint smokiness of the old wood-fired stove she refused to replace with a modern one. The kitchen itself was small, barely large enough for two people to move around comfortably, yet it always felt like the biggest room in the house.
 
@@ -1847,13 +1847,13 @@ C. An old wood-fired stove.
 D. A microwave oven.
 E. A solar-powered stove.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 16).
 
 ---
 
-**105.** Grandmother's Kitchen
+105. Grandmother's Kitchen
 
 Even after all these years, I can still recall the exact smell of my grandmother's kitchen: a warm mixture of simmering cinnamon, fresh bread, and the faint smokiness of the old wood-fired stove she refused to replace with a modern one. The kitchen itself was small, barely large enough for two people to move around comfortably, yet it always felt like the biggest room in the house.
 
@@ -1870,13 +1870,13 @@ B. A copper pot.
 C. A wooden spoon.
 E. A recipe book.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 17).
 
 ---
 
-**106.** Should Homework Be Abolished?
+106. Should Homework Be Abolished?
 
 The debate over whether homework should be abolished in schools has intensified in recent years, as more studies question its actual academic value. Supporters of removing homework argue that after spending six to eight hours in class, students need time to rest, pursue hobbies, and spend time with their families rather than continuing academic work at home.
 
@@ -1896,13 +1896,13 @@ C. The United States' increasing homework load.
 D. A country that has completely eliminated schools.
 E. A study showing homework improves memory significantly.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 21).
 
 ---
 
-**107.** Should Homework Be Abolished?
+107. Should Homework Be Abolished?
 
 The debate over whether homework should be abolished in schools has intensified in recent years, as more studies question its actual academic value. Supporters of removing homework argue that after spending six to eight hours in class, students need time to rest, pursue hobbies, and spend time with their families rather than continuing academic work at home.
 
@@ -1922,13 +1922,13 @@ C. Redesigning homework into shorter, more meaningful tasks that build critical 
 D. Replacing homework with more exams.
 E. Giving homework only to high-performing students.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci resmi (Kompas 7 Sep 2026 soal 22).
 
 ---
 
-**108.** Should Homework Be Abolished?
+108. Should Homework Be Abolished?
 
 The debate over whether homework should be abolished in schools has intensified in recent years, as more studies question its actual academic value. Supporters of removing homework argue that after spending six to eight hours in class, students need time to rest, pursue hobbies, and spend time with their families rather than continuing academic work at home.
 
@@ -1948,13 +1948,13 @@ C. The author believes homework should be replaced with exams.
 D. The author presents the debate in a balanced way without clearly favoring one side, ending with an open-ended conclusion.
 E. The author dismisses the entire debate as unimportant.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 23).
 
 ---
 
-**109.** Should Homework Be Abolished?
+109. Should Homework Be Abolished?
 
 The debate over whether homework should be abolished in schools has intensified in recent years, as more studies question its actual academic value. Supporters of removing homework argue that after spending six to eight hours in class, students need time to rest, pursue hobbies, and spend time with their families rather than continuing academic work at home.
 
@@ -1974,13 +1974,13 @@ C. Because it guarantees higher test scores for every student.
 D. Because it replaces the need for classroom instruction.
 E. Because it is required by international education standards.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 24).
 
 ---
 
-**110.** Should Homework Be Abolished?
+110. Should Homework Be Abolished?
 
 The debate over whether homework should be abolished in schools has intensified in recent years, as more studies question its actual academic value. Supporters of removing homework argue that after spending six to eight hours in class, students need time to rest, pursue hobbies, and spend time with their families rather than continuing academic work at home.
 
@@ -2000,13 +2000,13 @@ C. It is effective only because it uses complicated vocabulary.
 D. It is ineffective because the middle-ground solution contradicts itself entirely.
 E. It is effective because it allows readers to understand multiple perspectives before considering a balanced, practical alternative.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 25).
 
 ---
 
-**111.** Is Social Media Doing More Harm Than Good?
+111. Is Social Media Doing More Harm Than Good?
 
 Social media has become deeply embedded in daily life, especially among teenagers, sparking ongoing debate about whether its overall impact is beneficial or harmful. Those who view social media positively point out that platforms allow people to stay connected with friends and family across long distances, access information instantly, and even build supportive communities around shared interests or challenges, such as rare illnesses or hobbies.
 
@@ -2024,13 +2024,13 @@ C. It eliminates cyberbullying completely.
 D. It replaces the need for schools.
 E. It always improves users' self-esteem.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 26).
 
 ---
 
-**112.** Is Social Media Doing More Harm Than Good?
+112. Is Social Media Doing More Harm Than Good?
 
 Social media has become deeply embedded in daily life, especially among teenagers, sparking ongoing debate about whether its overall impact is beneficial or harmful. Those who view social media positively point out that platforms allow people to stay connected with friends and family across long distances, access information instantly, and even build supportive communities around shared interests or challenges, such as rare illnesses or hobbies.
 
@@ -2048,13 +2048,13 @@ C. Social media should be banned in all schools.
 D. Social media has no effect on mental health.
 E. Only adults should be allowed to use social media.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 27).
 
 ---
 
-**113.** Is Social Media Doing More Harm Than Good?
+113. Is Social Media Doing More Harm Than Good?
 
 Social media has become deeply embedded in daily life, especially among teenagers, sparking ongoing debate about whether its overall impact is beneficial or harmful. Those who view social media positively point out that platforms allow people to stay connected with friends and family across long distances, access information instantly, and even build supportive communities around shared interests or challenges, such as rare illnesses or hobbies.
 
@@ -2072,13 +2072,13 @@ C. Because such posts often present an unrealistic standard, making viewers feel
 D. Because most users do not view others' posts at all.
 E. Because curated posts are always negative in tone.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 28).
 
 ---
 
-**114.** Is Social Media Doing More Harm Than Good?
+114. Is Social Media Doing More Harm Than Good?
 
 Social media has become deeply embedded in daily life, especially among teenagers, sparking ongoing debate about whether its overall impact is beneficial or harmful. Those who view social media positively point out that platforms allow people to stay connected with friends and family across long distances, access information instantly, and even build supportive communities around shared interests or challenges, such as rare illnesses or hobbies.
 
@@ -2096,13 +2096,13 @@ C. Removing all social media apps from smartphones.
 D. Educating young people on digital literacy and healthy usage habits.
 E. Punishing schools that allow phone use.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 29).
 
 ---
 
-**115.** Is Social Media Doing More Harm Than Good?
+115. Is Social Media Doing More Harm Than Good?
 
 Social media has become deeply embedded in daily life, especially among teenagers, sparking ongoing debate about whether its overall impact is beneficial or harmful. Those who view social media positively point out that platforms allow people to stay connected with friends and family across long distances, access information instantly, and even build supportive communities around shared interests or challenges, such as rare illnesses or hobbies.
 
@@ -2120,13 +2120,13 @@ C. It proves that social media has no drawbacks.
 D. It has no effect on the reader's understanding.
 E. It allows the reader to weigh multiple perspectives and arrive at a more nuanced understanding rather than a one-sided view.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 30).
 
 ---
 
-**116.** City Council Approves New Bike Lane Project
+116. City Council Approves New Bike Lane Project
 
 The city council voted 7-2 on Tuesday to approve a long-debated project that will add 15 kilometers of protected bike lanes throughout the downtown area, with construction set to begin next spring. The decision comes after nearly two years of public consultations, during which cycling advocates and local business owners frequently clashed over concerns about reduced parking space.
 
@@ -2144,13 +2144,13 @@ C. 9-0.
 D. 6-3.
 E. 8-1.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 31).
 
 ---
 
-**117.** City Council Approves New Bike Lane Project
+117. City Council Approves New Bike Lane Project
 
 The city council voted 7-2 on Tuesday to approve a long-debated project that will add 15 kilometers of protected bike lanes throughout the downtown area, with construction set to begin next spring. The decision comes after nearly two years of public consultations, during which cycling advocates and local business owners frequently clashed over concerns about reduced parking space.
 
@@ -2168,13 +2168,13 @@ C. They will only be used by buses.
 D. They will be built underground.
 E. They will replace all downtown parking permanently.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 32).
 
 ---
 
-**118.** City Council Approves New Bike Lane Project
+118. City Council Approves New Bike Lane Project
 
 The city council voted 7-2 on Tuesday to approve a long-debated project that will add 15 kilometers of protected bike lanes throughout the downtown area, with construction set to begin next spring. The decision comes after nearly two years of public consultations, during which cycling advocates and local business owners frequently clashed over concerns about reduced parking space.
 
@@ -2192,13 +2192,13 @@ C. Because similar projects in other cities reportedly led to increased local sp
 D. Because it will reduce their taxes significantly.
 E. Because it guarantees higher profits regardless of other factors.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 33).
 
 ---
 
-**119.** City Council Approves New Bike Lane Project
+119. City Council Approves New Bike Lane Project
 
 The city council voted 7-2 on Tuesday to approve a long-debated project that will add 15 kilometers of protected bike lanes throughout the downtown area, with construction set to begin next spring. The decision comes after nearly two years of public consultations, during which cycling advocates and local business owners frequently clashed over concerns about reduced parking space.
 
@@ -2216,13 +2216,13 @@ C. Cycling advocates opposed the project themselves.
 D. There was tension and disagreement, particularly regarding concerns about reduced parking space.
 E. There was no public discussion about the project at all.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 34).
 
 ---
 
-**120.** City Council Approves New Bike Lane Project
+120. City Council Approves New Bike Lane Project
 
 The city council voted 7-2 on Tuesday to approve a long-debated project that will add 15 kilometers of protected bike lanes throughout the downtown area, with construction set to begin next spring. The decision comes after nearly two years of public consultations, during which cycling advocates and local business owners frequently clashed over concerns about reduced parking space.
 
@@ -2240,13 +2240,13 @@ C. It implies that the quote is irrelevant to the article.
 D. It creates doubt about whether the project will actually improve safety.
 E. It lends a human, emotionally invested voice to the supporters' perspective, reinforcing the idea that the project addresses a long-standing safety concern.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 35).
 
 ---
 
-**121.** The Farmer and the Golden Fish
+121. The Farmer and the Golden Fish
 
 Long ago, in a small village by a quiet river, there lived a poor farmer named Tomas who spent his days working the dry, stubborn soil that barely yielded enough to feed his family. One evening, while walking along the riverbank, he found a fish with scales that shimmered like pure gold, gasping on the muddy shore where the water had receded.
 
@@ -2264,13 +2264,13 @@ C. An old fishing net.
 D. A wounded bird.
 E. A hidden treasure chest.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 36).
 
 ---
 
-**122.** The Farmer and the Golden Fish
+122. The Farmer and the Golden Fish
 
 Long ago, in a small village by a quiet river, there lived a poor farmer named Tomas who spent his days working the dry, stubborn soil that barely yielded enough to feed his family. One evening, while walking along the riverbank, he found a fish with scales that shimmered like pure gold, gasping on the muddy shore where the water had receded.
 
@@ -2288,13 +2288,13 @@ C. The wisdom to know when he had enough.
 D. Eternal life.
 E. The power to control the weather.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 37).
 
 ---
 
-**123.** The Farmer and the Golden Fish
+123. The Farmer and the Golden Fish
 
 Long ago, in a small village by a quiet river, there lived a poor farmer named Tomas who spent his days working the dry, stubborn soil that barely yielded enough to feed his family. One evening, while walking along the riverbank, he found a fish with scales that shimmered like pure gold, gasping on the muddy shore where the water had receded.
 
@@ -2312,13 +2312,13 @@ C. They were wealthier than Tomas from the very beginning.
 D. They admired Tomas's wisdom from the start of the story.
 E. They also caught golden fish and made wishes.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 38).
 
 ---
 
-**124.** The Farmer and the Golden Fish
+124. The Farmer and the Golden Fish
 
 Long ago, in a small village by a quiet river, there lived a poor farmer named Tomas who spent his days working the dry, stubborn soil that barely yielded enough to feed his family. One evening, while walking along the riverbank, he found a fish with scales that shimmered like pure gold, gasping on the muddy shore where the water had receded.
 
@@ -2336,13 +2336,13 @@ C. Because the fish had told the villagers to consult Tomas.
 D. Because Tomas remained calm and content despite hardship, unlike the wealthy landowners who despaired over their losses.
 E. Because Tomas offered them free food during the drought.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 39).
 
 ---
 
-**125.** The Farmer and the Golden Fish
+125. The Farmer and the Golden Fish
 
 Long ago, in a small village by a quiet river, there lived a poor farmer named Tomas who spent his days working the dry, stubborn soil that barely yielded enough to feed his family. One evening, while walking along the riverbank, he found a fish with scales that shimmered like pure gold, gasping on the muddy shore where the water had receded.
 
@@ -2360,13 +2360,13 @@ C. Farming is a more respectable profession than any other.
 D. Wishes granted by magical beings always lead to disaster.
 E. True contentment comes from appreciating what one has rather than constantly desiring more.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 40).
 
 ---
 
-**126.** How Do Noise-Cancelling Headphones Work?
+126. How Do Noise-Cancelling Headphones Work?
 
 Noise-cancelling headphones have become increasingly popular among travelers and office workers seeking to block out distracting background sounds. Although they might seem like ordinary headphones, they rely on a clever application of physics called "destructive interference" to actively reduce unwanted noise.
 
@@ -2384,13 +2384,13 @@ C. Diffraction.
 D. Refraction.
 E. Resonance.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 41).
 
 ---
 
-**127.** How Do Noise-Cancelling Headphones Work?
+127. How Do Noise-Cancelling Headphones Work?
 
 Noise-cancelling headphones have become increasingly popular among travelers and office workers seeking to block out distracting background sounds. Although they might seem like ordinary headphones, they rely on a clever application of physics called "destructive interference" to actively reduce unwanted noise.
 
@@ -2408,13 +2408,13 @@ C. Sudden, unpredictable sounds like a dog barking or a door slamming.
 D. Air conditioner hums.
 E. Any sound above a whisper.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 42).
 
 ---
 
-**128.** How Do Noise-Cancelling Headphones Work?
+128. How Do Noise-Cancelling Headphones Work?
 
 Noise-cancelling headphones have become increasingly popular among travelers and office workers seeking to block out distracting background sounds. Although they might seem like ordinary headphones, they rely on a clever application of physics called "destructive interference" to actively reduce unwanted noise.
 
@@ -2432,13 +2432,13 @@ C. Because the microphone would otherwise overheat.
 D. Because faster processing improves battery life significantly.
 E. Because it needs to play music louder.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 43).
 
 ---
 
-**129.** How Do Noise-Cancelling Headphones Work?
+129. How Do Noise-Cancelling Headphones Work?
 
 Noise-cancelling headphones have become increasingly popular among travelers and office workers seeking to block out distracting background sounds. Although they might seem like ordinary headphones, they rely on a clever application of physics called "destructive interference" to actively reduce unwanted noise.
 
@@ -2456,13 +2456,13 @@ C. Sudden sounds do not produce sound waves at all.
 D. The processor cannot predict or match a wave pattern that has no consistent, repeating structure quickly enough to cancel it.
 E. The headphones are designed only to block music, not real sounds.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 44).
 
 ---
 
-**130.** How Do Noise-Cancelling Headphones Work?
+130. How Do Noise-Cancelling Headphones Work?
 
 Noise-cancelling headphones have become increasingly popular among travelers and office workers seeking to block out distracting background sounds. Although they might seem like ordinary headphones, they rely on a clever application of physics called "destructive interference" to actively reduce unwanted noise.
 
@@ -2480,13 +2480,13 @@ C. It avoids explaining the topic altogether.
 D. It only lists technical terms without any real explanation.
 E. It explains the concept clearly by breaking down the process into simple, sequential steps and using relatable comparisons.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 45).
 
 ---
 
-**131.** From Street Vendor to Software Engineer: The Story of Amara Osei
+131. From Street Vendor to Software Engineer: The Story of Amara Osei
 
 Amara Osei grew up in a small trading town in Ghana, where she spent much of her childhood helping her mother sell vegetables at the local market instead of attending school regularly. It wasn't until she turned twelve, when a visiting teacher noticed her quick ability to calculate prices and change in her head, that anyone encouraged her academic potential.
 
@@ -2504,13 +2504,13 @@ C. Her talent for singing.
 D. Her skill in farming.
 E. Her interest in computer programming.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci resmi (Kompas 7 Sep 2026 soal 46).
 
 ---
 
-**132.** From Street Vendor to Software Engineer: The Story of Amara Osei
+132. From Street Vendor to Software Engineer: The Story of Amara Osei
 
 Amara Osei grew up in a small trading town in Ghana, where she spent much of her childhood helping her mother sell vegetables at the local market instead of attending school regularly. It wasn't until she turned twelve, when a visiting teacher noticed her quick ability to calculate prices and change in her head, that anyone encouraged her academic potential.
 
@@ -2528,13 +2528,13 @@ C. A social media platform.
 D. A navigation app for tourists.
 E. A language-learning app.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci resmi (Kompas 7 Sep 2026 soal 47).
 
 ---
 
-**133.** From Street Vendor to Software Engineer: The Story of Amara Osei
+133. From Street Vendor to Software Engineer: The Story of Amara Osei
 
 Amara Osei grew up in a small trading town in Ghana, where she spent much of her childhood helping her mother sell vegetables at the local market instead of attending school regularly. It wasn't until she turned twelve, when a visiting teacher noticed her quick ability to calculate prices and change in her head, that anyone encouraged her academic potential.
 
@@ -2552,13 +2552,13 @@ C. She wants to give them the same opportunity she once received, showing a sens
 D. She believes only women can be good programmers.
 E. She has no other candidates available to hire.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 48).
 
 ---
 
-**134.** From Street Vendor to Software Engineer: The Story of Amara Osei
+134. From Street Vendor to Software Engineer: The Story of Amara Osei
 
 Amara Osei grew up in a small trading town in Ghana, where she spent much of her childhood helping her mother sell vegetables at the local market instead of attending school regularly. It wasn't until she turned twelve, when a visiting teacher noticed her quick ability to calculate prices and change in her head, that anyone encouraged her academic potential.
 
@@ -2576,13 +2576,13 @@ C. They provided crucial opportunities that allowed her to learn programming des
 D. They prevented her from succeeding sooner.
 E. They were unnecessary since she already knew programming.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 49).
 
 ---
 
-**135.** From Street Vendor to Software Engineer: The Story of Amara Osei
+135. From Street Vendor to Software Engineer: The Story of Amara Osei
 
 Amara Osei grew up in a small trading town in Ghana, where she spent much of her childhood helping her mother sell vegetables at the local market instead of attending school regularly. It wasn't until she turned twelve, when a visiting teacher noticed her quick ability to calculate prices and change in her head, that anyone encouraged her academic potential.
 
@@ -2600,13 +2600,13 @@ C. It criticizes her for leaving her hometown.
 D. It implies her success was purely due to luck alone.
 E. It portrays her as a resilient and determined individual whose perseverance and access to opportunity led to meaningful success and community impact.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 50).
 
 ---
 
-**136.** The Last Umbrella
+136. The Last Umbrella
 
 The rain had been falling relentlessly since morning, and by the time Elena stepped out of the office, only one umbrella remained in the lost-and-found bin near the entrance, a plain black one with a slightly bent rib. She hesitated, wondering if its owner might return for it, but the streets were already flooding, and her bus stop was nearly ten minutes away.
 
@@ -2624,13 +2624,13 @@ C. On the bus.
 D. At the bus stop.
 E. In Marcus's bag.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 51).
 
 ---
 
-**137.** The Last Umbrella
+137. The Last Umbrella
 
 The rain had been falling relentlessly since morning, and by the time Elena stepped out of the office, only one umbrella remained in the lost-and-found bin near the entrance, a plain black one with a slightly bent rib. She hesitated, wondering if its owner might return for it, but the streets were already flooding, and her bus stop was nearly ten minutes away.
 
@@ -2648,13 +2648,13 @@ C. She shared the umbrella with Marcus and walked with him to the bus stop.
 D. She returned the umbrella to the lost-and-found bin.
 E. She sold the umbrella to Marcus.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 52).
 
 ---
 
-**138.** The Last Umbrella
+138. The Last Umbrella
 
 The rain had been falling relentlessly since morning, and by the time Elena stepped out of the office, only one umbrella remained in the lost-and-found bin near the entrance, a plain black one with a slightly bent rib. She hesitated, wondering if its owner might return for it, but the streets were already flooding, and her bus stop was nearly ten minutes away.
 
@@ -2672,13 +2672,13 @@ C. She wanted Marcus to owe her a favor.
 D. She disliked walking alone in the rain.
 E. Marcus threatened to take the umbrella from her.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 53).
 
 ---
 
-**139.** The Last Umbrella
+139. The Last Umbrella
 
 The rain had been falling relentlessly since morning, and by the time Elena stepped out of the office, only one umbrella remained in the lost-and-found bin near the entrance, a plain black one with a slightly bent rib. She hesitated, wondering if its owner might return for it, but the streets were already flooding, and her bus stop was nearly ten minutes away.
 
@@ -2696,13 +2696,13 @@ C. He felt relieved that Elena had taken it instead.
 D. He felt disappointed but chose not to complain, suggesting a quiet, accepting nature.
 E. He felt proud of himself for giving up the umbrella.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 54).
 
 ---
 
-**140.** The Last Umbrella
+140. The Last Umbrella
 
 The rain had been falling relentlessly since morning, and by the time Elena stepped out of the office, only one umbrella remained in the lost-and-found bin near the entrance, a plain black one with a slightly bent rib. She hesitated, wondering if its owner might return for it, but the streets were already flooding, and her bus stop was nearly ten minutes away.
 
@@ -2720,13 +2720,13 @@ C. It makes the reader feel that Marcus was treated unfairly.
 D. It has no particular emotional effect on the reader.
 E. It evokes a warm, heartfelt feeling about small acts of kindness and their lasting impact on others.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 55).
 
 ---
 
-**141.** Why Do Cats Purr?
+141. Why Do Cats Purr?
 
 Purring is one of the most recognizable sounds a domestic cat can make, yet scientists have long debated its exact purpose, as cats purr in a surprisingly wide range of situations, not just when content. While it is true that cats often purr while being petted or resting comfortably, many veterinarians have also observed cats purring while injured, giving birth, or even near death.
 
@@ -2744,13 +2744,13 @@ C. 200–300 hertz.
 D. 1–10 hertz.
 E. 500–600 hertz.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 56).
 
 ---
 
-**142.** Why Do Cats Purr?
+142. Why Do Cats Purr?
 
 Purring is one of the most recognizable sounds a domestic cat can make, yet scientists have long debated its exact purpose, as cats purr in a surprisingly wide range of situations, not just when content. While it is true that cats often purr while being petted or resting comfortably, many veterinarians have also observed cats purring while injured, giving birth, or even near death.
 
@@ -2768,13 +2768,13 @@ C. Only when hungry.
 D. Only around other cats.
 E. Only during veterinary visits.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 57).
 
 ---
 
-**143.** Why Do Cats Purr?
+143. Why Do Cats Purr?
 
 Purring is one of the most recognizable sounds a domestic cat can make, yet scientists have long debated its exact purpose, as cats purr in a surprisingly wide range of situations, not just when content. While it is true that cats often purr while being petted or resting comfortably, many veterinarians have also observed cats purring while injured, giving birth, or even near death.
 
@@ -2792,13 +2792,13 @@ C. Because purring in situations without contentment suggests the behavior may s
 D. Because it shows that purring has no real biological function.
 E. Because dying cats always recover after purring.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 58).
 
 ---
 
-**144.** Why Do Cats Purr?
+144. Why Do Cats Purr?
 
 Purring is one of the most recognizable sounds a domestic cat can make, yet scientists have long debated its exact purpose, as cats purr in a surprisingly wide range of situations, not just when content. While it is true that cats often purr while being petted or resting comfortably, many veterinarians have also observed cats purring while injured, giving birth, or even near death.
 
@@ -2816,13 +2816,13 @@ C. Only kittens produce purrs within a healing frequency range.
 D. The specific frequency range of purring overlaps with frequencies shown in some studies to support bone density and tissue healing.
 E. Purring frequency decreases as a cat heals.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 59).
 
 ---
 
-**145.** Why Do Cats Purr?
+145. Why Do Cats Purr?
 
 Purring is one of the most recognizable sounds a domestic cat can make, yet scientists have long debated its exact purpose, as cats purr in a surprisingly wide range of situations, not just when content. While it is true that cats often purr while being petted or resting comfortably, many veterinarians have also observed cats purring while injured, giving birth, or even near death.
 
@@ -2840,13 +2840,13 @@ C. It suggests the author is unsure whether cats actually purr.
 D. It has no effect on reader engagement.
 E. It captures the reader's curiosity by highlighting a puzzling behavior before offering a compelling scientific explanation.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 60).
 
 ---
 
-**146.** The Case for a Four-Day Work Week
+146. The Case for a Four-Day Work Week
 
 In recent years, a growing number of companies around the world have experimented with a four-day work week, reducing the standard workweek from five days to four while maintaining full pay for employees. Proponents argue that this shift is long overdue, given the significant changes in work practices brought about by remote technology and automation.
 
@@ -2864,13 +2864,13 @@ C. A complete collapse of company operations.
 D. No data was collected on productivity.
 E. Productivity became impossible to measure.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 61).
 
 ---
 
-**147.** The Case for a Four-Day Work Week
+147. The Case for a Four-Day Work Week
 
 In recent years, a growing number of companies around the world have experimented with a four-day work week, reducing the standard workweek from five days to four while maintaining full pay for employees. Proponents argue that this shift is long overdue, given the significant changes in work practices brought about by remote technology and automation.
 
@@ -2888,13 +2888,13 @@ C. Technology companies exclusively.
 D. Only small businesses.
 E. Only government agencies.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 62).
 
 ---
 
-**148.** The Case for a Four-Day Work Week
+148. The Case for a Four-Day Work Week
 
 In recent years, a growing number of companies around the world have experimented with a four-day work week, reducing the standard workweek from five days to four while maintaining full pay for employees. Proponents argue that this shift is long overdue, given the significant changes in work practices brought about by remote technology and automation.
 
@@ -2912,13 +2912,13 @@ C. The author appears cautiously supportive, acknowledging valid concerns while 
 D. The author believes it is only suitable for healthcare industries.
 E. The author argues it should be banned immediately.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 63).
 
 ---
 
-**149.** The Case for a Four-Day Work Week
+149. The Case for a Four-Day Work Week
 
 In recent years, a growing number of companies around the world have experimented with a four-day work week, reducing the standard workweek from five days to four while maintaining full pay for employees. Proponents argue that this shift is long overdue, given the significant changes in work practices brought about by remote technology and automation.
 
@@ -2936,13 +2936,13 @@ C. Because companies would hire more staff to compensate.
 D. Because the same total workload must be completed within a shorter time frame, potentially increasing pressure per working day.
 E. Because the workload would be permanently reduced.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 64).
 
 ---
 
-**150.** The Case for a Four-Day Work Week
+150. The Case for a Four-Day Work Week
 
 In recent years, a growing number of companies around the world have experimented with a four-day work week, reducing the standard workweek from five days to four while maintaining full pay for employees. Proponents argue that this shift is long overdue, given the significant changes in work practices brought about by remote technology and automation.
 
@@ -2960,13 +2960,13 @@ C. It implies that no companies will ever adopt this policy.
 D. It creates confusion about whether the policy exists at all.
 E. It leaves the reader with an optimistic, forward-looking impression that this workplace shift is likely to become increasingly widespread and normalized.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (Kompas 7 Sep 2026 soal 65).
 
 ---
 
-**151.** # BAGIAN B — detikEdu (detik.com), 7 Oktober 2026
+151. # BAGIAN B — detikEdu (detik.com), 7 Oktober 2026
 
 20 soal. Soal dikutip dari buku *Siaga Plus TKA SMK/MK* (Erif Ediyanto dkk., 2026). Banyak soal bertipe pilihan ganda kompleks ("Choose all that apply") dan True/False. Teks di bagian ini sebagian juga muncul di paket defantri (Bagian C) — lihat catatan di akhir bagian ini.
 
@@ -2982,13 +2982,13 @@ C. It provides students with online access to e-books, journals, and magazine th
 D. It encourages students to use additional references before joining classroom discussions.
 E. It helps teachers assign more learning activities that require digital resources.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci resmi (detikEdu Okt 2026 soal 1).
 
 ---
 
-**152.** To improve students reading habits, SMK Negeri Maju Jaya launched a school reading program called "Fifteen Minutes of Reading" in 2026. Before the first lesson begins each morning, students are encouraged to spend fifteen minutes reading books, newspapers, magazines, or digital articles related to their interests. Teachers also participate in the activity to set a good example for students. The program aims to increase students' reading motivation and broaden their knowledge beyond classroom materials.
+152. To improve students reading habits, SMK Negeri Maju Jaya launched a school reading program called "Fifteen Minutes of Reading" in 2026. Before the first lesson begins each morning, students are encouraged to spend fifteen minutes reading books, newspapers, magazines, or digital articles related to their interests. Teachers also participate in the activity to set a good example for students. The program aims to increase students' reading motivation and broaden their knowledge beyond classroom materials.
 
 Since the program was introduced, the school library has recorded a significant increase in the number of book loans and digital library visits. Teachers have observed that students are more confident in expressing their opinions during classroom discussions because they are exposed to a wider range of information. Some classes even organize monthly book review sessions, where students present the books they have read and recommend them to their classmates.
 
@@ -3002,13 +3002,13 @@ C. Holding a photography exhibition about nature.
 D. Conducting simple experiments on water filtration.
 E. Organizing a tree planting campaign around the school.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (detikEdu Okt 2026 soal 4).
 
 ---
 
-**153.** Many schools provide extracurricular clubs to help students develop different interest and skills. The Science Club focuses on conducting experiments and participating in science competitions. The Environmental Club organizes recycling programs, tree planting activities, and school clean up campaigns to promote environmental awareness.
+153. Many schools provide extracurricular clubs to help students develop different interest and skills. The Science Club focuses on conducting experiments and participating in science competitions. The Environmental Club organizes recycling programs, tree planting activities, and school clean up campaigns to promote environmental awareness.
 
 Meanwhile, the Health Club encourages healthy lifestyles by organizing health campaigns, exercise programs, and nutrition seminars. Although each club has different activities, they all aim to develop students knowledge, teamwork, and sense of responsibility.
 
@@ -3022,13 +3022,13 @@ C. Health Club.
 D. Sports Club.
 E. Art Club.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci resmi (detikEdu Okt 2026 soal 5).
 
 ---
 
-**154.** Many schools provide extracurricular clubs to help students develop different interest and skills. The Science Club focuses on conducting experiments and participating in science competitions. The Environmental Club organizes recycling programs, tree planting activities, and school clean up campaigns to promote environmental awareness.
+154. Many schools provide extracurricular clubs to help students develop different interest and skills. The Science Club focuses on conducting experiments and participating in science competitions. The Environmental Club organizes recycling programs, tree planting activities, and school clean up campaigns to promote environmental awareness.
 
 Meanwhile, the Health Club encourages healthy lifestyles by organizing health campaigns, exercise programs, and nutrition seminars. Although each club has different activities, they all aim to develop students knowledge, teamwork, and sense of responsibility.
 
@@ -3042,13 +3042,13 @@ C. 1) Causes of flooding; 2) River transportation; 3) Weather conditions.
 D. 1) Recycling process; 2) Types of plastic; 3) Factory production.
 E. 1) Rainy season; 2) Natural disasters; 3) Climate change.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (detikEdu Okt 2026 soal 7).
 
 ---
 
-**155.** Traffic congestion has become a major challenge in many large cities in Indonesia, especially during rush hours. The increasing number of private vehicles, limited road capacity, and rapid urban growth have contributed to this problem. As a result, many people spend long hours commuting, which reduces productivity and increases air pollution.
+155. Traffic congestion has become a major challenge in many large cities in Indonesia, especially during rush hours. The increasing number of private vehicles, limited road capacity, and rapid urban growth have contributed to this problem. As a result, many people spend long hours commuting, which reduces productivity and increases air pollution.
 
 To address traffic congestion, the government has expanded public transportation systems such as MRT, LRT, and Bus Rapid Transit services. It has also encouraged people to use public transportation by improving accessibility and integrating different transport networks. In addition, several cities have promoted cycling and walking by building safer pedestrian paths and bicycle lanes.
 
@@ -3062,13 +3062,13 @@ C. Teachers organized storytelling sessions for students.
 D. Local authors shared stories with students at school.
 E. The school library received more student visitors.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (detikEdu Okt 2026 soal 10).
 
 ---
 
-**156.** Many schools have introduced rules limiting the use of mobile phones during class. The main purpose of this policy is to help students stay focused on lessons and reduce distractions caused by social media, games, or messages. Teachers have reported that students participate more actively in classroom discussions and pay greater attention when mobile phones are not used during learning activities.
+156. Many schools have introduced rules limiting the use of mobile phones during class. The main purpose of this policy is to help students stay focused on lessons and reduce distractions caused by social media, games, or messages. Teachers have reported that students participate more actively in classroom discussions and pay greater attention when mobile phones are not used during learning activities.
 
 However, some educators believe that mobile phones can also support learning when used appropriately. Students can use educational applications, search for information, and access digital learning materials more quickly. Therefore, many schools apply balanced policies by allowing mobile phones only for educational purposes under the teacher's supervision.
 
@@ -3080,13 +3080,13 @@ C. Mobile phones should be banned everywhere at school.
 D. Mobile phones offer benefits but need proper regulation.
 E. Students use mobile phones mainly for entertainment.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (detikEdu Okt 2026 soal 11).
 
 ---
 
-**157.** Many schools have introduced rules limiting the use of mobile phones during class. The main purpose of this policy is to help students stay focused on lessons and reduce distractions caused by social media, games, or messages. Teachers have reported that students participate more actively in classroom discussions and pay greater attention when mobile phones are not used during learning activities.
+157. Many schools have introduced rules limiting the use of mobile phones during class. The main purpose of this policy is to help students stay focused on lessons and reduce distractions caused by social media, games, or messages. Teachers have reported that students participate more actively in classroom discussions and pay greater attention when mobile phones are not used during learning activities.
 
 However, some educators believe that mobile phones can also support learning when used appropriately. Students can use educational applications, search for information, and access digital learning materials more quickly. Therefore, many schools apply balanced policies by allowing mobile phones only for educational purposes under the teacher's supervision.
 
@@ -3098,13 +3098,13 @@ C. Schools should focus on gardens instead of other programs.
 D. Planting trees is the most effective way to improve education.
 E. Green spaces support both learning and students' well being.
 
-**Kunci: E**
+Kunci: E
 
 Pembahasan: Kunci tafsiran (detikEdu Okt 2026 soal 13).
 
 ---
 
-**158.** Exploring Bali's Natural Wonders
+158. Exploring Bali's Natural Wonders
 
 Bali, a beautiful island in Indonesia, is known for its stunning landscapes and rich culture. While many come for the beaches and temples, the island also offers natural attractions that amaze nature lovers from around the world. From national parks and waterfalls to terraced rice fields, Bali is full of natural beauty.
 
@@ -3124,13 +3124,13 @@ C. Stunning nature and remarkable sites.
 D. Generations and cultural conservation.
 E. Scenic beauty and local farming practices.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (detikEdu Okt 2026 soal 17).
 
 ---
 
-**159.** My Experience as an Intern at a Sports Club
+159. My Experience as an Intern at a Sports Club
 
 Last summer, I had the opportunity to work as an intern at a local sports club. It was my first time working in a professional sports environment, and I was both nervous and excited. The internship went through a few phases, starting from orientation until finally jumping in to help during practices and games.
 
@@ -3148,13 +3148,13 @@ C. Prepared a club gift, guided the coaches, and gave t-shirts.
 D. Woke up early, arrived on time, and followed the instructions.
 E. Set up cones, brought water, and checked emergency schedules.
 
-**Kunci: D**
+Kunci: D
 
 Pembahasan: Kunci tafsiran (detikEdu Okt 2026 soal 19).
 
 ---
 
-**160.** King Hung Vuong VI had a beautiful daughter. He did not want her to marry just any prince. So, he made an announcement that he was looking for the right husband for her. Many princes came from faraway lands, but none of them was a good match for the princess.
+160. King Hung Vuong VI had a beautiful daughter. He did not want her to marry just any prince. So, he made an announcement that he was looking for the right husband for her. Many princes came from faraway lands, but none of them was a good match for the princess.
 
 Son Tinh was the Spirit of the Mountain, and Thuy Tinh was the Spirit of the Waters. One day, they both appeared as young noblemen and asked to marry the princess. They were equally talented, powerful, and respected. The King found it hard to choose, so he decided to give them a test. He said that the one who brought the proper wedding gifts first the next morning would marry his daughter.
 
@@ -3170,13 +3170,13 @@ C. King Hung Vuong VI asked his daughter to choose her husband. The princess lik
 D. King Hung Vuong VI searched for a husband for his daughter. Son Tinh and Thuy Tinh wanted to marry her. The King gave them a challenge. Thuy Tinh lost the test and became angry. He called the waters to rise and destroy the land. Son Tinh drowned in the floods.
 E. The King wanted a nobleman for his daughter. He invited many princes to the palace. Son Tinh and Thuy Tinh competed for the princess. Son Tinh refused the challenge of gifts. The King chose Thuy Tinh as the winner. Thuy Tinh ruled peacefully without floods.
 
-**Kunci: B**
+Kunci: B
 
 Pembahasan: Kunci tafsiran (defantri Okt 2026 soal 1).
 
 ---
 
-**161.** King Hung Vuong VI had a beautiful daughter. He did not want her to marry just any prince. So, he made an announcement that he was looking for the right husband for her. Many princes came from faraway lands, but none of them was a good match for the princess.
+161. King Hung Vuong VI had a beautiful daughter. He did not want her to marry just any prince. So, he made an announcement that he was looking for the right husband for her. Many princes came from faraway lands, but none of them was a good match for the princess.
 
 Son Tinh was the Spirit of the Mountain, and Thuy Tinh was the Spirit of the Waters. One day, they both appeared as young noblemen and asked to marry the princess. They were equally talented, powerful, and respected. The King found it hard to choose, so he decided to give them a test. He said that the one who brought the proper wedding gifts first the next morning would marry his daughter.
 
@@ -3192,13 +3192,13 @@ C. He thought the princess loved him more.
 D. He wanted to show off his power to the king.
 E. He had promised to fight until death.
 
-**Kunci: A**
+Kunci: A
 
 Pembahasan: Kunci tafsiran (defantri Okt 2026 soal 2).
 
 ---
 
-**162.** King Hung Vuong VI had a beautiful daughter. He did not want her to marry just any prince. So, he made an announcement that he was looking for the right husband for her. Many princes came from faraway lands, but none of them was a good match for the princess.
+162. King Hung Vuong VI had a beautiful daughter. He did not want her to marry just any prince. So, he made an announcement that he was looking for the right husband for her. Many princes came from faraway lands, but none of them was a good match for the princess.
 
 Son Tinh was the Spirit of the Mountain, and Thuy Tinh was the Spirit of the Waters. One day, they both appeared as young noblemen and asked to marry the princess. They were equally talented, powerful, and respected. The King found it hard to choose, so he decided to give them a test. He said that the one who brought the proper wedding gifts first the next morning would marry his daughter.
 
@@ -3214,13 +3214,13 @@ C. Did what he had promised to do.
 D. Delayed the marriage for many days.
 E. The King asked the princes to bring more gifts.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (defantri Okt 2026 soal 4).
 
 ---
 
-**163.** My Experience as an Intern at a Sports Club
+163. My Experience as an Intern at a Sports Club
 
 Last summer, I had the opportunity to work as an intern at a local sports club. It was my first time working in a professional sports environment, and I was both nervous and excited. The internship went through a few phases, starting from orientation until finally jumping in to help during practices and games.
 
@@ -3238,6 +3238,6 @@ C. Look for another chance to work in a sports club.
 D. Study medicine to become a doctor.
 E. Train as a professional football player.
 
-**Kunci: C**
+Kunci: C
 
 Pembahasan: Kunci tafsiran (defantri Okt 2026 soal 16).
