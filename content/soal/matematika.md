@@ -3,6 +3,7 @@ judul: Latihan TKA Matematika — Lengkap
 mapel: Matematika
 tahun: 2026
 waktu: 50
+pembahasan: ya
 ---
 
 1. Uang Adinda Rp40.000,00 lebih banyak dari uang Binary ditambah dua kali uang Cindy. Jumlah uang Adinda, Binary, dan Cindy Rp200.000,00. Selisih uang Binary dan Cindy Rp10.000,00. Jumlah uang Adinda dan Binary adalah …
@@ -14,6 +15,7 @@ D. Rp162.000,00
 E. Rp172.000,00
 
 Kunci: E
+Pembahasan: Misal uang Cindy = C dan Binary = C + 10 (ribuan). Uang Adinda = (C + 10) + 2C + 40 = 3C + 50. Jumlah: 3C + 50 + C + 10 + C = 200 → 5C = 140 → C = 28; maka Adinda = 134 dan Binary = 38, jadi A + B = Rp172.000,00.
 
 ---
 
@@ -26,6 +28,7 @@ D. 208
 E. 250
 
 Kunci: C
+Pembahasan: Uji titik-titik pojok daerah kelayakan: (0, 6) memberi 4(0) + 28(6) = 168; (6,8; 0) memberi 4(6,8) + 28(0) = 27,2; perpotongan 5x + 4y = 34 dengan 3x + 5y = 30 adalah (50/13, 48/13) → ≈ 118,8. Nilai maksimum = 168 di (0, 6).
 
 ---
 
@@ -38,6 +41,7 @@ D. Rp10.200,00
 E. Rp9.500,00
 
 Kunci: B
+Pembahasan: Gabungkan fungsi: uang saku = P(f(t)) = 1.000(3t + 2) + 200 = 3.000t + 2.200. Untuk t = 3 jam: 3.000(3) + 2.200 = Rp11.200,00.
 
 ---
 
@@ -50,6 +54,7 @@ D. $a > 0$, $b > 0$ dan $c < 0$
 E. $a < 0$, $b > 0$ dan $c > 0$
 
 Kunci: E
+Pembahasan: Grafik memotong sumbu-x di nilai negatif sementara puncaknya (8, 4) di atas sumbu-x → parabola terbuka ke bawah, a < 0. Sumbu simetri x = −b/2a = 8 → b = −16a > 0. Akar-akarnya berbeda tanda (satu negatif, satu > 8) → hasil kali akar c/a < 0 → c > 0. Jadi a < 0, b > 0, c > 0.
 
 ---
 
@@ -62,6 +67,7 @@ D. 9 bulan
 E. 10 bulan
 
 Kunci: C
+Pembahasan: Bunga tunggal per bulan = 2.000.000 × 6% ÷ 12 = Rp10.000. Kenaikan = 2.080.000 − 2.000.000 = Rp80.000 → lama menabung 80.000 ÷ 10.000 = 8 bulan.
 
 ---
 
@@ -74,6 +80,7 @@ D. 224
 E. 256
 
 Kunci: C
+Pembahasan: 8 → 16 → 32 → 64; pada jam ke-96 (hari ke-4) menjadi 128 lalu ¼ dibunuh → 96; hari ke-5 → 192. Kunci sumber mengikuti barisan ini (menyatakan 192 pada hari keenam; jika doublings diteruskan sampai jam ke-144 hasilnya 384).
 
 ---
 
@@ -86,6 +93,7 @@ D. 7
 E. 6
 
 Kunci: D
+Pembahasan: Pasang koordinat A(0,0,0), B(9,0,0), C(9,4,0), D(0,4,0), E(0,0,6), F(9,0,6), G(9,4,6), H(0,4,6). K pusat bidang ADHE = (0, 2, 3). LH = 2GL dan GH = 9 → GL = 3 → L = (6, 4, 6). LK = √(6² + 2² + 3²) = √49 = 7 cm.
 
 ---
 
@@ -98,6 +106,7 @@ D. $A''(2, 1)$, $B''(2, 6)$, $C''(4, 5)$
 E. $A''(2, 1)$, $B''(6, 2)$, $C''(5, 4)$
 
 Kunci: B
+Pembahasan: Cermin sumbu-Y: (x, y) → (−x, y); rotasi +90°: (x, y) → (−y, x). A(2,1) → (−2,1) → (−1,−2); B(6,2) → (−6,2) → (−2,−6); C(5,4) → (−5,4) → (−4,−5).
 
 ---
 
@@ -110,6 +119,7 @@ D. 14,55 meter
 E. 15,55 meter
 
 Kunci: C
+Pembahasan: Tinggi tiang di atas mata = 12 × tan 45° = 12 m. Tinggi tiang = 12 + 1,55 = 13,55 m.
 
 ---
 
@@ -122,6 +132,7 @@ D. 600
 E. 720
 
 Kunci: B
+Pembahasan: Ketua dari XII: 6 pilihan; wakil & sekretaris dari XI/X (9 orang), P(9,2) = 72 → 6 × 72 = 432. Ketua dari XI: 5 pilihan; wakil & sekretaris hanya dari X (4 anak), P(4,2) = 12 → 5 × 12 = 60. Total = 432 + 60 = 492.
 
 ---
 
@@ -1127,6 +1138,7 @@ D. 2/5
 E. 1/2
 
 Kunci: C
+Pembahasan: Peluang bersyarat: P(F|M) = P(F∩M) ÷ P(M) = (6÷30) ÷ (18÷30) = 6÷18 = 1/3.
 
 ---
 

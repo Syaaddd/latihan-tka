@@ -53,6 +53,11 @@ export default function QuizPage() {
 
   const [urutan, setUrutan] = useState(() => acak(pool).slice(0, jumlah));
   const [jawaban, setJawaban] = useState(() => Array(jumlah).fill(null));
+
+  // Paket dengan `pembahasan: ya` di front matter menampilkan kunci + cara
+  // pengerjaan per soal SETELAH submit (permintaan Syadd, 27 Okt). Mapel lain
+  // tetap hanya persentase.
+  const pakaiPembahasan = /^(ya|true|1)$/i.test(paket?.meta?.pembahasan ?? "");
   const [idx, setIdx] = useState(0);
   const [sisa, setSisa] = useState(menit * 60);
   const [selesai, setSelesai] = useState(false);
@@ -179,8 +184,9 @@ export default function QuizPage() {
             {nilaiData.benar} benar dari {nilaiData.total} soal · {menit} menit
           </p>
           <p className="mx-auto mt-4 max-w-sm text-xs text-slate-400">
-            Jawaban tidak ditampilkan di sini. Mulai sesi baru — soalnya otomatis
-            diacak ulang supaya kamu benar-benar paham, bukan hafal urutan.
+            {pakaiPembahasan
+              ? "Pembahasan dan kunci per soal tampil di bawah, urut sesuai sesi kamu barusan."
+              : "Jawaban tidak ditampilkan di sini. Mulai sesi baru — soalnya otomatis diacak ulang supaya kamu benar-benar paham, bukan hafal urutan."}
           </p>
           <div className="mt-5 flex flex-wrap justify-center gap-2">
             <button
@@ -198,6 +204,77 @@ export default function QuizPage() {
             </Link>
           </div>
         </div>
+
+        {pakaiPembahasan && (
+          <section className="space-y-4">
+            <h2 className="text-lg font-bold text-slate-800 dark:text-slate-100">
+              Pembahasan per Soal
+            </h2>
+            {urutan.map((s, i) => {
+              const pilih = jawaban[i];
+              const benar = pilih === s.kunci;
+              return (
+                <article
+                  key={i}
+                  className={`rounded-xl border bg-white p-4 dark:bg-slate-900 sm:p-5 ${
+                    benar
+                      ? "border-emerald-300 dark:border-emerald-800"
+                      : "border-amber-300 dark:border-amber-800"
+                  }`}
+                >
+                  <p className="mb-2 flex flex-wrap items-center gap-2 text-sm font-semibold text-slate-700 dark:text-slate-200">
+                    <span>Soal {i + 1}</span>
+                    <span
+                      className={`rounded-full px-2 py-0.5 text-xs ${
+                        benar
+                          ? "bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300"
+                          : "bg-amber-100 text-amber-800 dark:bg-amber-950 dark:text-amber-300"
+                      }`}
+                    >
+                      {benar
+                        ? "✓ Benar"
+                        : pilih == null
+                          ? "• Kosong"
+                          : `✗ Jawabanmu ${pilih}`}
+                    </span>
+                    <span className="rounded-full bg-emerald-600/10 px-2 py-0.5 text-xs font-bold text-emerald-700 dark:text-emerald-300">
+                      Kunci {s.kunci}
+                    </span>
+                  </p>
+                  <div className="text-sm text-slate-800 dark:text-slate-100">
+                    <Markdown>{s.teks}</Markdown>
+                  </div>
+                  <ul className="mt-3 space-y-1 text-sm">
+                    {s.opsi.map((o) => (
+                      <li
+                        key={o.label}
+                        className={
+                          o.label === s.kunci
+                            ? "font-semibold text-emerald-700 dark:text-emerald-300"
+                            : "text-slate-600 dark:text-slate-300"
+                        }
+                      >
+                        {o.label}. {o.teks}
+                        {o.label === s.kunci ? " ✓" : ""}
+                      </li>
+                    ))}
+                  </ul>
+                  {s.pembahasan ? (
+                    <div className="mt-3 rounded-lg bg-slate-50 p-3 text-sm text-slate-700 dark:bg-slate-800/60 dark:text-slate-200">
+                      <span className="font-semibold">Pembahasan: </span>
+                      <Markdown>{s.pembahasan}</Markdown>
+                    </div>
+                  ) : (
+                    <p className="mt-3 text-xs italic text-slate-400">
+                      Pembahasan belum tersedia untuk soal ini — kuncinya tetap
+                      tampil.
+                    </p>
+                  )}
+                </article>
+              );
+            })}
+          </section>
+        )}
       </div>
     );
 
@@ -213,7 +290,9 @@ export default function QuizPage() {
             {paket.judul}
           </h1>
           <p className="text-xs text-slate-500">
-            {jumlah} soal acak · kunci tidak ditampilkan · urutan beda tiap sesi
+            {pakaiPembahasan
+              ? `${jumlah} soal acak · pembahasan tampil setelah submit · urutan beda tiap sesi`
+              : `${jumlah} soal acak · kunci tidak ditampilkan · urutan beda tiap sesi`}
           </p>
         </div>
         <Link
