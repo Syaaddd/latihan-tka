@@ -1,7 +1,7 @@
 ---
-judul: Matematika — Tryout TKA 1 (PROSUS INTEN)
+judul: Latihan TKA Matematika — Lengkap
 mapel: Matematika
-tahun: 2025/2026
+tahun: 2026
 waktu: 50
 ---
 
@@ -104,3 +104,77 @@ D. 600
 E. 720
 
 Kunci: B
+
+---
+
+11. Perhatikan tabel data berikut (total 110 guru):
+
+| Olahraga | Pria | Wanita | Total |
+| :--- | :---: | :---: | :---: |
+| Baseball | ? | 10 | 39 |
+| Basketball | 20 | ? | ? |
+| Bulutangkis | 14 | ? | 33 |
+| **Total** | ? | **47** | **110** |
+
+Jika seorang guru dipilih secara acak dan diketahui bahwa guru tersebut berjenis kelamin laki-laki, maka peluang bahwa ia bermain basket adalah ....
+
+A. $\frac{20}{110}$
+B. $\frac{20}{39}$
+C. $\frac{20}{63}$
+D. $\frac{20}{14}$
+E. $\frac{20}{33}$
+
+Kunci: C
+
+Pembahasan: Kunci tafsiran (dihitung, sumber tidak mencantumkan). Wanita total 47 sehingga pria 110 − 47 = 63 (baseball pria = 39 − 10 = 29; 29 + 20 + 14 = 63 konsisten). P(basket | pria) = 20/63.
+
+---
+
+12. Perhatikan tabel data berikut (total 110 guru):
+
+| Olahraga | Pria | Wanita | Total |
+| :--- | :---: | :---: | :---: |
+| Baseball | ? | 10 | 39 |
+| Basketball | 20 | ? | ? |
+| Bulutangkis | 14 | ? | 33 |
+| **Total** | ? | **47** | **110** |
+
+Seorang guru dipilih secara acak dari data tersebut. Jika diketahui bahwa guru tersebut bermain bulutangkis, pernyataan yang benar mengenai peluang ia perempuan adalah ....
+
+A. Nilainya sama dengan peluang perempuan secara keseluruhan, yaitu $\frac{47}{110}$
+B. Nilainya $\frac{19}{33}$ karena 33 orang bermain bulutangkis dan 19 di antaranya perempuan
+C. Tidak bisa ditentukan karena peluang tidak berlaku untuk data tabulasi
+D. Nilainya $\frac{14}{33}$ karena 14 laki-laki dari total pemain bulutangkis
+E. Nilainya $\frac{19}{110}$ karena 110 guru perempuan
+
+Kunci: B
+
+Pembahasan: Kunci tafsiran (dihitung, sumber tidak mencantumkan). Pemain bulutangkis 33, pria 14, sehingga wanita 33 − 14 = 19. P(wanita | bulutangkis) = 19/33.
+
+---
+
+13. Sebuah tangga sepanjang $10\text{ meter}$ disandarkan pada dinding dan membentuk sudut $60^\circ$ terhadap permukaan tanah. Berapakah jarak kaki tangga ke dinding?
+
+A. $5\sqrt{2}\text{ meter}$
+B. $10\text{ meter}$
+C. $5\text{ meter}$
+D. $5\sqrt{3}\text{ meter}$
+E. $3\text{ meter}$
+
+Kunci: C
+
+Pembahasan: Kunci tafsiran (dihitung, sumber tidak mencantumkan). Jarak kaki = 10 · cos 60° = 10 · 1/2 = 5 meter.
+
+---
+
+14. Dalam pertandingan bisbol sekolah, Ricky memukul bola ke arah lapangan. Ketinggian bola dalam meter setelah $t$ detik dipukul dimodelkan dengan persamaan $h(t) = -5t^2 + 35t$. Bola menyentuh tanah kembali saat ketinggiannya $0\text{ meter}$. Waktu ($t$) saat bola menyentuh tanah kembali adalah ....
+
+A. 2 detik
+B. 5 detik
+C. 3 detik
+D. 7 detik
+E. 6 detik
+
+Kunci: D
+
+Pembahasan: Kunci tafsiran (dihitung, sumber tidak mencantumkan). −5t² + 35t = 0 ⇒ 5t(7 − t) = 0 ⇒ t = 7 detik (bukan t = 0 saat dipukul).
