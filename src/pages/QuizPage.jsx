@@ -260,8 +260,8 @@ export default function QuizPage() {
                     ))}
                   </ul>
                   {s.pembahasan ? (
-                    <div className="mt-3 rounded-lg bg-slate-50 p-3 text-sm text-slate-700 dark:bg-slate-800/60 dark:text-slate-200">
-                      <span className="font-semibold">Pembahasan: </span>
+                    <div className="mt-4 rounded-lg border border-slate-200 bg-slate-50 p-3 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-800/60 dark:text-slate-200">
+                      <p className="mb-1.5 font-bold text-brand">💡 Pembahasan</p>
                       <Markdown>{s.pembahasan}</Markdown>
                     </div>
                   ) : (

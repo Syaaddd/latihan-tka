@@ -22,9 +22,6 @@ export default function App() {
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </main>
-        <footer className="border-t border-slate-200 py-6 text-center text-sm text-slate-500 dark:border-slate-800 dark:text-slate-400">
-          Latihan TKA — dibuat dengan React, Tailwind, dan berkas Markdown.
-        </footer>
       </div>
     </BrowserRouter>
   );
