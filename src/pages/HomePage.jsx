@@ -128,9 +128,7 @@ export default function HomePage() {
         </h1>
         <p className="mt-2 text-slate-600 dark:text-slate-400">
           Pilih paket, atur <b>jumlah soal</b> dan <b>waktu</b> (maks 30 soal ·
-          75 menit), lalu kerjakan.
-          Urutan soal diacak setiap sesi — di akhir kamu cuma lihat
-          <b> persentase nilai</b>, tanpa kunci jawaban dibocorkan.
+          75 menit), lalu kerjakan. Urutan soal diacak setiap sesi.
         </p>
         <div className="mt-4 flex flex-wrap gap-2 text-slate-600 dark:text-slate-400">
           <span className={`${chip} bg-brand-soft text-brand-strong dark:bg-slate-800 dark:text-brand-soft`}>
